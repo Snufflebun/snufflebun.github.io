@@ -52,7 +52,6 @@
 22<color=#A2E4B8>Prorag 97af</color>ⓩProrag 97afⓔ
 07<color=#30134>Monkee</color>ⓩ_MONKEE_ⓔ
 00ⓩYusalik c1fcⓔ
-31ⓩNormalMuffinⓔ
 13ⓩImpetusⓔ
 08<color=#38664c>Mr․Kale</color>ⓩMr․Kaleⓔ
 20<color=#8B0000>~iggy</color>ⓩ~iggyⓔ
@@ -65,7 +64,6 @@
 04<color=yellow>G</color>ears9333ⓩGears9333ⓔ
 23<color=#A020F0>GooodraJon</color>ⓩGooodraJonⓔ
 00<color=#FF0153>G</color>oreⓩGore~ⓔ
-23<color=#0097a7>Karu</color>ⓩKaru'ⓔ
 07<color=#cb83ff>luka</color><color=#9b83ff>gamer</color><color=#ff83d1>995</color>ⓩlukagamer995ⓔ
 14<color=#bda42a>POLarhAXS</color>ⓩPOLarhAXSⓔ
 00ⓩRunaboiiⓔ
@@ -85,15 +83,19 @@
 22ⓩzZTheWatcherZzⓔ
 14<color=red>G</color>orey<color=red>V</color>oreyⓩGoreyVoreyⓔ
 26ⓩBanjamin711ⓔ
-26<color=#6b5449>EpixBeast</color>ⓩEpixBeastⓔ
+26<color=#6b5449>Epix</color>ⓩEpix-ⓔ
 33<color=#f74343>phantmtrickster</color>ⓩphantmtricksterⓔ
 22<color=#BDA4B2>I</color>rxssⓩIrxssⓔ
 25<color=#28a99e>Kayden8669</color>ⓩKayden8669ⓔ
-11<color=#e01f35>Lilith</color>ⓩlilith_loves_uⓔ
 22<color=#ADD8E6>Linkjinx</color>ⓩLinkjinx 74c4ⓔ
 02<color=#fffd99>Mondo Butter</color>ⓩMatchu25ⓔ
-17<color=#ffb9de>Lovely Mya</color>ⓩLovely_Myaⓔ
+17<color=#ffb9de>Miyoko</color>ⓩᴍɪʏᴏᴋᴏⓔ
 14<color=#498cad>NewSample</color>ⓩNewSample 7319ⓔ
 06<color=red>ProfessorJack</color>ⓩProfessorJackⓔ
 18<color=#a0a1e2>M</color><color=#7fffd4>ochi</color>ⓩItzMochiiⓔ
 00<color=#00FF00>V</color>oice<color=#00FF00>O</color>f<color=#00FF00>J</color>aredⓩVoiceOfJaredⓔ
+00<color=red>E</color><color=#000000>T</color><color=#ffffff>E</color><color=#000000>R</color><color=red>N</color><color=#000000>A</color><color=#ffffff>L</color><color=#9900ff>Havoc</color>ⓩEternalHavocⓔ
+17<color=#E18ED6>-Nova-</color>ⓩ-XoNova-ⓔ
+06<color=#23afc4>Nathanmlife</color>ⓩnathanmlifeⓔ
+25<color=#ebecf0>Sh</color><color=#FBD4CB>Nikki</color>ⓩShNikkiⓔ
+00ⓩTenksBeGoodⓔ
