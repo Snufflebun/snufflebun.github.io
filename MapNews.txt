@@ -1,5 +1,8 @@
 Github: <color=green>Connected</color>
 
 
-<b>6th April</b>
-Yep its april and stuff.
+<b>15th April</b>
+Added V3 and other stuff.
+
+
+This is almost a final build its just writing up missing things left mostly.

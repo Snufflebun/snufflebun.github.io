@@ -1,3 +1,4 @@
+31<color=#1b6e9c>Cyan Fire</color>ⓩ~Cyan Fire~ⓔ
 00<color=cyan>-Trainleg-</color>ⓩ-Trainleg-ⓔ
 00<color=red>D</color><color=white>PSUrThroat e884</color>ⓩDPSUrThroat e884ⓔ
 00<color=red>B</color>oomerisback19ⓩBoomerisback19 8f7eⓔ
@@ -72,7 +73,7 @@
 02<color=#244047>ᴄʜ</color><color=#e5b3b5>ɪᴀ</color><color=#244047>ᴋɪ</color><color=#e5b3b5>~ღ</color>ⓩᴄʜɪᴀᴋɪ~ღⓔ
 14<color=#000080>L</color>il<color=#000080>W</color>eeb<color=#000080>B</color>eanⓩLilWeebBeanⓔ
 09<color=red>Bodhi Otter</color>ⓩBodhi-Otter 8f86ⓔ
-14<color=#52a790>Sneksandtarot</color>ⓩSneksandtarotⓔ
+14<color=#52a790>StaticSunsets</color>ⓩStaticSunsetsⓔ
 00<color=#8F00FF>K</color>ashmoney124ⓩKashmoney124ⓔ
 23<color=#FF5E5E>D</color>emi <color=#FF5E5E>F</color>austⓩDemiFaustⓔ
 22<color=#f542a7>P</color><color=#28b324>opiui</color>ⓩPopiuiⓔ

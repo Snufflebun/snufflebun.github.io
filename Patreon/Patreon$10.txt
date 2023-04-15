@@ -21,7 +21,7 @@
 00<color=#FFC0CB>mommasin</color>ⓩMommaAmberⓔ
 00<color=red>キ</color>ャスパーⓩキャスパーⓔ
 00ⓩBarry3131ⓔ
-31<color=#00FF00>Sophia</color>ⓩSophia_thevoiceⓔ
+313<color=#FFC0CB>Sophia</color>ⓩSophia_thevoiceⓔ
 23<color=#87c769>Midori</color>ⓩᴍɪᴅᴏʀɪ ｡｡｡ⓔ
 00ⓩGrunk 551bⓔ
 00ⓩNeonNexos a248ⓔ
@@ -98,7 +98,6 @@
 06<color=#E26310>Stanley</color>ⓩ«¡ Sᴛᴀɴʟᴇʏ༺ »ⓔ
 25<color=#2e0d7a>Ikki kurogane2</color>ⓩIkki kurogane2ⓔ
 07<color=red>Lilith Ruto</color>ⓩLilith Rutoⓔ
-31<color=#1b6e9c>Cyan Fire</color>ⓩ~Cyan Fire~ⓔ
 10<color=#673147>aswm</color>ⓩaswmⓔ
 31<color=#00FFFF>ｋｉｒｉｋｏ 家守 霧子</color>ⓩｋｉｒｉｋｏ 家守 霧子ⓔ
 00ⓩfuzionxunityⓔ
@@ -145,5 +144,10 @@
 14<color=#FF6E00>Flesh</color>ⓩFlesh_ⓔ
 00<color=#0090e2>Supa</color><color=#ff8c00>iku</color>ⓩSupaiku'ⓔ
 07<color=#8ab8ed>GayPencilCase</color>ⓩGayPencilCaseⓔ
-22<color=1F51FF>Logaster1999</color>ⓩLogaster1999ⓔ
+22<color=#1F51FF>Logaster1999</color>ⓩLogaster1999ⓔ
 22<color=#571B7>SWEET MORI</color>ⓩsᴡᴇᴇᴛ ᴍᴏʀɪⓔ
+00<color=#A020F0>E</color>nigmaⓩEñigmaⓔ
+25<color=#FFFFFF>The Wild Card</color>ⓩThe Wild Cardⓔ
+22<color=#B57FF2>MichelleDB</color>ⓩMichelleDBⓔ
+02<color=#ffffff>M</color><color=#e7cdcc>i</color><color=#d09c99>d</color><color=#b86b66>o</color><color=#a13a32>r</color><color=#8a0900>i</color>ⓩᴍɪᴅᴏʀɪ ｡｡｡ⓔ
+12<color=#A020F0>vNightmare I</color>ⓩvNightmare Iⓔ
