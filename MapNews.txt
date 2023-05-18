@@ -12,3 +12,5 @@ Almost every card has been changed or tweaked.
 Options and other features have moved to the monotablet ("M" key on pc/button next to head in vr).
 
 Missing card skins and some features will be added overtime.
+
+Kameko aura in GM panel is currently disabled untill next update.
