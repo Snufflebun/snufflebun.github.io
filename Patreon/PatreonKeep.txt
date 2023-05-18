@@ -19,7 +19,7 @@
 02<color=#A40707>KacperLexinton^</color>ⓩKacperLexinton＾ⓔ
 00<color=#000000>ღ</color>Nightling<color=#000000>ღ</color>ⓩღNightlingღⓔ
 00<color=red>S</color>nowstorm26ⓩSnowstorm26ⓔ
-12<color=#82EEFD>B</color>lue <color=#82EEFD>B</color>loomⓩBʅυҽBʅσσɱⓔ
+12<color=#AEF359>M</color>other <color=#AEF359>G</color>aiaⓩMσƚԋҽɾ_Gαιαⓔ
 00<color=red>Akirahhh</color>ⓩAkirahhhⓔ
 16<color=#AEF8E9>Afr0Panda</color>ⓩAfr0Pandaⓔ
 00<color=#FFC0CB>A N</color>erdy<color=#FFC0CB>S</color>ylveonⓩA_Nerdy_Sylveonⓔ
@@ -73,7 +73,6 @@
 02<color=#244047>ᴄʜ</color><color=#e5b3b5>ɪᴀ</color><color=#244047>ᴋɪ</color><color=#e5b3b5>~ღ</color>ⓩᴄʜɪᴀᴋɪ~ღⓔ
 14<color=#000080>L</color>il<color=#000080>W</color>eeb<color=#000080>B</color>eanⓩLilWeebBeanⓔ
 09<color=red>Bodhi Otter</color>ⓩBodhi-Otter 8f86ⓔ
-14<color=#52a790>StaticSunsets</color>ⓩStaticSunsetsⓔ
 00<color=#8F00FF>K</color>ashmoney124ⓩKashmoney124ⓔ
 23<color=#FF5E5E>D</color>emi <color=#FF5E5E>F</color>austⓩDemiFaustⓔ
 22<color=#f542a7>P</color><color=#28b324>opiui</color>ⓩPopiuiⓔ
@@ -100,3 +99,4 @@
 06<color=#23afc4>Nathanmlife</color>ⓩnathanmlifeⓔ
 25<color=#ebecf0>Sh</color><color=#FBD4CB>Nikki</color>ⓩShNikkiⓔ
 00ⓩTenksBeGoodⓔ
+14<color=#30701C>N</color><color=#131627,>O</color><color=#30701C>X</color>ⓩ༒₦ØӾ༒ⓔ

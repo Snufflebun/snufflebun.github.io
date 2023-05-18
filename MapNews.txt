@@ -1,8 +1,14 @@
 Github: <color=green>Connected</color>
 
 
-<b>15th April</b>
-Added V3 and other stuff.
+<b>19th May</b>
+After a long time in beta, the new version of the map is live.
 
+New UI.
+New synced action panel.
+Cards are now generated ingame.
+Item rulesets selectable by the GM.
+Almost every card has been changed or tweaked.
+Options and other features have moved to the monotablet ("M" key on pc/button next to head in vr).
 
-This is almost a final build its just writing up missing things left mostly.
+Missing card skins and some features will be added overtime.

@@ -61,7 +61,6 @@
 23<color=#990000>A</color>kio <color=#990000>T</color>sugikuniⓩAkio Tsugikuniⓔ
 12<color=#FFC0CB>cracky․s b974</color>ⓩcracky․s b974ⓔ
 07<color=#FDA4DA>A</color>veiⓩaveiⓔ
-18<color=#32CD32>Nox</color>ⓩ--Nox--ⓔ
 26<color=#FFC0CB>Yeetytoeman</color>ⓩYeetytoemanⓔ
 36<color=#62284F>M i k a n</color>ⓩ~ M i k a n ~ⓔ
 09<color=#5579C6>drifting_sky</color>ⓩdrifting_skyⓔ
@@ -103,12 +102,12 @@
 00ⓩfuzionxunityⓔ
 08<color=#00FFFF>M</color><color=black>onkey </color><color=#BF40BF>G</color><color=black>od</color>ⓩMonkey Godⓔ
 00<color=#A020F0>Ness Bees</color>ⓩNess Beesⓔ
-23<color=#64476F>JtDragonWolf</color>ⓩJtDragonWolf c01eⓔ
+23<color=#64476F>JtDragonWolf</color>ⓩJtDragonWolfⓔ
 22<color=#f20462>DivinaVulpine</color>ⓩDivinaVulpineⓔ
 09<color=#5ce1e6>Epsilon Ainsen</color>ⓩεpsilon αinsenⓔ
 10<color=#15BBE8>Shade_over</color>ⓩShade_overⓔ
 25<color=#ffb3de>seraphiminity</color>ⓩseraphiminityⓔ
-02<color=#8b0000>slitxzx</color>ⓩslitxzxⓔ
+09<color=#F62217>slitxzx</color>ⓩslitxzxⓔ
 23<color=#E6E6FA>Beta Angel</color>ⓩBeta_Angelⓔ
 07<color=#02359c>Kay ღ</color>ⓩKay ღⓔ
 23<color=#F8C8DC>Elliemorax</color>ⓩElliemoraxⓔ
@@ -119,11 +118,11 @@
 13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ
 00<color=#7960a3>F</color><color=#c9b2ba>oxxi</color><color=#7960a3>S</color><color=#c9b2ba>oul</color>ⓩFoxxiSoulⓔ
 23<color=#fbbf61>I</color> <color=#ffd89a>Elysium</color> <color=#fbbf61>I</color>ⓩI Elysium Iⓔ
-11<color=#fc88df>Crezioa</color>ⓩCrezioa d747ⓔ
+17<color=#ffc1cc>Crezioa</color>ⓩCrezioa d747ⓔ
 23FireLama0ⓩFireLama0ⓔ
 12<color=#BCB9D8>RaeOfSpades</color>ⓩRαεOŧSραδεsⓔ
 11<color=#A020F0>omgits</color><color=#FFFF00>beebo</color>ⓩomgitsbeeboⓔ
-22<color=#FFD580>Trippyboi</color>ⓩ-Trippyboi-ⓔ
+22<color=#DC143C>lamp</color>ⓩ~lamp~ⓔ
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
 02<color=#ffa600>Kom</color><color=#ab10a1>aru</color>ⓩKomaruPlayzⓔ
 36<color=#F8C8DC>LUX0s</color>ⓩLUX0sⓔ
@@ -151,3 +150,15 @@
 22<color=#B57FF2>MichelleDB</color>ⓩMichelleDBⓔ
 02<color=#ffffff>M</color><color=#e7cdcc>i</color><color=#d09c99>d</color><color=#b86b66>o</color><color=#a13a32>r</color><color=#8a0900>i</color>ⓩᴍɪᴅᴏʀɪ ｡｡｡ⓔ
 12<color=#A020F0>vNightmare I</color>ⓩvNightmare Iⓔ
+17<color=#FFD580>G</color>amerpto9026ⓩGamerpto9026 282eⓔ
+17<color=#800080>Experiment Saru</color>ⓩExperiment_Saruⓔ
+02<color=#F405B7>Mama Zuuja</color>ⓩMama Zuujaⓔ
+02<color=#eeaf61>Static</color><color=#ee5d6c>Sun</color><color=#6a0d83>sets</color>ⓩStaticSunsetsⓔ
+10<color=#00FFFF>N</color>EWCOMERVIIⓩNEWCOMERVIIⓔ
+25<color=#d56ea0>Gibz</color>ⓩMr Gibblesⓔ
+18<color=red>Nicole</color>ⓩnicolerouth 9b26ⓔ
+02<color=>Super</color><color=>Nova</color>ⓩSuperNova77ⓔ
+22<color=#710193>BendySIendy</color>ⓩBendySIendyⓔ
+00<color=#F0509A>Dividing Zer0</color>ⓩDividing Zer0ⓔ
+02<color=#ffb7c5>Taby</color>ⓩᴛᴀʙʏღⓔ
+03ⓩJustAFailureⓔ
