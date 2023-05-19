@@ -3,6 +3,7 @@ Github: <color=green>Connected</color>
 
 <b>19th May</b>
 After a long time in beta, the new version of the map is live.
+Completely remade from scratch using new vrc features.
 
 New UI.
 New synced action panel.
