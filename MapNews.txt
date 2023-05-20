@@ -1,17 +1,8 @@
 Github: <color=green>Connected</color>
 
 
-<b>19th May</b>
-After a long time in beta, the new version of the map is live.
-Completely remade from scratch using new vrc features.
+<b>20th May</b>
+Had to salvage the map from a backup again but it worked out, the world is now on latest version of sdk.
 
-New UI.
-New synced action panel.
-Cards are now generated ingame.
-Item rulesets selectable by the GM.
-Almost every card has been changed or tweaked.
-Options and other features have moved to the monotablet ("M" key on pc/button next to head in vr).
 
-Missing card skins and some features will be added overtime.
-
-Kameko aura in GM panel is currently disabled untill next update.
+Setup the downloader scripts, card changes and other features coming soon.
