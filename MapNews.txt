@@ -5,4 +5,4 @@ Github: <color=green>Connected</color>
 Had to salvage the map from a backup again but it worked out, the world is now on latest version of sdk.
 
 
-Setup the downloader scripts, card changes and other features coming soon.
+Setup the downloader scripts. Card changes and other features coming soon.
