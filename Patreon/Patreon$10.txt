@@ -8,18 +8,15 @@
 00<color=#34fb79>Lute</color>ⓩLuteⓔ
 14<color=#F8C8DC>Hecate Moon</color>ⓩHecate Moonⓔ
 22<color=#FFA500>Lady </color><color=#ADD8E6>C</color><color=#FFA500>alico</color>ⓩLady Calicoⓔ
-00<color=#558B2F>L</color>amian_<color=#558B2F>W</color>anⓩLamian_Wan 5b0cⓔ
 02<color=#0068FF>Hidden Ball Monokuma Sin</color>ⓩHidden Sinⓔ
 00<color=red>S</color>ushi<color=red>C</color>haserⓩSushiChaserⓔ
 21<color=red>vriska s3rket</color>ⓩvriska s3rketⓔ
 18<color=red>M</color><color=#d1d1d1>oondough16</color>ⓩmoondough16ⓔ
-00<color=orange>ඞS</color>imple_<color=orange>O</color>r4ngeⓩSimple_Or4ngeⓔ
 08<color=#87ceeb>Sir Kenny</color>ⓩSir Kennyⓔ
 29<color=#ed9751>S</color>amii<color=#ed9751>T</color>he<color=#ed9751>F</color>oxⓩSamiiTheFoxⓔ
 08<color=#39FF14>BREAD</color>ⓩNervx_x!ⓔ
 00<color=#19E8E5>Twitch XaCombat</color>ⓩTwitch XaCombatⓔ
 00<color=#FFC0CB>mommasin</color>ⓩMommaAmberⓔ
-00<color=red>キ</color>ャスパーⓩキャスパーⓔ
 00ⓩBarry3131ⓔ
 313<color=#FFC0CB>Sophia</color>ⓩSophia_thevoiceⓔ
 23<color=#87c769>Midori</color>ⓩᴍɪᴅᴏʀɪ ｡｡｡ⓔ
@@ -57,24 +54,19 @@
 32<color=#b4be81>Survivwh0re</color>ⓩSurvivwh0reⓔ
 02ⓩMacman741ⓔ
 13<color=#ffcfcb>jars</color>ⓩjarsieⓔ
-23<color=red>R</color><color=black>ed</color><color=red>R</color><color=black>ose</color><color=red>R</color><color=black>equired</color>ⓩRedRoseRequiredⓔ
 23<color=#990000>A</color>kio <color=#990000>T</color>sugikuniⓩAkio Tsugikuniⓔ
 12<color=#FFC0CB>cracky․s b974</color>ⓩcracky․s b974ⓔ
 07<color=#FDA4DA>A</color>veiⓩaveiⓔ
 26<color=#FFC0CB>Yeetytoeman</color>ⓩYeetytoemanⓔ
 36<color=#62284F>M i k a n</color>ⓩ~ M i k a n ~ⓔ
 09<color=#5579C6>drifting_sky</color>ⓩdrifting_skyⓔ
-30<color=red>Red</color><color=black>dragon27</color>ⓩReddragon27ⓔ
 07<color=black>G</color><color=#6d2aff>enocide</color>ⓩGenocide_ⓔ
 00<color=#FF5DCB>A</color>vrage<color=#FF5DCB>Z</color>ombieⓩAvrageZombieⓔ
-26<color=#DC143C>lKnightl</color>ⓩlKnightlⓔ
 00<color=red>A</color>lice <color=red>RP</color> <color=red>N</color>ameⓩAlice RP Nameⓔ
 12<color=#FFCBCB>Rosebl0ssom</color>ⓩRosebl0ssom 3af3ⓔ
 07<color=#be1c11>SamaelMustDie</color>ⓩSamaelMustDieⓔ
-00ⓩcodster3ⓔ
 00ⓩ_Roxis_ⓔ
 31<color=#206A28>Korekiyo308</color>ⓩKorekiyo308ⓔ
-18<color=#b9f2ff>Nero Sparda</color>ⓩNero Spardaⓔ
 15<color=#00FF46>NextActElsword</color>ⓩNextActElswordⓔ
 22<color=#eb0100>X</color>ekunⓩXekunⓔ
 02<color=#FF0000>DemonQueenShori</color>ⓩDemonQueenShoriⓔ
@@ -85,17 +77,14 @@
 08<color=#ff781f>RNSavage</color>ⓩ~RNSavage~ⓔ
 26<color=#FF69B4>CyberBasilisk</color>ⓩCyberBasiliskⓔ
 26<color=#A020F0>Rinasto</color>ⓩRinastoⓔ
-26<color=red>BackAlleyBlitz</color>ⓩBackAlleyBlitzⓔ
 22<color=#663399>D</color>esp<color=#663399>x</color>irⓩᴅᴇsᴘᴀɪʀⓔ
 11<color=#f995c2>Harlie</color>ⓩHarlieVTⓔ
 02Dr.<color=#FF2400>S</color><color=#98FF98>L</color><color=#FF2400>U</color><color=#98FF98>S</color><color=#FF2400>H</color><color=#98FF98>I</color><color=#FF2400>E</color>ⓩĐя․ֆʟʊֆɦɨɛⓔ
-05ⓩPhantom_Dajokerⓔ
 09<color=#4395d9>Queen</color><color=#e39cff>Lindz</color>ⓩQueenLindzⓔ
 00ⓩBonplomⓔ
 14<color=CAE9F5>Zero過労死</color>ⓩZero過労死ⓔ
 30<color=#0D98BA>NeverRight</color>ⓩNeverNight246ⓔ
 06<color=#E26310>Stanley</color>ⓩ«¡ Sᴛᴀɴʟᴇʏ༺ »ⓔ
-25<color=#2e0d7a>Ikki kurogane2</color>ⓩIkki kurogane2ⓔ
 07<color=red>Lilith Ruto</color>ⓩLilith Rutoⓔ
 10<color=#673147>aswm</color>ⓩaswmⓔ
 31<color=#00FFFF>ｋｉｒｉｋｏ 家守 霧子</color>ⓩｋｉｒｉｋｏ 家守 霧子ⓔ
@@ -103,50 +92,31 @@
 08<color=#00FFFF>M</color><color=black>onkey </color><color=#BF40BF>G</color><color=black>od</color>ⓩMonkey Godⓔ
 00<color=#A020F0>Ness Bees</color>ⓩNess Beesⓔ
 23<color=#64476F>JtDragonWolf</color>ⓩJtDragonWolfⓔ
-22<color=#f20462>DivinaVulpine</color>ⓩDivinaVulpineⓔ
 09<color=#5ce1e6>Epsilon Ainsen</color>ⓩεpsilon αinsenⓔ
-10<color=#15BBE8>Shade_over</color>ⓩShade_overⓔ
 25<color=#ffb3de>seraphiminity</color>ⓩseraphiminityⓔ
 09<color=#F62217>slitxzx</color>ⓩslitxzxⓔ
 23<color=#E6E6FA>Beta Angel</color>ⓩBeta_Angelⓔ
-07<color=#02359c>Kay ღ</color>ⓩKay ღⓔ
 23<color=#F8C8DC>Elliemorax</color>ⓩElliemoraxⓔ
-07<color=#ADD8E6>supersam463</color>ⓩsupersam463 c22dⓔ
 31<color=b7ffe6>Caustíx</color>ⓩCaustíxⓔ
-22<color=#000080>Luvlikody</color>ⓩLuvlikodyⓔ
-02<color=#8fec54>the1woomy</color>ⓩthe1woomyⓔ
 13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ
-00<color=#7960a3>F</color><color=#c9b2ba>oxxi</color><color=#7960a3>S</color><color=#c9b2ba>oul</color>ⓩFoxxiSoulⓔ
 23<color=#fbbf61>I</color> <color=#ffd89a>Elysium</color> <color=#fbbf61>I</color>ⓩI Elysium Iⓔ
 17<color=#ffc1cc>Crezioa</color>ⓩCrezioa d747ⓔ
-23FireLama0ⓩFireLama0ⓔ
 12<color=#BCB9D8>RaeOfSpades</color>ⓩRαεOŧSραδεsⓔ
-11<color=#A020F0>omgits</color><color=#FFFF00>beebo</color>ⓩomgitsbeeboⓔ
 22<color=#DC143C>lamp</color>ⓩ~lamp~ⓔ
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
 02<color=#ffa600>Kom</color><color=#ab10a1>aru</color>ⓩKomaruPlayzⓔ
-36<color=#F8C8DC>LUX0s</color>ⓩLUX0sⓔ
-36<color=red>Gh0stFac£</color>ⓩGh0stFac£ⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
 11<color=#FF69B4>KjTheDumbOcto</color>ⓩKjTheDumbOctoⓔ
-14<color=#ca0405>LocalKokichiKin</color>ⓩLocalKokichiKinⓔ
-25<color=#ffa500>Ikki kurogane2</color>ⓩIkki kurogane2ⓔ
 25<color=#A25AFF>Spirax</color>ⓩSpiraxⓔ
-32<color=#92fff9>MONOCHROME</color>ⓩᴍᴏɴᴏᴄʜʀᴏᴍᴇⓔ
 00<color=#FDA4BA>Lord Paws</color>ⓩLord_Paws a73eⓔ
 09<color=#75d2fc>Cyan</color>ⓩ_ Cyan _ⓔ
-00ⓩxiannnⓔ
-02<color=#8B0000>knight artorias</color>ⓩknight_artoriasⓔ
 16<color=#00FFB3>Palehead</color>ⓩPaleheadⓔ
-00<color=fb607f>GayVA</color>ⓩGayVAⓔ
 22<color=#A020F0>NormalMuffin</color>ⓩNormalMuffinⓔ
-14<color=#FF6E00>Flesh</color>ⓩFlesh_ⓔ
 00<color=#0090e2>Supa</color><color=#ff8c00>iku</color>ⓩSupaiku'ⓔ
 07<color=#8ab8ed>GayPencilCase</color>ⓩGayPencilCaseⓔ
 22<color=#1F51FF>Logaster1999</color>ⓩLogaster1999ⓔ
 22<color=#571B7>SWEET MORI</color>ⓩsᴡᴇᴇᴛ ᴍᴏʀɪⓔ
 00<color=#A020F0>E</color>nigmaⓩEñigmaⓔ
-25<color=#FFFFFF>The Wild Card</color>ⓩThe Wild Cardⓔ
 22<color=#B57FF2>MichelleDB</color>ⓩMichelleDBⓔ
 02<color=#ffffff>M</color><color=#e7cdcc>i</color><color=#d09c99>d</color><color=#b86b66>o</color><color=#a13a32>r</color><color=#8a0900>i</color>ⓩᴍɪᴅᴏʀɪ ｡｡｡ⓔ
 12<color=#A020F0>vNightmare I</color>ⓩvNightmare Iⓔ
