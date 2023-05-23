@@ -104,7 +104,7 @@
 12<color=#BCB9D8>RaeOfSpades</color>ⓩRαεOŧSραδεsⓔ
 22<color=#DC143C>lamp</color>ⓩ~lamp~ⓔ
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
-02<color=#ffa600>Kom</color><color=#ab10a1>aru</color>ⓩKomaruPlayzⓔ
+00Agent15ⓩAgent15ⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
 11<color=#FF69B4>KjTheDumbOcto</color>ⓩKjTheDumbOctoⓔ
 25<color=#A25AFF>Spirax</color>ⓩSpiraxⓔ
