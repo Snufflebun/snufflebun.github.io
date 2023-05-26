@@ -102,7 +102,7 @@
 23<color=#fbbf61>I</color> <color=#ffd89a>Elysium</color> <color=#fbbf61>I</color>ⓩI Elysium Iⓔ
 17<color=#ffc1cc>Crezioa</color>ⓩCrezioa d747ⓔ
 12<color=#BCB9D8>RaeOfSpades</color>ⓩRαεOŧSραδεsⓔ
-22<color=#DC143C>lamp</color>ⓩ~lamp~ⓔ
+22<color=#8F00FF>lamp</color>ⓩ~lamp~ⓔ
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
 00Agent15ⓩAgent15ⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
