@@ -8,4 +8,4 @@ Added graduated aura.
 
 Item drawing and item rulesets from beta version of map added.
 
-Some alts removed temporality due to inconsistency (Re-adding/editing will happen over time).
+Some alts removed temporarily due to inconsistency (Re-adding/editing will happen over time).
