@@ -1,8 +1,11 @@
-Github: <color=green>Connected</color>     <b>V3.5</b>
+Github: <color=green>Connected</color>     <b>V3.5a</b>
 
 
-<b>20th May</b>
-Had to salvage the map from a backup again but it worked out, the world is now on latest version of sdk.
+<b>28th May</b>
+All cards tweaked or changed, too many to list.
 
+Added graduated aura.
 
-Setup the downloader scripts. Card changes and other features coming soon.
+Item drawing and item rulesets from beta version of map added.
+
+Some alts removed temporality due to inconsistency (Re-adding/editing will happen over time).
