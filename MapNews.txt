@@ -9,3 +9,5 @@ Added graduated aura.
 Item drawing and item rulesets from beta version of map added.
 
 Some alts removed temporarily due to inconsistency (Re-adding/editing will happen over time).
+
+(Currently a bug causing ownership to not update properly for gm, only world master can claim gm right now)
