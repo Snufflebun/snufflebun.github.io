@@ -131,4 +131,5 @@
 00<color=#F0509A>Dividing Zer0</color>ⓩDividing Zer0ⓔ
 02<color=#ffb7c5>Taby</color>ⓩᴛᴀʙʏღⓔ
 03ⓩJustAFailureⓔ
-18<color=#3399ff>Kai Ivy102</color>ⓩkai_ivy102 5dc0ⓔ
+18<color=#475aff>Kai Ivy102</color>ⓩkai_ivy102 5dc0ⓔ
+31<color=#8B0000>X</color>ⓩ___________Xⓔ
