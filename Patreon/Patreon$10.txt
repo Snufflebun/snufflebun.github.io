@@ -133,7 +133,7 @@
 03ⓩJustAFailureⓔ
 36<color=#123dff>Alex</color>ⓩObviouslyAlexⓔ
 31<color=#8B0000>X</color>ⓩ___________Xⓔ
-00<color=#072A6C>JesusWasEvil0</color>ⓩJesusWasEvil0ⓔ
+36<color=#4d4dff>JesusWas</color><color=#f5f5dc>Evil</color><color=#4d4dff>0</color>ⓩJesusWasEvil0ⓔ
 23<color=#000000>I Angel I</color>ⓩI Angel Iⓔ
 26<color=#e46e00>Mr</color> <color=#004cba>Charzard</color><color=#ba8900>0721</color>ⓩMr_Charzard0721ⓔ
 13<color=#feffba>ღ ᴀʙʙɪ ღ</color>ⓩღ ᴀʙʙɪ ღⓔ
@@ -144,3 +144,4 @@
 11<color=#B99FBE>imichelle16 08ec</color>ⓩimichelle16 08ecⓔ
 03<color=#4287f5>Jace Starcaller</color>ⓩJace Starcallerⓔ
 11<color=#D084FF>✩ Aubrey ✩</color>ⓩღ ᴀᴜʙʀᴇʏ ღⓔ
+31<color=#19520b>jdthehero213</color>ⓩjdthehero213ⓔ
