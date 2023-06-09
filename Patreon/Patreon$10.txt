@@ -131,7 +131,7 @@
 00<color=#F0509A>Dividing Zer0</color>ⓩDividing Zer0ⓔ
 02<color=#ffb7c5>Taby</color>ⓩᴛᴀʙʏღⓔ
 03ⓩJustAFailureⓔ
-36<color=#123dff>Alex</color>ⓩObviouslyAlexⓔ
+08<color=#ac12ff>Alex</color>ⓩObviouslyAlexⓔ
 31<color=#8B0000>X</color>ⓩ___________Xⓔ
 36<color=#4d4dff>JesusWas</color><color=#f5f5dc>Evil</color><color=#4d4dff>0</color>ⓩJesusWasEvil0ⓔ
 23<color=#000000>I Angel I</color>ⓩI Angel Iⓔ
@@ -141,7 +141,7 @@
 23<color=#09b515>ʚιккι кυяσgαηєɞ</color>ⓩʚιккι кυяσgαηєɞⓔ
 23<color=#8A0303>CatatonicBaby</color>ⓩCatatonicBabyⓔ
 02<color=#DAF7A6>DEL</color><color=#73C6B6>TA</color>ⓩ-Delta-airline-ⓔ
-11<color=#B99FBE>iluvm4rs</color>ⓩiluvm4rsⓔ
+11<color=#B99FBE>Marsinthestars</color>ⓩMarsinthestarsⓔ
 03<color=#4287f5>Jace Starcaller</color>ⓩJace Starcallerⓔ
 11<color=#D084FF>✩ Aubrey ✩</color>ⓩღ ᴀᴜʙʀᴇʏ ღⓔ
 31<color=#19520b>jdthehero213</color>ⓩjdthehero213ⓔ
