@@ -1,6 +1,6 @@
-Github: <color=green>Connected</color>     <b>V3.5a</b>
+Github: <color=green>Connected</color>     <b>V3.5b</b>
 
-[MAP IS CURRENTLY BEING UPDATED TO V3.5B]
+[MAP IS CURRENTLY BEING UPDATED TO V3.5C]
 <b>31st May</b>
 Fixed a bug causing any non master who tries to claim gm to fail to change ownership and sometimes hang the script.
 Fixed other minor issues.
