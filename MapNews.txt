@@ -1,6 +1,22 @@
-Github: <color=green>Connected</color>     <b>V3.5b</b>
+Github: <color=green>Connected</color>     <b>V3.5c</b>
 
-[MAP IS CURRENTLY BEING UPDATED TO V3.5C]
-<b>31st May</b>
-Fixed a bug causing any non master who tries to claim gm to fail to change ownership and sometimes hang the script.
-Fixed other minor issues.
+<b>10th June</b>
+Fixed minor bugs.
+
+Cards Edited:
+Kokichi (V3)
+Mondo (DR1)
+Jataro (UDG)
+Koichi (Other)
+Karen (Tragedy)
+Takaaki (UDG)
+Seiko (Other)
+Fuyuhiko (DR2)
+Barry (FAN)
+Wrath (SECRET)
+
+Cards Added:
+Lilo (FAN)
+Reflet (FAN)
+Noelle (FAN)
+Regina (FAN)
