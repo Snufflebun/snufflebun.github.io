@@ -104,7 +104,6 @@
 22<color=#f20462>DivinaVulpine</color>ⓩDivinaVulpineⓔ
 26<color=#DC143C>lKnightl</color>ⓩlKnightlⓔ
 00<color=orange>ඞS</color>imple_<color=orange>O</color>r4ngeⓩSimple_Or4ngeⓔ
-23<color=red>R</color><color=black>ed</color><color=red>R</color><color=black>ose</color><color=red>R</color><color=black>equired</color>ⓩRedRoseRequiredⓔ
 05ⓩPhantom_Dajokerⓔ
 14<color=#ca0405>LocalKokichiKin</color>ⓩLocalKokichiKinⓔ
 26<color=red>BackAlleyBlitz</color>ⓩBackAlleyBlitzⓔ
