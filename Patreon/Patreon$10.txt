@@ -83,7 +83,7 @@
 10<color=#00FFFF>N</color>EWCOMERVIIⓩNEWCOMERVIIⓔ
 25<color=#d56ea0>Gibz</color>ⓩMr Gibblesⓔ
 18<color=red>Nicole</color>ⓩnicolerouth 9b26ⓔ
-02<color=>Super</color><color=>Nova</color>ⓩSuperNova77ⓔ
+14<color=#7d12ff>SuperNova</color>ⓩSuperNova77ⓔ
 22<color=#710193>BendySIendy</color>ⓩBendySIendyⓔ
 00<color=#F0509A>Dividing Zer0</color>ⓩDividing Zer0ⓔ
 02<color=#ffb7c5>Taby</color>ⓩᴛᴀʙʏღⓔ
@@ -94,7 +94,7 @@
 26<color=#e46e00>Mr</color> <color=#004cba>Charzard</color><color=#ba8900>0721</color>ⓩMr_Charzard0721ⓔ
 13<color=#feffba>ღ ᴀʙʙɪ ღ</color>ⓩღ ᴀʙʙɪ ღⓔ
 18ʚ<color=#ffc3df>Dracu</color><color= #ffabd2>Laura</color>ɞⓩʚDʀαculαuʀαɞⓔ
-23<color=#09b515>ʚιккι кυяσgαηєɞ</color>ⓩʚιккι кυяσgαηєɞⓔ
+26<color=red>ʚ</color>ιккι кυяσgαηє<color=red>ɞ</color>ⓩʚιккι кυяσgαηєɞⓔ
 23<color=#8A0303>CatatonicBaby</color>ⓩCatatonicBabyⓔ
 02<color=#DAF7A6>DEL</color><color=#73C6B6>TA</color>ⓩ-Delta-airline-ⓔ
 11<color=#B99FBE>Marsinthestars</color>ⓩMarsinthestarsⓔ
@@ -106,3 +106,4 @@
 23<color=red>R</color><color=#FFFFFF>ed</color><color=red>R</color><color=#FFFFFF>ose</color><color=red>R</color><color=#FFFFFF>equired</color>ⓩRedRoseRequiredⓔ
 36<color=#ff0000>LEIAM</color>ⓩLEIAM?ⓔ
 18Fuzionxunityⓩfuzionxunityⓔ
+10<color=#c91818>ceoleve</color>ⓩceoleve cb73ⓔ
