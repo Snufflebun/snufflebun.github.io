@@ -61,7 +61,7 @@
 09<color=#F62217>slitxzx</color>ⓩslitxzxⓔ
 31<color=b7ffe6>Caustíx</color>ⓩCaustíxⓔ
 13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ
-22<color=#808080>-Trippyboi-</color>ⓩ-Trippyboi-ⓔ
+12<color=#808080>-Trippyboi-</color>ⓩ-Trippyboi-ⓔ
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
 25<color=#00008B>Agent</color><color=#808080>15</color>ⓩAgent15ⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
@@ -87,7 +87,7 @@
 22<color=#710193>BendySIendy</color>ⓩBendySIendyⓔ
 00<color=#F0509A>Dividing Zer0</color>ⓩDividing Zer0ⓔ
 02<color=#ffb7c5>Taby</color>ⓩᴛᴀʙʏღⓔ
-08<color=#ac12ff>Alex</color>ⓩObviouslyAlexⓔ
+08<color=#de1016>Alex</color>ⓩObviouslyAlexⓔ
 31<color=#8B0000>X</color>ⓩ___________Xⓔ
 36<color=#4d4dff>JesusWas</color><color=#f5f5dc>Evil</color><color=#4d4dff>0</color>ⓩJesusWasEvil0ⓔ
 23<color=#000000>I Angel I</color>ⓩI Angel Iⓔ
@@ -107,3 +107,4 @@
 36<color=#ff0000>LEIAM</color>ⓩLEIAM?ⓔ
 18Fuzionxunityⓩfuzionxunityⓔ
 10<color=#c91818>ceoleve</color>ⓩceoleve cb73ⓔ
+17<color=#A46EA8>awhbrey</color>ⓩawhbreyⓔ
