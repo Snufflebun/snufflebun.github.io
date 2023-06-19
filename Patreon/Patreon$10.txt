@@ -4,7 +4,7 @@
 00<color=red>L</color>FFloeyⓩIFFloeyⓔ
 06<color=#50A2E2>HeyItsHaru</color>ⓩHeyItsHaruⓔ
 00♥ <color=red>J</color>essica ♥ⓩ♥ Jessica ♥ⓔ
-00<color=#34fb79>Lute</color>ⓩLuteⓔ
+00<color=#1ee650>Lute</color>ⓩLuteⓔ
 14<color=#F8C8DC>Confusion Queen</color>ⓩConfusion Queenⓔ
 22<color=#FFA500>Lady </color><color=#ADD8E6>C</color><color=#FFA500>alico</color>ⓩLady Calicoⓔ
 02<color=#0068FF>Hidden Ball Monokuma Sin</color>ⓩHidden Sinⓔ
@@ -88,7 +88,7 @@
 00<color=#F0509A>Dividing Zer0</color>ⓩDividing Zer0ⓔ
 02<color=#ffb7c5>Taby</color>ⓩᴛᴀʙʏღⓔ
 08<color=#de1016>Alex</color>ⓩObviouslyAlexⓔ
-31<color=black>X</color>ⓩ___________Xⓔ
+31<color=#000000>X</color>ⓩ___________Xⓔ
 36<color=#4d4dff>JesusWas</color><color=#f5f5dc>Evil</color><color=#4d4dff>0</color>ⓩJesusWasEvil0ⓔ
 23<color=#000000>I Angel I</color>ⓩI Angel Iⓔ
 26<color=#e46e00>Mr</color> <color=#004cba>Charzard</color><color=#ba8900>0721</color>ⓩMr_Charzard0721ⓔ
@@ -108,3 +108,4 @@
 18Fuzionxunityⓩfuzionxunityⓔ
 10<color=#c91818>ceoleve</color>ⓩceoleve cb73ⓔ
 17<color=#A46EA8>awhbrey</color>ⓩawhbreyⓔ
+14<color=#ffbe42>Реrfectiоn</color>ⓩРеrfectiоnⓔ
