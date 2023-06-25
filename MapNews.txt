@@ -1,22 +1,4 @@
-Github: <color=green>Connected</color>     <b>V3.5c</b>
+Github: <color=green>Connected</color>     <b>V3.5d</b>
 
-<b>10th June</b>
-Fixed minor bugs.
-
-Cards Edited:
-Kokichi (V3)
-Mondo (DR1)
-Jataro (UDG)
-Koichi (Other)
-Karen (Tragedy)
-Takaaki (UDG)
-Seiko (Other)
-Fuyuhiko (DR2)
-Barry (FAN)
-Wrath (SECRET)
-
-Cards Added:
-Lilo (FAN)
-Reflet (FAN)
-Noelle (FAN)
-Regina (FAN)
+<b>25th June</b>
+Just a few map tweaks and bug fixes for now.
