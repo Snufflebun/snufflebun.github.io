@@ -79,7 +79,6 @@
 17<color=#FFD580>G</color>amerpto9026ⓩGamerpto9026 282eⓔ
 17<color=#800080>Experiment Saru</color>ⓩExperiment_Saruⓔ
 02<color=#F405B7>Mama Zuuja</color>ⓩMama Zuujaⓔ
-02<color=#eeaf61>Static</color><color=#ee5d6c>Sun</color><color=#6a0d83>sets</color>ⓩStaticSunsetsⓔ
 10<color=#00FFFF>N</color>EWCOMERVIIⓩNEWCOMERVIIⓔ
 25<color=#d56ea0>Gibz</color>ⓩMr Gibblesⓔ
 18<color=red>Nicole</color>ⓩnicolerouth 9b26ⓔ
