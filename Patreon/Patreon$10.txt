@@ -113,4 +113,5 @@
 22<color=#13d7ed>Sir Skyfee</color>ⓩSir_Skyfeeⓔ
 02<color=#ca0aff>MythiixG4</color>ⓩMythiixG4ⓔ
 29<color=#ed9751>S</color>amii<color=#ed9751>T</color>he<color=#ed9751>F</color>oxⓩSamiiTheFoxⓔ
-22<color=#663399>D</color>esp<color=#663399>x</color>irⓩᴅᴇsᴘᴀɪʀⓔ
+22<color=#89CFF0>D</color>esp<color=#89CFF0>a</color>irⓩᴅᴇsᴘᴀɪʀⓔ
+00<color=#bb3333>A</color><color=#2b61a1>rcticBunnyBoy</color>ⓩArcticBunnyBoyⓔ
