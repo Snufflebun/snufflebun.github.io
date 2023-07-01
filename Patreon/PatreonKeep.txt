@@ -134,7 +134,6 @@
 00<color=#19E8E5>Twitch XaCombat</color>ⓩTwitch XaCombatⓔ
 08<color=#00FFFF>M</color><color=black>onkey </color><color=#BF40BF>G</color><color=black>od</color>ⓩMonkey Godⓔ
 26<color=#FF69B4>CyberBasilisk</color>ⓩCyberBasiliskⓔ
-22<color=#663399>D</color>esp<color=#663399>x</color>irⓩᴅᴇsᴘᴀɪʀⓔ
 23<color=#F8C8DC>Elliemorax</color>ⓩElliemoraxⓔ
 07<color=#00BDFF>TinyOWO9321</color>ⓩTinyOWO9321ⓔ
 14<color=CAE9F5>Zero過労死</color>ⓩZero過労死ⓔ
