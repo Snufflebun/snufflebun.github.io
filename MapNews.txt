@@ -1,4 +1,11 @@
-Github: <color=green>Connected</color>     <b>V3.5d</b>
+Github: <color=green>Connected</color>     <b>V3.5e</b>
 
-<b>25th June</b>
-Just a few map tweaks and bug fixes for now.
+<b>2nd July</b>
+Fixed isse of a script crash when unclaiming dorms.
+
+<b>Card Updates</b>
+Alice (YTTD)
+Sue (YTTD)
+Q-Taro (YTTD)
+Rio Ranger (YTTD)
+Queen Of Hatred (Secret)
