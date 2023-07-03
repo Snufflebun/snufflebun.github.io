@@ -21,7 +21,7 @@
 24<color=6800FF>Arsonist Racoon</color>ⓩarsonist racoonⓔ
 00ⓩAzura212ⓔ
 22<color=#440A7D>Chahut</color>ⓩChahutⓔ
-26<color=#6a0dad>JJGaming15</color>ⓩJJGaming15ⓔ
+14<color=#c203fc>JINX</color>ⓩJł₦Ӿⓔ
 00<color=#8c35de>Preyus</color>ⓩPreyusⓔ
 00<color=#9791F4>Azurite</color>ⓩAzuriteⓔ
 11<color=#ff0000>X</color><color=#ffffff>iao</color> <color=#ff0000>L</color><color=#ffffff>ing</color>ⓩSauce_Panⓔ
@@ -37,7 +37,7 @@
 02ⓩMacman741ⓔ
 13<color=#880808>Jarsaly</color>ⓩJarsalyⓔ
 23<color=#990000>A</color>kio <color=#990000>T</color>sugikuniⓩAkio Tsugikuniⓔ
-23<color=#800020>TIFFANY VOA</color>ⓩᴛɪғғᴀɴʏ ᴠᴏᴀⓔ
+03<color=#B93936>T</color>IFFANY <color=#B93936>V</color>OAⓩᴛɪғғᴀɴʏ ᴠᴏᴀⓔ
 00<color=#FF5DCB>A</color>vrage<color=#FF5DCB>Z</color>ombieⓩAvrageZombieⓔ
 00<color=red>A</color>lice <color=red>RP</color> <color=red>N</color>ameⓩAlice RP Nameⓔ
 12<color=#FFCBCB>Rosebl0ssom</color>ⓩRosebl0ssom 3af3ⓔ
