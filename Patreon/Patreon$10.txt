@@ -116,3 +116,4 @@
 00<color=#bb3333>A</color><color=#2b61a1>rcticBunnyBoy</color>ⓩArcticBunnyBoyⓔ
 13<color=#e5b3b5>Cinaaa</color>ⓩCinaaaⓔ
 13<color=#86A397>Aripyre</color>ⓩaripyreⓔ
+14<color=#8c03fc>shirofox42</color>ⓩshirofox42 6f86ⓔ
