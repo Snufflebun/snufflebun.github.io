@@ -95,7 +95,7 @@
 18ʚ<color=#ffc3df>Dracu</color><color= #ffabd2>Laura</color>ɞⓩʚDʀαculαuʀαɞⓔ
 26<color=#0000ffff>Ikki</color> <color=red>kurogane</color>ⓩʚιккι кυяσgαηєɞⓔ
 23<color=#8A0303>CatatonicBaby</color>ⓩCatatonicBabyⓔ
-02<color=#916262>Delta</color> <color=#69b3b3>airlines</color>ⓩ-Delta-airline-ⓔ
+02<color=#522f2f>Delta</color> <color=#a6401b>Airlines</color>ⓩ-Delta-airline-ⓔ
 11<color=#B99FBE>Marsinthestars</color>ⓩMarsinthestarsⓔ
 03<color=#4287f5>Jace Starcaller</color>ⓩJace Starcallerⓔ
 11<color=#D084FF>✩ Aubrey ✩</color>ⓩღ ᴀᴜʙʀᴇʏ ღⓔ
@@ -117,3 +117,4 @@
 13<color=#e5b3b5>Cinaaa</color>ⓩCinaaaⓔ
 13<color=#86A397>Aripyre</color>ⓩaripyreⓔ
 14<color=#8c03fc>shirofox42</color>ⓩshirofox42 6f86ⓔ
+02<color=#fc03ca>MillsKT</color>ⓩMillsKTⓔ
