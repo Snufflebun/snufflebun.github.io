@@ -153,3 +153,4 @@
 00<color=yellow>K</color>o-_<color=yellow>-</color>NoⓩKo-_-Noⓔ
 23<color=white>lalatte</color>ⓩ~lalatte~ⓔ
 02<color=#eeaf61>Static</color><color=#ee5d6c>Sun</color><color=#6a0d83>sets</color>ⓩStaticSunsetsⓔ
+10<color=#ff5340>Trippyboi</color>ⓩ-Trippyboi-ⓔ

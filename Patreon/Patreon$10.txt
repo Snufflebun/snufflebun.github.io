@@ -61,7 +61,6 @@
 09<color=#F62217>slitxzx</color>ⓩslitxzxⓔ
 31<color=b7ffe6>Caustíx</color>ⓩCaustíxⓔ
 13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ
-10<color=#FFC0CB>Trippyboi</color>ⓩ-Trippyboi-ⓔ
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
 25<color=#00008B>Agent</color><color=#808080>15</color>ⓩAgent15ⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
@@ -118,3 +117,4 @@
 13<color=#86A397>Aripyre</color>ⓩaripyreⓔ
 14<color=#8c03fc>shirofox42</color>ⓩshirofox42 6f86ⓔ
 02<color=#fc03ca>MillsKT</color>ⓩMillsKTⓔ
+06<color=#ffdef3>ѕηαggѕ</color>ⓩѕηαggѕⓔ
