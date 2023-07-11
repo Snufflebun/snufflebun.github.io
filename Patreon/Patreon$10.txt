@@ -104,7 +104,7 @@
 23<color=red>R</color><color=#FFFFFF>ed</color><color=red>R</color><color=#FFFFFF>ose</color><color=red>R</color><color=#FFFFFF>equired</color>ⓩRedRoseRequiredⓔ
 36<color=#ff0000>LEIAM</color>ⓩLEIAM?ⓔ
 18Fuzionxunityⓩfuzionxunityⓔ
-10<color=#c91818>ceoleve</color>ⓩceoleve cb73ⓔ
+00<color=#c91818>Ceoleve</color>ⓩCeoleve cb73ⓔ
 17<color=#A46EA8>awhbrey</color>ⓩawhbreyⓔ
 14<color=#ffbe42>Реrfectiоn</color>ⓩРеrfectiоnⓔ
 26<color=#9F2B68>Zoe The Queen</color>ⓩZoe The Queenⓔ
@@ -119,3 +119,4 @@
 02<color=#fc03ca>MillsKT</color>ⓩMillsKTⓔ
 06<color=#ffdef3>snaggs</color>ⓩѕηαggѕⓔ
 22<color=#ffffff>REEMIUM</color>ⓩREEMIUMⓔ
+26Jaden143ⓩJaden143 de30ⓔ
