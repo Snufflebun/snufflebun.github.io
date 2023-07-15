@@ -120,4 +120,4 @@
 22<color=#ffffff>REEMIUM</color>ⓩREEMIUMⓔ
 26Jaden143ⓩJaden143 de30ⓔ
 14<color=#660f09>Onyx_1112</color>ⓩ°《Onyx_1112》°ⓔ
-26<color=#9e66cc>ドリップなし</color>ⓩドリップなしⓔ
+26<color=#9e66cc><size=50%>ドリップな</size> Nodripし</color>ⓩドリップなしⓔ
