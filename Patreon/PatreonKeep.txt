@@ -94,7 +94,6 @@
 06<color=red>ProfessorJack</color>ⓩProfessorJackⓔ
 18<color=#a0a1e2>M</color><color=#7fffd4>ochi</color>ⓩItzMochiiⓔ
 00<color=#00FF00>V</color>oice<color=#00FF00>O</color>f<color=#00FF00>J</color>aredⓩVoiceOfJaredⓔ
-00<color=red>E</color><color=#000000>T</color><color=#ffffff>E</color><color=#000000>R</color><color=red>N</color><color=#000000>A</color><color=#ffffff>L</color><color=#9900ff>Havoc</color>ⓩEternalHavocⓔ
 17<color=#E18ED6>-Nova-</color>ⓩ-XoNova-ⓔ
 06<color=#23afc4>Nathanmlife</color>ⓩnathanmlifeⓔ
 25<color=#ebecf0>Sh</color><color=#FBD4CB>Nikki</color>ⓩShNikkiⓔ
