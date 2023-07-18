@@ -86,7 +86,6 @@
 00<color=#F0509A>Dividing Zer0</color>ⓩDividing Zer0ⓔ
 02<color=#ffb7c5>Taby</color>ⓩᴛᴀʙʏღⓔ
 07<color=#ff87c6>Alex</color>ⓩObviouslyAlexⓔ
-31<color=#000000>X</color>ⓩ___________Xⓔ
 36<color=#4d4dff>JesusWas</color><color=#f5f5dc>Evil</color><color=#4d4dff>0</color>ⓩJesusWasEvil0ⓔ
 23<color=#000000>I Angel I</color>ⓩI Angel Iⓔ
 26<color=#e46e00>Mr</color> <color=#004cba>Charzard</color><color=#ba8900>0721</color>ⓩMr_Charzard0721ⓔ
