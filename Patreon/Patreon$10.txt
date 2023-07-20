@@ -62,7 +62,7 @@
 31<color=b7ffe6>Caustíx</color>ⓩCaustíxⓔ
 13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
-25<color=#00008B>Agent</color><color=#808080>15</color>ⓩAgent15ⓔ
+25<color=#00008B>รɦٱกٱﻭค๓ٱ</color><color=#808080>15</color>ⓩรɦٱกٱﻭค๓ٱⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
 11<color=#FF69B4>KjTheDumbOcto</color>ⓩKjTheDumbOctoⓔ
 25<color=#A25AFF>Spirax</color>ⓩSpiraxⓔ
@@ -121,3 +121,4 @@
 14<color=#660f09>Onyx_1112</color>ⓩ°《Onyx_1112》°ⓔ
 26<color=#9e66cc><size=25%>ドリップなし</size> Nodrip</color>ⓩドリップなしⓔ
 00<color=red>E</color><color=#000000>T</color><color=#ffffff>E</color><color=#000000>R</color><color=red>N</color><color=#000000>A</color><color=#ffffff>L</color><color=#9900ff>Havoc</color>ⓩEternalHavocⓔ
+23<color=#1ce852>ToxiShadow</color>ⓩToxiShadowⓔ
