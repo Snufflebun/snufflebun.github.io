@@ -3,7 +3,8 @@ Github: <color=green>Connected</color>     <b>V3.5f</b>
 <b>23rd July</b>
 Just small card updates, items and bigger world changes next week.
 
-[Weapons don't spawn in the correct spot right now]
+Knife/Gun/Mop now correctly claim ownership and move with their dorm buttons.
+Removed deprecated code that may of been interfering with auto teleporting during action phase 2.
 
 <b>Card Updates:</b>
 Daiya (DR1)
