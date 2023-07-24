@@ -4,7 +4,7 @@ Github: <color=green>Connected</color>     <b>V3.5f</b>
 Just small card updates, items and bigger world changes next week.
 
 Knife/Gun/Mop now correctly claim ownership and move with their dorm buttons.
-Removed deprecated code that may of been interfering with auto teleporting during action phase 2.
+Removed deprecated code that may of been interfering with auto teleportation during action phase 2.
 
 <b>Card Updates:</b>
 Daiya (DR1)
