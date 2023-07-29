@@ -107,7 +107,6 @@
 14<color=#ca0405>LocalKokichiKin</color>ⓩLocalKokichiKinⓔ
 26<color=red>BackAlleyBlitz</color>ⓩBackAlleyBlitzⓔ
 00<color=red>キ</color>ャスパーⓩキャスパーⓔ
-00ⓩcodster3ⓔ
 30<color=red>Red</color><color=black>dragon27</color>ⓩReddragon27ⓔ
 18<color=#b9f2ff>Nero Sparda</color>ⓩNero Spardaⓔ
 00<color=#7960a3>F</color><color=#c9b2ba>oxxi</color><color=#7960a3>S</color><color=#c9b2ba>oul</color>ⓩFoxxiSoulⓔ
