@@ -1,7 +1,7 @@
 Github: <color=green>Connected</color>     <b>V3.5f</b>
 
 <b>23rd July</b>
-Just small card updates, items and bigger world changes next week.
+Just small card updates, items and bigger world changes 5th Aug (sorry).
 
 Knife/Gun/Mop now correctly claim ownership and move with their dorm buttons.
 Removed deprecated code that may of been interfering with auto teleportation during action phase 2.
