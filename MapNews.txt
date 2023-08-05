@@ -1,14 +1,14 @@
-Github: <color=green>Connected</color>     <b>V3.5f</b>
+Github: <color=green>Connected</color>     <b>V3.6</b>
 
-<b>23rd July</b>
-Just small card updates, items and bigger world changes 5th Aug (sorry).
-
-Knife/Gun/Mop now correctly claim ownership and move with their dorm buttons.
-Removed deprecated code that may of been interfering with auto teleportation during action phase 2.
+<b>5th Aug</b>
+Minor code tweaks.
+Max height in map is set to 2.6m
 
 <b>Card Updates:</b>
-Daiya (DR1)
-Kannon (Novel)
-Kaede (V3)
-Suzuko (Tragedy)
-Community Card (Secret)
+Almost all items tweaked/changed. Check the item list in the DRN discord for complete item changes.
+
+Ishiki (Novel)
+Maki (V3)
+Ayaka (UDG)
+Sato (Other)
+Lilo (Fan)
