@@ -161,3 +161,8 @@
 22<color=#B57FF2>MichelleDB</color>ⓩMichelleDBⓔ
 00<color=#A020F0>E</color>nigmaⓩEñigmaⓔ
 22<color=#1F51FF>Logaster1999</color>ⓩLogaster1999ⓔ
+00<color=#A020F0>Ness Bees</color>ⓩNess Beesⓔ
+23<color=#64476F>JtDragonWolf</color>ⓩJtDragonWolfⓔ
+14<color=#7d12ff>SuperNova</color>ⓩSuperNova77ⓔ
+02<color=#F405B7>Mama Zuuja</color>ⓩMama Zuujaⓔ
+22<color=#89CFF0>D</color>esp<color=#89CFF0>a</color>irⓩᴅᴇsᴘᴀɪʀⓔ

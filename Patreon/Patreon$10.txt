@@ -51,8 +51,6 @@
 09<color=#4395d9>Queen</color><color=#e39cff>Lindz</color>ⓩQueenLindzⓔ
 00ⓩBonplomⓔ
 30<color=#0D98BA>NeverRight</color>ⓩNeverNight246ⓔ
-00<color=#A020F0>Ness Bees</color>ⓩNess Beesⓔ
-23<color=#64476F>JtDragonWolf</color>ⓩJtDragonWolfⓔ
 09<color=#5ce1e6>Epsilon Ainsen</color>ⓩεpsilon αinsenⓔ
 25<color=#ffb3de>seraphiminity</color>ⓩseraphiminityⓔ
 09<color=#F62217>slitxzx</color>ⓩslitxzxⓔ
@@ -71,10 +69,8 @@
 12<color=#A020F0>vNightmare I</color>ⓩvNightmare Iⓔ
 17<color=#FFD580>G</color>amerpto9026ⓩGamerpto9026 282eⓔ
 17<color=#800080>Experiment Saru</color>ⓩExperiment_Saruⓔ
-02<color=#F405B7>Mama Zuuja</color>ⓩMama Zuujaⓔ
 10<color=#00FFFF>N</color>EWCOMERVIIⓩNEWCOMERVIIⓔ
 25<color=#d56ea0>Gibz</color>ⓩMr Gibblesⓔ
-14<color=#7d12ff>SuperNova</color>ⓩSuperNova77ⓔ
 22<color=#710193>BendySIendy</color>ⓩBendySIendyⓔ
 00<color=#F0509A>Dividing Zer0</color>ⓩDividing Zer0ⓔ
 07<color=#ff87c6>Alex</color>ⓩObviouslyAlexⓔ
@@ -91,11 +87,7 @@
 00<color=#c91818>Ceoleve</color>ⓩCeoleve cb73ⓔ
 22<color=#13d7ed>Sir Skyfee</color>ⓩSir_Skyfeeⓔ
 29<color=#ed9751>S</color>amii<color=#ed9751>T</color>he<color=#ed9751>F</color>oxⓩSamiiTheFoxⓔ
-22<color=#89CFF0>D</color>esp<color=#89CFF0>a</color>irⓩᴅᴇsᴘᴀɪʀⓔ
-00<color=#bb3333>A</color><color=#2b61a1>rcticBunnyBoy</color>ⓩArcticBunnyBoyⓔ
 13<color=#e5b3b5>Cinaaa</color>ⓩCinaaaⓔ
-13<color=#86A397>Aripyre</color>ⓩaripyreⓔ
-14<color=#8c03fc>shirofox42</color>ⓩshirofox42 6f86ⓔ
 02<color=#fc03ca>MillsKT</color>ⓩMillsKTⓔ
 06<color=#ffdef3>snaggs</color>ⓩѕηαggѕⓔ
 22<color=#ffffff>REEMIUM</color>ⓩREEMIUMⓔ
