@@ -106,3 +106,4 @@
 12<color=#6ac4ff>Nagisa</color><color=#ce57a5>Adelheid</color>ⓩNagisaAdelheidⓔ
 02<color=#fc03e7>Cray aka Crazy</color>ⓩCray aka Crazyⓔ
 12<color=#03adfc>tsukasa-tenma</color>ⓩtsukasa-tenmaⓔ
+02<color=#911313>Cherry Blossom1</color>ⓩCherry Blossom1ⓔ
