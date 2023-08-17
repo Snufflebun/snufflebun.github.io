@@ -57,7 +57,7 @@
 31<color=b7ffe6>Caustíx</color>ⓩCaustíxⓔ
 13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
-25<color=#FFFF00>รɦٱ</color><color=#FFFFFF>ก</color>ٱ<color=#800080>ﻭค</color><#000000>๓ٱ</color>ⓩรɦٱกٱﻭค๓ٱⓔ
+25<color=#FFFF00>รɦٱ</color><color=#FFFFFF>กٱ</color><color=#800080>ﻭค</color><#000000>๓ٱ</color>ⓩรɦٱกٱﻭค๓ٱⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
 11<color=#FF69B4>KjTheDumbOcto</color>ⓩKjTheDumbOctoⓔ
 25<color=#A25AFF>Spirax</color>ⓩSpiraxⓔ
