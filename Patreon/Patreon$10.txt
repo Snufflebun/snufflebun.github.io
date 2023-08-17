@@ -57,7 +57,7 @@
 31<color=b7ffe6>Caustíx</color>ⓩCaustíxⓔ
 13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
-25<color=#00008B>รɦٱกٱﻭค๓ٱ</color><color=#808080>15</color>ⓩรɦٱกٱﻭค๓ٱⓔ
+25<color=#FFFF00>รɦٱ</color><color=#FFFFFF>ก</color>ٱ<color=#800080>ﻭค</color><#000000>๓ٱ</color>ⓩรɦٱกٱﻭค๓ٱⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
 11<color=#FF69B4>KjTheDumbOcto</color>ⓩKjTheDumbOctoⓔ
 25<color=#A25AFF>Spirax</color>ⓩSpiraxⓔ
@@ -106,5 +106,5 @@
 12<color=#6ac4ff>Nagisa</color><color=#ce57a5>Adelheid</color>ⓩNagisaAdelheidⓔ
 02<color=#fc03e7>Cray aka Crazy</color>ⓩCray aka Crazyⓔ
 12<color=#03adfc>tsukasa-tenma</color>ⓩtsukasa-tenmaⓔ
-02<color=#911313>Cherry Blossom1</color>ⓩCherry Blossom1ⓔ
+02<color=#911313>Dęšpåîr Qüėêñ</color>ⓩDęšpåîr Qüėêñⓔ
 14<color=#6919f5>Punkeon_JackSix</color>ⓩPunkeon_JackSixⓔ
