@@ -35,7 +35,7 @@
 02ⓩMacman741ⓔ
 13<color=#880808>Jarsaly</color>ⓩJarsalyⓔ
 23<color=#990000>A</color>kio <color=#990000>T</color>sugikuniⓩAkio Tsugikuniⓔ
-03<color=#B93936>T</color>IFFANY <color=#B93936>V</color>OAⓩᴛɪғғᴀɴʏ ᴠᴏᴀⓔ
+03<color=#FFD1DC>T</color>IFFANY <color=#FFD1DC>V</color>OAⓩᴛɪғғᴀɴʏ ᴠᴏᴀⓔ
 00<color=#FF5DCB>A</color>vrage<color=#FF5DCB>Z</color>ombieⓩAvrageZombieⓔ
 00<color=red>A</color>lice <color=red>RP</color> <color=red>N</color>ameⓩAlice RP Nameⓔ
 12<color=#FFCBCB>Rosebl0ssom</color>ⓩRosebl0ssom 3af3ⓔ
@@ -107,3 +107,4 @@
 02<color=#fc03e7>Cray aka Crazy</color>ⓩCray aka Crazyⓔ
 12<color=#03adfc>tsukasa-tenma</color>ⓩtsukasa-tenmaⓔ
 02<color=#911313>Cherry Blossom1</color>ⓩCherry Blossom1ⓔ
+14<color=#6919f5>Punkeon_JackSix</color>ⓩPunkeon_JackSixⓔ
