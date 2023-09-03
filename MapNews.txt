@@ -1,16 +1,6 @@
-Github: <color=green>Connected</color>     <b>V3.6a</b>
+Github: <color=green>Connected</color>     <b>V3.6b</b>
 
-<b>27th Aug</b>
-Rule sets changed, removed grey items only and replaced with an item selector.
-Monokuma file changed.
-Anniversary card alts are back in the game.
+<b>3rd Sep</b>
+Fixed a bug on targeting and removed deprecated code to do with it.
 
-<b>Card Updates:</b>
-Bomb (Item)         Gormet Cake (Item)
-Nao (yttd)             Streamer (Fan)
-Kiriko (Tragedy)    Ruruka (Other)
-Haiji (UDG)           Imposter (DR2)
-Taro (Tragedy)      Tsubasa (Tragedy)
-Teruteru (DR2)      Akane (DR2)
-Nagito (DR2)         Sonia (DR2)
-Ishhiki (Novel)       Takumi (Novel)
+Next week will be a larger update.
