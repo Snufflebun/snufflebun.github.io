@@ -120,3 +120,5 @@
 26<color=#A2E4B8>One and only~</color>ⓩOne and only~ⓔ
 18<color=black>C</color>HEWYⓩᴄʜᴇᴡʏ~ⓔ
 23<color=#7d9bc1>Angie-Meister</color>ⓩAngie-Meisterⓔ
+06<color=#ffb5ef>Aubrey</color>ⓩOmori Aubreyⓔ
+26<color=#6a099e>Dogiorno</color>ⓩDogiornoⓔ
