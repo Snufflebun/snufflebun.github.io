@@ -1,6 +1,4 @@
-Github: <color=green>Connected</color>     <b>V3.6b</b>
+Github: <color=green>Connected</color>     <b>V3.6c</b>
 
-<b>3rd Sep</b>
-Fixed a bug on targeting and removed deprecated code to do with it.
-
-Next week will be a larger update.
+<b> 10th Sep</b>
+patch notes tomorow :) check card list in discord for changes.
