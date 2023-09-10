@@ -1,6 +1,8 @@
 Github: <color=green>Connected</color>     <b>V3.6c</b>
 
 <b> 10th Sep</b>
+Some networking changes.
+
 Cards Added:
 Platoon Head (Novel)
 Blame (Item)
