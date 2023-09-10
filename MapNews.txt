@@ -1,4 +1,16 @@
 Github: <color=green>Connected</color>     <b>V3.6c</b>
 
 <b> 10th Sep</b>
-patch notes tomorow :) check card list in discord for changes.
+Cards Added:
+Platoon Head (Novel)
+Blame (Item)
+
+Cards Changed:
+Bodyguard (Novel)
+Killer Killer (Novel)
+Council President (Other)
+Blacksmith (Other)
+Junko (DR1)
+Reserve Course (DR2)
+Short Circuit (Item)
+Hypnosis (Item)
