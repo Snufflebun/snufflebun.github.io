@@ -123,5 +123,5 @@
 06<color=#ffb5ef>Aubrey</color>ⓩOmori Aubreyⓔ
 26<color=#6a099e>Dogiorno</color>ⓩDogiornoⓔ
 25<color=#F3E5AB>TwistedMothy</color>ⓩTwistedMothyⓔ
-17<color=#B7410E>Killerdepre</color>ⓩKillerdepreⓔ
+02<color=#B7410E>Killerdepre</color>ⓩKillerdepreⓔ
 00<color=#ffffff>Kashmoney124</color>ⓩKashmoney124ⓔ
