@@ -1,18 +1,8 @@
-Github: <color=green>Connected</color>     <b>V3.6c</b>
+Github: <color=green>Connected</color>     <b>V3.6d</b>
 
-<b> 10th Sep</b>
-Some networking changes.
-
-Cards Added:
-Platoon Head (Novel)
-Blame (Item)
+<b> 16th Sep</b>
 
 Cards Changed:
-Bodyguard (Novel)
-Killer Killer (Novel)
-Council President (Other)
-Blacksmith (Other)
-Junko (DR1)
-Reserve Course (DR2)
-Short Circuit (Item)
-Hypnosis (Item)
+Yuto (Novel)
+Nao (YTTD)
+Keiji (YTTD)
