@@ -121,7 +121,7 @@
 18<color=black>C</color>HEWYⓩᴄʜᴇᴡʏ~ⓔ
 23<color=#7d9bc1>Angie-Meister</color>ⓩAngie-Meisterⓔ
 06<color=#ffb5ef>Aubrey</color>ⓩOmori Aubreyⓔ
-26<color=#6a099e>Dogiorno</color>ⓩDogiornoⓔ
+31<color=#6a099e>Dogiorno</color>ⓩDogiornoⓔ
 25<color=#F3E5AB>TwistedMothy</color>ⓩTwistedMothyⓔ
 02<color=#B7410E>Killerdepre</color>ⓩKillerdepreⓔ
 00<color=#ffffff>Kashmoney124</color>ⓩKashmoney124ⓔ
