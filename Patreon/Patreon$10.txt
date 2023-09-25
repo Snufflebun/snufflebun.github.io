@@ -22,7 +22,6 @@
 14<color=#c203fc>JINX</color>ⓩJł₦Ӿⓔ
 00<color=#8c35de>Preyus</color>ⓩPreyusⓔ
 00<color=#9791F4>Azurite</color>ⓩAzuriteⓔ
-11<color=#ff0000>X</color><color=#ffffff>iao</color> <color=#ff0000>L</color><color=#ffffff>ing</color>ⓩSauce_Panⓔ
 08<color=#FF2700>Brokefish387760</color>ⓩBrokefish387760ⓔ
 22<color=#ED0F87>ⓩGB</color>Makiⓔ
 26<color=#6a0dad>T</color><color=#000000>emari_</color>ⓩTenyuki 3820ⓔ
