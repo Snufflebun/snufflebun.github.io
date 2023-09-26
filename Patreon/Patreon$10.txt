@@ -114,7 +114,7 @@
 25<color=#c771c0>Mama Zuuja</color>ⓩMama Zuujaⓔ
 11<color=#cc9b14>CheemsTM</color>ⓩCheemsTMⓔ
 26<color=#ed0f87>Ness Bees</color>ⓩNess Beesⓔ
-23<color=#5db382>mamarada</color>ⓩmamaradaⓔ
+23<color=#e1d4d8>Nagisa Ran~</color>ⓩNagisa Ran~ⓔ
 02<color=#4503fc>Hurtcarnival</color>ⓩHurtcarnivalⓔ
 26<color=#A2E4B8>One and only~</color>ⓩOne and only~ⓔ
 18<color=black>C</color>HEWYⓩᴄʜᴇᴡʏ~ⓔ
