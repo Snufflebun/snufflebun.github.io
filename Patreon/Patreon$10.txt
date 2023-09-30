@@ -102,7 +102,7 @@
 26<color=#228b22>Midnightsodapop</color>ⓩMidnightsodapopⓔ
 11<color=#492e66>StarryEdits</color>ⓩStarryEditsⓔ
 11<color=#492e66>KING J</color>ⓩᴋɪɴɢ ᴊⓔ
-12<color=#6ac4ff>Nagisa</color><color=#ce57a5>Adelheid</color>ⓩNagisaAdelheidⓔ
+26<color=#484E91>Chiaki</color><color=#5085BF> Iwatani</color>ⓩChiaki Iwataniⓔ
 02<color=#fc03e7>A lil devil</color>ⓩA lil devilⓔ
 12<color=#03adfc>tsukasa-tenma</color>ⓩtsukasa-tenmaⓔ
 02<color=#911313>Dęšpåîr Qüėêñ</color>ⓩDęšpåîr Qüėêñⓔ
@@ -131,3 +131,5 @@
 26<color=#03fcc6>TinyTyVTube</color>ⓩTinyTyVTubeⓔ
 08<color=#1e5922>Bean-Master</color>ⓩBean-Masterⓔ
 02<color=#ebcd7c>aripyre</color>ⓩaripyreⓔ
+10<color=#d61a1a>_crossing_fate_</color>ⓩ_crossing_fate_ⓔ
+06<color=#a34646>༒RÁÑDÄL༒</color>ⓩ༒RÁÑDÄL༒ⓔ
