@@ -1,7 +1,7 @@
 Github: <color=green>Connected</color>     <b>V3.7</b>
 
 <b>2nd Oct</b>
-Huge changes to some networking and general code.
+<size=80%>Huge changes to some networking and general code.
 [Some bugs may of snuck past since this is a large change.]
 
 Auras are synced.
