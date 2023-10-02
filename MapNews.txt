@@ -1,8 +1,24 @@
-Github: <color=green>Connected</color>     <b>V3.6d</b>
+Github: <color=green>Connected</color>     <b>V3.7</b>
 
-<b> 16th Sep</b>
+<b>2nd Oct</b>
+Huge changes to some networking and general code.
+[Some bugs may of snuck past since this is a large change.]
 
-Cards Changed:
-Yuto (Novel)
-Nao (YTTD)
-Keiji (YTTD)
+Auras are synced.
+Janitor is synced.
+Bug updates its aura only in morning phase now.
+Cat and status effects clear in janitor 1.
+Atua and companion roles can be on the same player now.
+
+<b>Cards Added:</b>
+Ecologist (Fan)
+
+<b>Cards Changed:</b>
+Maki (V3)
+Komaru (UDG)
+Ryoko (Novel)
+Kaito (V3)
+Jataro (UDG)
+Mask (Item)
+Knife (Item)
+Sledgehammer (Item)
