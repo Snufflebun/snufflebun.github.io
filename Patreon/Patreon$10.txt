@@ -137,3 +137,4 @@
 02<color=#571e7d>Hauntedbyyou</color>ⓩHauntedbyyouⓔ
 00<color=#1403fc>ZAssassinguy</color>ⓩZAssassinguyⓔ
 23<color=#f013c4>HollowRosé</color>ⓩHollowRoséⓔ
+12<color=#eba01e>Panther Topaz</color>ⓩPanther Topazⓔ
