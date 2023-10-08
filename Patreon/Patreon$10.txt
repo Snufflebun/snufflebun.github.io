@@ -95,7 +95,7 @@
 26<color=#9e66cc><size=25%>ドリップなし</size> Nodrip</color>ⓩドリップなしⓔ
 00<color=red>E</color><color=#000000>T</color><color=#ffffff>E</color><color=#000000>R</color><color=red>N</color><color=#000000>A</color><color=#ffffff>L</color><color=#9900ff>Havoc</color>ⓩEternalHavocⓔ
 23<color=#1ce852>ToxiShadow</color>ⓩToxiShadowⓔ
-09<color=#3d91ff>Vincent M</color>ⓩVincent Mⓔ
+08<color=#a503fc>Vincent M</color>ⓩVincent Mⓔ
 00<color=#b50018>BirdBee459</color>ⓩBirdBee459ⓔ
 06<color=#b35ec4>ur fav bisexual</color>ⓩur fav bisexualⓔ
 00ⓩcodster3ⓔ
@@ -138,3 +138,4 @@
 00<color=#1403fc>ZAssassinguy</color>ⓩZAssassinguyⓔ
 23<color=#f013c4>HollowRosé</color>ⓩHollowRoséⓔ
 12<color=#eba01e>Panther Topaz</color>ⓩPanther Topazⓔ
+05<color=#ffe999>cl0wnzz</color><color=#f7c3f6>VR</color>ⓩcl0wnzzVRⓔ
