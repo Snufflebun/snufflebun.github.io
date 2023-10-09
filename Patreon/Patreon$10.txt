@@ -139,3 +139,4 @@
 23<color=#f013c4>HollowRosé</color>ⓩHollowRoséⓔ
 12<color=#eba01e>Panther Topaz</color>ⓩPanther Topazⓔ
 05<color=#ffe999>cl0wnzz</color><color=#f7c3f6>VR</color>ⓩcl0wnzzVRⓔ
+22<color=#fcad03>SuperMarc64</color>ⓩSuperMarc64ⓔ
