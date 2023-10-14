@@ -52,7 +52,7 @@
 30<color=#0D98BA>NeverRight</color>ⓩNeverNight246ⓔ
 09<color=#5ce1e6>Epsilon Ainsen</color>ⓩεpsilon αinsenⓔ
 25<color=#ffb3de>seraphiminity</color>ⓩseraphiminityⓔ
-09<color=#F62217>尾振誰瑠陶</color>ⓩ尾振誰瑠陶ⓔ
+06<color=#ADD8E6>尾振誰瑠陶</color>ⓩ尾振誰瑠陶ⓔ
 31<color=b7ffe6>Caustíx</color>ⓩCaustíxⓔ
 13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
