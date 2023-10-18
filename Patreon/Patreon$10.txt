@@ -126,12 +126,12 @@
 00<color=#ffffff>Kashmoney124</color>ⓩKashmoney124ⓔ
 06<color=#60a885>XALINITY</color>ⓩ໒xᴀʟɪɴɪᴛʏაⓔ
 25<color=#9D00FF>retro</color>ⓩRetro03ⓔ
-13<color=#688fb7>еuthanasia</color>ⓩеuthanasiaⓔ
+13<color=#ffffff>е</color><color=#705167>uthanasia</color>ⓩеuthanasiaⓔ
 23<color=#FFB7C5>Taby</color>ⓩᴛᴀʙʏღⓔ
 26<color=#03fcc6>TinyTyVTube</color>ⓩTinyTyVTubeⓔ
 08<color=#1e5922>Bean-Master</color>ⓩBean-Masterⓔ
 02<color=#ebcd7c>aripyre</color>ⓩaripyreⓔ
-10<color=#d61a1a>_crossing_fate_</color>ⓩ_crossing_fate_ⓔ
+13_<color=#e0bc55>crossing</color>_<color=#e0bc55>fate</color>_ⓩ_crossing_fate_ⓔ
 06<color=#a34646>༒RÁÑDÄL༒</color>ⓩ༒RÁÑDÄL༒ⓔ
 00ⓩ~ST4R~ⓔ
 02<color=#571e7d>Hauntedbyyou</color>ⓩHauntedbyyouⓔ
