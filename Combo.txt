@@ -13,7 +13,4 @@ Kazuo (Other)
 Fuhito (UDG)
 Shortcircuit (Item)
 Donut Box (Item)
-ⓔ
-20231030
-ⓔ
-{Whitelist}
+ⓔ20231030ⓔ{Whitelist}
