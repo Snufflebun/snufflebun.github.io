@@ -6,6 +6,7 @@ Presents added.
 Achievements added.
 Save/Load added.
 Extra customization options added (Unlocked via presents/achievements).
+Slight tweak to PM/Founder/Blackened role card and walkthrough page.
 
 <b>Cards Changed:</b>
 Cody (Fan)
