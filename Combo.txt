@@ -1,16 +1,13 @@
-Github: <color=green>Connected</color>     <b>V3.7a</b>
+Github: <color=green>Connected</color>     <b>V3.7b</b>
 
-<b>14th Oct</b>
-General bug fixes.
-Lowered time to teleport in walk through doors by 0.3 seconds.
+<b>24th Oct</b>
+Mono Machine in lobby is now functional, use it to pull for presents.
+Presents added.
+Achievements added.
+Save/Load added.
+Extra customization options added (Unlocked via presents/achievements).
 
 <b>Cards Changed:</b>
-Korekiyo (V3)
-Tsumugi (V3)
-Kiyotaka (DR1)
-Sakura (DR1)
-Kazuo (Other)
-Fuhito (UDG)
-Shortcircuit (Item)
-Donut Box (Item)
+
+
 ⓔ20231030ⓔ{Whitelist}
