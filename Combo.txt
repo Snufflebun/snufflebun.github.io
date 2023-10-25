@@ -1,7 +1,5 @@
 Github: <color=green>Connected</color>     <b>V3.7b</b>
 
-[World layers are currently broken, does not effect the game outside of visual/killing. Being fixed asap]
-
 <b>24th Oct</b>
 Mono Machine in lobby is now functional, use it to pull for presents.
 Presents added.
