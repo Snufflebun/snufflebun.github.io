@@ -11,7 +11,7 @@
 18<color=red>M</color><color=#d1d1d1>oondough16</color>ⓩmoondough16ⓔ
 08<color=#87ceeb>Sir Kenny</color>ⓩSir Kennyⓔ
 00ⓩBarry3131ⓔ
-313<color=#FFC0CB>Sophia</color>ⓩSophia_thevoiceⓔ
+14<color=#ed9140>Phlox_subulata1</color>ⓩPhlox_subulata1ⓔ
 00ⓩGrunk 551bⓔ
 00ⓩNeonNexos a248ⓔ
 11<color=#8b0000>- k e l -</color>ⓩ- k e l -ⓔ
@@ -56,7 +56,7 @@
 31<color=b7ffe6>Caustíx</color>ⓩCaustíxⓔ
 13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
-25<color=#FFFF00>รɦٱ</color><color=#FFFFFF>กٱ</color><color=#800080>ﻭค</color><color=#000000>๓ٱ</color>ⓩรɦٱกٱﻭค๓ٱⓔ
+25<color=#800080>Agent</color><color=#0000FF>Sayaka</color>ⓩAgentSayakaⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
 11<color=#FF69B4>KjTheDumbOcto</color>ⓩKjTheDumbOctoⓔ
 25<color=#A25AFF>Spirax</color>ⓩSpiraxⓔ
@@ -146,3 +146,4 @@
 20<color=#1593a1>c</color>o<color=#1593a1>c</color>ojubⓩcocojubⓔ
 17<color=#f7941e>MattoCat</color>ⓩMattoCatⓔ
 14<color=#ac13ed>Weebishgamer03</color>ⓩWeebishgamer03ⓔ
+12<color=#e67eb0>Drag Queenie</color>ⓩDrag Queenieⓔ
