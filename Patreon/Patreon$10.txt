@@ -34,7 +34,7 @@
 02ⓩMacman741ⓔ
 13<color=#880808>Jarsaly</color>ⓩJarsalyⓔ
 23<color=#990000>A</color>kio <color=#990000>T</color>sugikuniⓩAkio Tsugikuniⓔ
-03<color=#9E7BB5>D</color>R. <color=#9E7BB5>T</color>SUMIKIⓩᴅʀ ．ᴛsᴜᴍɪᴋɪⓔ
+03<color=#E3C565>D</color>R. <color=#E3C565>T</color>SUMIKIⓩᴅʀ ．ᴛsᴜᴍɪᴋɪⓔ
 00<color=#FF5DCB>A</color>vrage<color=#FF5DCB>Z</color>ombieⓩAvrageZombieⓔ
 00<color=red>A</color>lice <color=red>RP</color> <color=red>N</color>ameⓩAlice RP Nameⓔ
 12<color=#FFCBCB>Rosebl0ssom</color>ⓩRosebl0ssom 3af3ⓔ
