@@ -128,7 +128,7 @@
 25<color=#9D00FF>retro</color>ⓩRetro03ⓔ
 13<color=#ffffff>е</color><color=#705167>uthanasia</color>ⓩеuthanasiaⓔ
 23<color=#FFB7C5>Taby</color>ⓩᴛᴀʙʏღⓔ
-26<color=#03fcc6>TinyTyVTube</color>ⓩTinyTyVTubeⓔ
+26<color=#03fcc6>Call_Me_Tiny</color>ⓩCall_Me_Tinyⓔ
 08<color=#1e5922>Bean-Master</color>ⓩBean-Masterⓔ
 02<color=#ebcd7c>aripyre</color>ⓩaripyreⓔ
 13_<color=#e0bc55>crossing</color>_<color=#e0bc55>fate</color>_ⓩ_crossing_fate_ⓔ
