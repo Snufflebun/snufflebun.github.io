@@ -1,17 +1,13 @@
-Github: <color=green>Connected</color>     <b>V3.7b</b>
+Github: <color=green>Connected</color>     <b>V3.7c</b>
 
-<b>24th Oct</b>
-Mono Machine in lobby is now functional, use it to pull for presents.
-Presents added.
-Achievements added.
-Save/Load added.
-Extra customization options added (Unlocked via presents/achievements).
-Slight tweak to PM/Founder/Blackened role card and walkthrough page.
+<b>4th Nov</b>
+<b>Cards Added:</b>
+Ren (Fan)
 
 <b>Cards Changed:</b>
-Cody (Fan)
-Shina (Fan)
-Rokkyu (Fan)
-Yasuke (Novel)
+Kenji (Tragedy)
+Izuru (DR2)
+Shuuji (Novel)
+Blame (Item)
 
-ⓔ20231110ⓔ{Whitelist}
+ⓔ20241222ⓔ{Whitelist}
