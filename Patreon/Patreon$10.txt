@@ -26,7 +26,7 @@
 22<color=#ED0F87>ⓩGB</color>Makiⓔ
 26<color=#6a0dad>T</color><color=#000000>emari_</color>ⓩTenyuki 3820ⓔ
 08<color=#800000>pkmnboy</color>ⓩpkmnboyⓔ
-08<color=red>Kitty</color>ⓩKittySoftieⓔ
+08<color=#b5211f>PorcupineSoftie</color>ⓩPorcupineSoftieⓔ
 00<color=#2c003f>Breezy_Snipez</color>ⓩ~Breezy_Snipez~ⓔ
 07<color=#6d395d>Pok</color><color=#f7e7da>erH</color><color=#500810>an</color><color=#f8cda3>sen</color>ⓩPokerHansenⓔ
 14<color=#6B0000>X</color><color=#0AFB6F>Minty</color>ⓩXMintyⓔ
@@ -85,7 +85,7 @@
 18Fuzionxunityⓩfuzionxunityⓔ
 00<color=#c91818>Ceoleve</color>ⓩCeoleve cb73ⓔ
 22<color=#13d7ed>Sir Skyfee</color>ⓩSir_Skyfeeⓔ
-29<color=#ed9751>S</color>amii<color=#ed9751>T</color>he<color=#ed9751>F</color>oxⓩSamiiTheFoxⓔ
+29<color=#ed9751>M</color>oonlight<color=#ed9751>S</color>amiⓩMoonlightSamiⓔ
 13<color=#e5b3b5>CanoeCarrot</color>ⓩCanoeCarrotⓔ
 02<color=#e0bfe3>MillsZaGhost</color>ⓩMillsZaGhostⓔ
 06<color=#ffdef3>snaggs</color>ⓩѕηαggѕⓔ
@@ -152,3 +152,5 @@
 00<color=#4e6d41>innome</color>ⓩinnomeⓔ
 25<color=#fc0303>its_just_player</color>ⓩits_just_playerⓔ
 08<color=#20acd6>MUUMUUABUS</color>ⓩмυυмυυαвυѕⓔ
+17<color=#C5C5C5>ewsilas</color>ⓩewsilasⓔ
+09<color=#ed0909>Sean Skirata</color>ⓩSean Skirataⓔ
