@@ -155,3 +155,4 @@
 17<color=#C5C5C5>ewsilas</color>ⓩewsilasⓔ
 09<color=#ed0909>Sean Skirata</color>ⓩSean Skirataⓔ
 32<color=#cb293b>koaichi</color>ⓩkoaichiⓔ
+32<color=#ab430f>Baptism of Fire</color>ⓩBaptism of Fireⓔ
