@@ -132,7 +132,7 @@
 08<color=#1e5922>Bean-Master</color>ⓩBean-Masterⓔ
 02<color=#ebcd7c>aripyre</color>ⓩaripyreⓔ
 13_<color=#e0bc55>crossing</color>_<color=#e0bc55>fate</color>_ⓩ_crossing_fate_ⓔ
-06<color=#a34646>༒RÁÑDÄL༒</color>ⓩ༒RÁÑDÄL༒ⓔ
+06<color=#a34646>sʜᴜɴ ʜᴀsʜɪᴍᴏᴛᴏ෴</color>ⓩsʜᴜɴ ʜᴀsʜɪᴍᴏᴛᴏ෴ⓔ
 00ⓩ~ST4R~ⓔ
 02<color=#571e7d>Hauntedbyyou</color>ⓩHauntedbyyouⓔ
 00<color=#1403fc>ZAssassinguy</color>ⓩZAssassinguyⓔ
@@ -154,3 +154,4 @@
 08<color=#20acd6>MUUMUUABUS</color>ⓩмυυмυυαвυѕⓔ
 17<color=#C5C5C5>ewsilas</color>ⓩewsilasⓔ
 09<color=#ed0909>Sean Skirata</color>ⓩSean Skirataⓔ
+32<color=#cb293b>koaichi</color>ⓩkoaichiⓔ
