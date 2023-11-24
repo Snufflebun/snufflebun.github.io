@@ -156,3 +156,4 @@
 09<color=#ed0909>Sean Skirata</color>ⓩSean Skirataⓔ
 32<color=#cb293b>koaichi</color>ⓩkoaichiⓔ
 32<color=#ab430f>Baptism of Fire</color>ⓩBaptism of Fireⓔ
+07<color=#f5a24e>Cocoa cookie</color>ⓩCocoa cookieⓔ
