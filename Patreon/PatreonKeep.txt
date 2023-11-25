@@ -160,3 +160,34 @@
 14<color=#7d12ff>SuperNova</color>ⓩSuperNova77ⓔ
 22<color=#89CFF0>D</color>esp<color=#89CFF0>a</color>irⓩᴅᴇsᴘᴀɪʀⓔ
 11TheRainyGardenⓩTheRainyGardenⓔ
+26<color=#9e66cc><size=25%>ドリップなし</size> Nodrip</color>ⓩドリップなしⓔ
+23<color=#000000>I Angel I</color>ⓩI Angel Iⓔ
+12<color=#4003f9>JesusWas</color><color=#e60000>Evil</color><color=#4003f9>0</color>ⓩJesusWasEvil0ⓔ
+02<color=#8d4cbb>A</color><color=#5b4cbb>L</color><color=#4c7fbb>E</color><color=#4ca4bb>X</color>ⓩObviouslyAlexⓔ
+23<color=#FFB7C5>Taby</color>ⓩᴛᴀʙʏღⓔ
+25<color=#c771c0>Mama Zuuja</color>ⓩMama Zuujaⓔ
+17<color=#FFD580>G</color>amerpto9026ⓩGamerpto9026 282eⓔ
+00<color=#FDA4BA>Lord Paws</color>ⓩLord_Paws a73eⓔ
+00ⓩBonplomⓔ
+22<color=#A020F0>NormalMuffin</color>ⓩNormalMuffinⓔ
+06<color=#353839>Stormglade</color>ⓩSto̷rmgla̷deⓔ
+00<color=#2c003f>Breezy_Snipez</color>ⓩ~Breezy_Snipez~ⓔ
+14<color=#0C9E5A>CJ</color>ⓩ＋CJ＋ⓔ
+09<color=#5ce1e6>Epsilon Ainsen</color>ⓩεpsilon αinsenⓔ
+23<color=#990000>A</color>kio <color=#990000>T</color>sugikuniⓩAkio Tsugikuniⓔ
+11<color=#f995c2>Harlie</color>ⓩHarlieVTⓔ
+20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
+18<color=#460B38>Kaede</color>ⓩKaedePlayzⓔ
+18<color=red>M</color><color=#d1d1d1>oondough16</color>ⓩmoondough16ⓔ
+25<color=#d56ea0>Gibz</color>ⓩMr Gibblesⓔ
+00<color=#FF5DCB>A</color>vrage<color=#FF5DCB>Z</color>ombieⓩAvrageZombieⓔ
+06<color=#836953>Aimee-Prankster</color>ⓩAimee-Pranksterⓔ
+26<color=#e46e00>Mr</color> <color=#004cba>Charzard</color><color=#ba8900>0721</color>ⓩMr_Charzard0721ⓔ
+00<color=red>E</color><color=#000000>T</color><color=#ffffff>E</color><color=#000000>R</color><color=red>N</color><color=#000000>A</color><color=#ffffff>L</color><color=#9900ff>Havoc</color>ⓩEternalHavocⓔ
+00<color=#0090e2>Supa</color><color=#ff8c00>iku</color>ⓩSupaiku'ⓔ
+31<color=#26a5d4>Slor</color><color=#ff2414>bor</color><color=#26a5d4>bius</color>ⓩSlorborbiusⓔ
+25<color=#A25AFF>Spirax</color>ⓩSpiraxⓔ
+32<color=#b4be81>Survivwh0re</color>ⓩSurvivwh0reⓔ
+02<color=#0068FF>Hidden Sin</color>ⓩHidden Sinⓔ
+23<color=red>R</color><color=#FFFFFF>ed</color><color=red>R</color><color=#FFFFFF>ose</color><color=red>R</color><color=#FFFFFF>equired</color>ⓩRedRoseRequiredⓔ
+06<color=#50A2E2>HeyItsHaru</color>ⓩHeyItsHaruⓔ

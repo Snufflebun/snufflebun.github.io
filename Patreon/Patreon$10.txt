@@ -1,14 +1,11 @@
 00ⓩSnufflebunsⓔ
 00ⓩTipsⓔ
 00<color=red>L</color>FFloeyⓩIFFloeyⓔ
-06<color=#50A2E2>HeyItsHaru</color>ⓩHeyItsHaruⓔ
 00♥ <color=red>J</color>essica ♥ⓩ♥ Jessica ♥ⓔ
 00<color=#1ee650>Lute</color>ⓩLuteⓔ
 14<color=#F8C8DC>Confusion Queen</color>ⓩConfusion Queenⓔ
 22<color=#FFA500>Lady </color><color=#ADD8E6>C</color><color=#FFA500>alico</color>ⓩLady Calicoⓔ
-02<color=#0068FF>Hidden Ball Monokuma Sin</color>ⓩHidden Sinⓔ
 00<color=red>S</color>ushi<color=red>C</color>haserⓩSushiChaserⓔ
-18<color=red>M</color><color=#d1d1d1>oondough16</color>ⓩmoondough16ⓔ
 08<color=#87ceeb>Sir Kenny</color>ⓩSir Kennyⓔ
 00ⓩBarry3131ⓔ
 14<color=#ed9140>Phlox_subulata1</color>ⓩPhlox_subulata1ⓔ
@@ -27,15 +24,11 @@
 26<color=#6a0dad>T</color><color=#000000>emari_</color>ⓩTenyuki 3820ⓔ
 08<color=#800000>pkmnboy</color>ⓩpkmnboyⓔ
 08<color=#b5211f>PorcupineSoftie</color>ⓩPorcupineSoftieⓔ
-00<color=#2c003f>Breezy_Snipez</color>ⓩ~Breezy_Snipez~ⓔ
 07<color=#6d395d>Pok</color><color=#f7e7da>erH</color><color=#500810>an</color><color=#f8cda3>sen</color>ⓩPokerHansenⓔ
 14<color=#6B0000>X</color><color=#0AFB6F>Minty</color>ⓩXMintyⓔ
-32<color=#b4be81>Survivwh0re</color>ⓩSurvivwh0reⓔ
 02ⓩMacman741ⓔ
 13<color=#880808>Jarsaly</color>ⓩJarsalyⓔ
-23<color=#990000>A</color>kio <color=#990000>T</color>sugikuniⓩAkio Tsugikuniⓔ
 03<color=#E3C565>D</color>R. <color=#E3C565>T</color>SUMIKIⓩᴅʀ ．ᴛsᴜᴍɪᴋɪⓔ
-00<color=#FF5DCB>A</color>vrage<color=#FF5DCB>Z</color>ombieⓩAvrageZombieⓔ
 00<color=red>A</color>lice <color=red>RP</color> <color=red>N</color>ameⓩAlice RP Nameⓔ
 12<color=#FFCBCB>Rosebl0ssom</color>ⓩRosebl0ssom 3af3ⓔ
 07<color=#be1c11>SamaelMustDie</color>ⓩSamaelMustDieⓔ
@@ -44,106 +37,56 @@
 15<color=#00FF46>NextActElsword</color>ⓩNextActElswordⓔ
 22<color=#eb0100>X</color>ekunⓩXekunⓔ
 02<color=#FF0000>DemonQueenShori</color>ⓩDemonQueenShoriⓔ
-14<color=#0C9E5A>CJ</color>ⓩ＋CJ＋ⓔ
-11<color=#f995c2>Harlie</color>ⓩHarlieVTⓔ
 02Dr.<color=#FF2400>S</color><color=#98FF98>L</color><color=#FF2400>U</color><color=#98FF98>S</color><color=#FF2400>H</color><color=#98FF98>I</color><color=#FF2400>E</color>ⓩĐя․ֆʟʊֆɦɨɛⓔ
 09<color=#4395d9>Queen</color><color=#e39cff>Lindz</color>ⓩQueenLindzⓔ
-00ⓩBonplomⓔ
 30<color=#0D98BA>NeverRight</color>ⓩNeverNight246ⓔ
-09<color=#5ce1e6>Epsilon Ainsen</color>ⓩεpsilon αinsenⓔ
 25<color=#ffb3de>seraphiminity</color>ⓩseraphiminityⓔ
 06<color=#ADD8E6>尾振誰瑠陶</color>ⓩ尾振誰瑠陶ⓔ
 31<color=b7ffe6>Caustíx</color>ⓩCaustíxⓔ
-13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ
-20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
-25<color=#800080>Agent</color><color=#0000FF>Sayaka</color>ⓩAgentSayakaⓔ
+13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ25<color=#800080>Agent</color><color=#0000FF>Sayaka</color>ⓩAgentSayakaⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
 11<color=#FF69B4>KjTheDumbOcto</color>ⓩKjTheDumbOctoⓔ
-25<color=#A25AFF>Spirax</color>ⓩSpiraxⓔ
-00<color=#FDA4BA>Lord Paws</color>ⓩLord_Paws a73eⓔ
-22<color=#A020F0>NormalMuffin</color>ⓩNormalMuffinⓔ
-00<color=#0090e2>Supa</color><color=#ff8c00>iku</color>ⓩSupaiku'ⓔ
 07<color=#8ab8ed>GayPencilCase</color>ⓩGayPencilCaseⓔ
 02<color=#ffffff>M</color><color=#e7cdcc>i</color><color=#d09c99>d</color><color=#b86b66>o</color><color=#a13a32>r</color><color=#8a0900>i</color>ⓩᴍɪᴅᴏʀɪ ｡｡｡ⓔ
 12<color=#A020F0>vNightmare I</color>ⓩvNightmare Iⓔ
-17<color=#FFD580>G</color>amerpto9026ⓩGamerpto9026 282eⓔ
 17<color=#800080>Experiment Saru</color>ⓩExperiment_Saruⓔ
 10<color=#00FFFF>N</color>EWCOMERVIIⓩNEWCOMERVIIⓔ
-25<color=#d56ea0>Gibz</color>ⓩMr Gibblesⓔ
 22<color=#710193>BendySIendy</color>ⓩBendySIendyⓔ
-00<color=#F0509A>Dividing Zer0</color>ⓩDividing Zer0ⓔ
-02<color=#8d4cbb>A</color><color=#5b4cbb>L</color><color=#4c7fbb>E</color><color=#4ca4bb>X</color>ⓩObviouslyAlexⓔ
-23<color=#000000>I Angel I</color>ⓩI Angel Iⓔ
-26<color=#e46e00>Mr</color> <color=#004cba>Charzard</color><color=#ba8900>0721</color>ⓩMr_Charzard0721ⓔ
-06<color=#836953>Aimee-Prankster</color>ⓩAimee-Pranksterⓔ
-23<color=#8A0303>CatatonicBaby</color>ⓩCatatonicBabyⓔ
-03<color=#4287f5>Jace Starcaller</color>ⓩJace Starcallerⓔ
 31<color=#19520b>jdthehero213</color>ⓩjdthehero213ⓔ
-06<color=#353839>Stormglade</color>ⓩSto̷rmgla̷deⓔ
-23<color=red>R</color><color=#FFFFFF>ed</color><color=red>R</color><color=#FFFFFF>ose</color><color=red>R</color><color=#FFFFFF>equired</color>ⓩRedRoseRequiredⓔ
-36<color=#ff0000>LEIAM</color>ⓩLEIAM?ⓔ
 18Fuzionxunityⓩfuzionxunityⓔ
-00<color=#c91818>Ceoleve</color>ⓩCeoleve cb73ⓔ
 22<color=#13d7ed>Sir Skyfee</color>ⓩSir_Skyfeeⓔ
 29<color=#ed9751>M</color>oonlight<color=#ed9751>S</color>amiⓩMoonlightSamiⓔ
 13<color=#e5b3b5>CanoeCarrot</color>ⓩCanoeCarrotⓔ
 02<color=#e0bfe3>MillsZaGhost</color>ⓩMillsZaGhostⓔ
-06<color=#ffdef3>snaggs</color>ⓩѕηαggѕⓔ
-22<color=#ffffff>REEMIUM</color>ⓩREEMIUMⓔ
 26Jaden143ⓩJaden143 de30ⓔ
-14<color=#660f09>Onyx_1112</color>ⓩ°《Onyx_1112》°ⓔ
-26<color=#9e66cc><size=25%>ドリップなし</size> Nodrip</color>ⓩドリップなしⓔ
-00<color=red>E</color><color=#000000>T</color><color=#ffffff>E</color><color=#000000>R</color><color=red>N</color><color=#000000>A</color><color=#ffffff>L</color><color=#9900ff>Havoc</color>ⓩEternalHavocⓔ
 23<color=#1ce852>ToxiShadow</color>ⓩToxiShadowⓔ
 08<color=#a503fc>Vincent M</color>ⓩVincent Mⓔ
 00<color=#b50018>BirdBee459</color>ⓩBirdBee459ⓔ
-06<color=#b35ec4>ur fav bisexual</color>ⓩur fav bisexualⓔ
 00ⓩcodster3ⓔ
 26<color=#228b22>Midnightsodapop</color>ⓩMidnightsodapopⓔ
 11<color=#492e66>StarryEdits</color>ⓩStarryEditsⓔ
-11<color=#492e66>KING J</color>ⓩᴋɪɴɢ ᴊⓔ
 26<color=#484E91>Chiaki</color><color=#5085BF> Iwatani</color>ⓩChiaki Iwataniⓔ
 02<color=#fc03e7>A lil devil</color>ⓩA lil devilⓔ
-12<color=#03adfc>tsukasa-tenma</color>ⓩtsukasa-tenmaⓔ
 02<color=#911313>Dęšpåîr Qüėêñ</color>ⓩDęšpåîr Qüėêñⓔ
 14<color=#6919f5>Punkeon_JackSix</color>ⓩPunkeon_JackSixⓔ
-12<color=#9e4d99>T</color>he<color=#9e4d99>DRNM</color>uteⓩTheDRNMuteⓔ
-14<color=#8acfbb>-</color><color=#97a6a6>Nervous</color><color=#8acfbb>-</color>ⓩ-Nervous-ⓔ
-18<color=#460B38>Kaede</color>ⓩKaedePlayzⓔ
-12<color=#4003f9>JesusWas</color><color=#e60000>Evil</color><color=#4003f9>0</color>ⓩJesusWasEvil0ⓔ
-25<color=#c771c0>Mama Zuuja</color>ⓩMama Zuujaⓔ
 11<color=#cc9b14>CheemsTM</color>ⓩCheemsTMⓔ
 26<color=#ed0f87>Ness Bees</color>ⓩNess Beesⓔ
-23<color=#e1d4d8>Nagisa Ran~</color>ⓩNagisa Ran~ⓔ
-02<color=#4503fc>Hurtcarnival</color>ⓩHurtcarnivalⓔ
 26<color=#A2E4B8>One and only~</color>ⓩOne and only~ⓔ
-18<color=black>C</color>HEWYⓩᴄʜᴇᴡʏ~ⓔ
-23<color=#7d9bc1>Angie-Meister</color>ⓩAngie-Meisterⓔ
-07<color=#fcb8e9>Aubrey</color>ⓩOmori Aubreyⓔ
-31<color=#6a099e>Dogiorno</color>ⓩDogiornoⓔ
 25<color=#F3E5AB>TwistedMothy</color>ⓩTwistedMothyⓔ
-02<color=#B7410E>Killerdepre</color>ⓩKillerdepreⓔ
 00<color=#ffffff>Kashmoney124</color>ⓩKashmoney124ⓔ
 06<color=#89c35f>X</color>A<color=#89c35f>L</color>I<color=#89c35f>N</color>I<color=#89c35f>T</color>Yⓩ໒xᴀʟɪɴɪᴛʏაⓔ
-25<color=#9D00FF>retro</color>ⓩRetro03ⓔ
 13<color=#ffffff>е</color><color=#705167>uthanasia</color>ⓩеuthanasiaⓔ
-23<color=#FFB7C5>Taby</color>ⓩᴛᴀʙʏღⓔ
 26<color=#03fcc6>Call_Me_Tiny</color>ⓩCall_Me_Tinyⓔ
 08<color=#1e5922>Bean-Master</color>ⓩBean-Masterⓔ
-02<color=#ebcd7c>aripyre</color>ⓩaripyreⓔ
 13_<color=#e0bc55>crossing</color>_<color=#e0bc55>fate</color>_ⓩ_crossing_fate_ⓔ
 06<color=#a34646>sʜᴜɴ ʜᴀsʜɪᴍᴏᴛᴏ෴</color>ⓩsʜᴜɴ ʜᴀsʜɪᴍᴏᴛᴏ෴ⓔ
 00ⓩ~ST4R~ⓔ
-02<color=#571e7d>Hauntedbyyou</color>ⓩHauntedbyyouⓔ
 00<color=#1403fc>ZAssassinguy</color>ⓩZAssassinguyⓔ
 23<color=#f013c4>HollowRosé</color>ⓩHollowRoséⓔ
-12<color=#eba01e>Panther Topaz</color>ⓩPanther Topazⓔ
 05<color=#ffe999>cl0wnzz</color><color=#f7c3f6>VR</color>ⓩcl0wnzzVRⓔ
 22<color=#fcad03>SuperMarc64</color>ⓩSuperMarc64ⓔ
 00<color=#FF0000>N</color>yah-<color=#FF0000>C</color>hanⓩNyah-Chanⓔ
 12<color=#027037>M</color>axi <color=#027037>T</color>he <color=#027037>J</color>aguarⓩMaxi The Jaguarⓔ
-10<color=#fc7303>N</color>ITROTIC<color=#fc7303>N</color>ATEⓩNɪᴛʀᴏᴛɪᴄɴᴀᴛᴇⓔ
-20<color=#1593a1>c</color>o<color=#1593a1>c</color>ojubⓩcocojubⓔ
 17<color=#f7941e>MattoCat</color>ⓩMattoCatⓔ
 14<color=#ac13ed>Weebishgamer03</color>ⓩWeebishgamer03ⓔ
 12<color=#e67eb0>Drag Queenie</color>ⓩDrag Queenieⓔ
