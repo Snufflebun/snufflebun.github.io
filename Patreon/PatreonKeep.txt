@@ -100,7 +100,7 @@
 26<color=#DC143C>lKnightl</color>ⓩlKnightlⓔ
 00<color=orange>ඞS</color>imple_<color=orange>O</color>r4ngeⓩSimple_Or4ngeⓔ
 05ⓩPhantom_Dajokerⓔ
-14<color=#ca0405>LocalKokichiKin</color>ⓩLocalKokichiKinⓔ
+23<color=#7d9bc1>Angie-Meister</color>ⓩAngie-Meisterⓔ
 26<color=red>BackAlleyBlitz</color>ⓩBackAlleyBlitzⓔ
 00<color=red>キ</color>ャスパーⓩキャスパーⓔ
 30<color=red>Red</color><color=black>dragon27</color>ⓩReddragon27ⓔ
