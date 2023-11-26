@@ -1,13 +1,7 @@
-Github: <color=green>Connected</color>     <b>V3.7c</b>
+Github: <color=green>Connected</color>     <b>V3.7d</b>
 
-<b>4th Nov</b>
-<b>Cards Added:</b>
-Ren (Fan)
+<b>26th Nov</b>
 
-<b>Cards Changed:</b>
-Kenji (Tragedy)
-Izuru (DR2)
-Shuuji (Novel)
-Blame (Item)
+General bug fixes and GM panel tweaks.
 
 ⓔ20241222ⓔ{Whitelist}
