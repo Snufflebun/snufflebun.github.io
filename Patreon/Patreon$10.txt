@@ -41,7 +41,7 @@
 09<color=#4395d9>Queen</color><color=#e39cff>Lindz</color>ⓩQueenLindzⓔ
 30<color=#0D98BA>NeverRight</color>ⓩNeverNight246ⓔ
 25<color=#ffb3de>seraphiminity</color>ⓩseraphiminityⓔ
-02<color=#1a5bab>invalidcolor>ⓩ_invalidⓔ
+02<color=#1a5bab>invalid</color>ⓩ_invalidⓔ
 31<color=b7ffe6>Caustíx</color>ⓩCaustíxⓔ
 13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ25<color=#800080>Agent</color><color=#0000FF>Sayaka</color>ⓩAgentSayakaⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
