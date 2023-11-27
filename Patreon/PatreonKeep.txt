@@ -162,7 +162,7 @@
 11TheRainyGardenⓩTheRainyGardenⓔ
 26<color=#9e66cc><size=25%>ドリップなし</size> Nodrip</color>ⓩドリップなしⓔ
 23<color=#000000>I Angel I</color>ⓩI Angel Iⓔ
-12<color=#4003f9>JesusWas</color><color=#e60000>Evil</color><color=#4003f9>0</color>ⓩJesusWasEvil0ⓔ
+12<color=#4003f9>~Chazz~</color>ⓩ~Chazz~ⓔ
 02<color=#8d4cbb>A</color><color=#5b4cbb>L</color><color=#4c7fbb>E</color><color=#4ca4bb>X</color>ⓩObviouslyAlexⓔ
 23<color=#FFB7C5>Taby</color>ⓩᴛᴀʙʏღⓔ
 25<color=#c771c0>Mama Zuuja</color>ⓩMama Zuujaⓔ
