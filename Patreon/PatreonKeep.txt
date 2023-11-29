@@ -97,7 +97,7 @@
 11<color=#A020F0>omgits</color><color=#FFFF00>beebo</color>ⓩomgitsbeeboⓔ
 22<color=#f20462>DivinaVulpine</color>ⓩDivinaVulpineⓔ
 26<color=#DC143C>lKnightl</color>ⓩlKnightlⓔ
-00<color=orange>ඞD</color>eShaune<color=orange>M</color>enaceⓩDeShaunBeMenaceⓔ
+00<color=orange>ඞD</color>eShaunBe<color=orange>M</color>enaceⓩDeShaunBeMenaceⓔ
 05ⓩPhantom_Dajokerⓔ
 23<color=#7d9bc1>Angie-Meister</color>ⓩAngie-Meisterⓔ
 26<color=red>BackAlleyBlitz</color>ⓩBackAlleyBlitzⓔ
