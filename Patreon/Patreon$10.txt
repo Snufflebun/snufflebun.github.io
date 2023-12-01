@@ -102,3 +102,4 @@
 07<color=#f5a24e>Cocoa cookie</color>ⓩCocoa cookieⓔ
 12<color=#ffe482>MADLion26</color>ⓩMADLion26ⓔ
 14<color=#4103fc>CandyUwU</color>ⓩCandyÚwÙⓔ
+22<color=#541675>Erbobble</color>ⓩErbobbleⓔ
