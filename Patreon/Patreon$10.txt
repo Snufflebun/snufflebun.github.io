@@ -75,7 +75,7 @@
 25<color=#F3E5AB>TwistedMothy</color>ⓩTwistedMothyⓔ
 00<color=#ffffff>Kashmoney124</color>ⓩKashmoney124ⓔ
 06<color=#89c35f>X</color>A<color=#89c35f>L</color>I<color=#89c35f>N</color>I<color=#89c35f>T</color>Yⓩ໒xᴀʟɪɴɪᴛʏაⓔ
-13<color=#ffffff>е</color><color=#705167>uthanasia</color>ⓩеuthanasiaⓔ
+13<color=#000000>oyasumi</color>ⓩօyasumiⓔ
 26<color=#03fcc6>Call_Me_Tiny</color>ⓩCall_Me_Tinyⓔ
 08<color=#1e5922>Bean-Master</color>ⓩBean-Masterⓔ
 13_<color=#e0bc55>crossing</color>_<color=#e0bc55>fate</color>_ⓩ_crossing_fate_ⓔ
@@ -106,3 +106,4 @@
 00<color=#4efc03>Tokiru</color>ⓩTokiruⓔ
 14<color=#541d1e>vaash</color>ⓩvaashⓔ
 11<color=#7c1bd1>mirqjr</color>ⓩmirqjrⓔ
+12<color=#4ecdc4>~ᴍᴀᴋᴏᴛᴏ ʏᴜᴋɪ~</color>ⓩ~ᴍᴀᴋᴏᴛᴏ ʏᴜᴋɪ~ⓔ
