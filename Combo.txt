@@ -1,7 +1,21 @@
-Github: <color=green>Connected</color>     <b>V3.7d</b>
+Github: <color=green>Connected</color>     <b>V3.8</b>
 
-<b>26th Nov</b>
+<b>9th Dec (Part 1)</b>
 
-General bug fixes and GM panel tweaks.
+Tavern remade.
+World options added.
+Presents at dorms to get a free item once per instance.
+Fixed some missing GM checks.
+
+<b>Cards Edited</b>
+Kiyotaka (DR1)
+Chihiro (DR1)
+Toko (DR1)
+Chiaki (DR2)
+Gundham (DR2)
+Monaca (UDG)
+Yuta (UDG)
+Rope (Item)
+Kameko (Item)
 
 ⓔ20241222ⓔ{Whitelist}
