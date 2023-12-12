@@ -103,8 +103,9 @@
 12<color=#ffe482>MADLion26</color>ⓩMADLion26ⓔ
 14<color=#4103fc>CandyUwU</color>ⓩCandyÚwÙⓔ
 22<color=#541675>Erbobble</color>ⓩErbobbleⓔ
-00<color=#4efc03>Tokiru</color>ⓩTokiruⓔ
+07<color=#4efc03>Tokiru</color>ⓩTokiruⓔ
 14<color=#541d1e>vaash</color>ⓩvaashⓔ
 11<color=#7c1bd1>mirqjr</color>ⓩmirqjrⓔ
 12<color=#4ecdc4>~ᴍᴀᴋᴏᴛᴏ ʏᴜᴋɪ~</color>ⓩ~ᴍᴀᴋᴏᴛᴏ ʏᴜᴋɪ~ⓔ
 07<color=#8fe3d2>~Kookii~Kiwi~</color>ⓩ~Kookii~Kiwi~ⓔ
+00ⓩtyrone063ⓔ
