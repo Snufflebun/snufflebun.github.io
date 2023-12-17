@@ -95,7 +95,7 @@
 00<color=#4e6d41>innome</color>ⓩinnomeⓔ
 25<color=#fc0303>its_just_player</color>ⓩits_just_playerⓔ
 08<color=#20acd6>MUUMUUABUS</color>ⓩмυυмυυαвυѕⓔ
-17<color=#C5C5C5>ewsilas</color>ⓩewsilasⓔ
+17<color=#000000>ewsilas</color>ⓩewsilasⓔ
 09<color=#ed0909>Sean Skirata</color>ⓩSean Skirataⓔ
 32<color=#cb293b>koaichi</color>ⓩkoaichiⓔ
 32<color=#ab430f>Baptism of Fire</color>ⓩBaptism of Fireⓔ
@@ -110,3 +110,4 @@
 07<color=#8fe3d2>~Kookii~Kiwi~</color>ⓩ~Kookii~Kiwi~ⓔ
 00ⓩtyrone063ⓔ
 26<color=#0e5238>°《Atlas_1112》°</color>ⓩ°《Atlas_1112》°ⓔ
+03<color=#aaf0d1>Hanafusa</color>ⓩHanafusaⓔ
