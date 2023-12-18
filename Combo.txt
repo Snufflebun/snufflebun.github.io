@@ -2,7 +2,9 @@ Github: <color=green>Connected</color>     <b>V3.8a</b>
 
 <b>17th Dec (Part 2)</b>
 
-Bug Fixes
+Bug Fixes.
+Fixed video player url fields.
+Fixed returning wrong value when co-gm tries to change player cards.
 
 <b>Cards Added</b>
 Genkin (Fan)
