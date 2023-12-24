@@ -1,20 +1,7 @@
-Github: <color=green>Connected</color>     <b>V3.8a</b>
+Github: <color=green>Connected</color>     <b>V3.9</b>
 
-<b>17th Dec (Part 2)</b>
+<b>24th Dec</b>
 
-Bug Fixes.
-Fixed video player url fields.
-Fixed returning wrong value when co-gm tries to change player cards.
-
-<b>Cards Added</b>
-Genkin (Fan)
-Megumi (Fan)
-
-<b>Cards Edited</b>
-Hilda (Fan)
-Morgan (Fan)
-Jill (Fan)
-Takushi (Fan)
-Zander (Fan)
+Updated to 2022 unity.
 
 ⓔ20241222ⓔ{Whitelist}
