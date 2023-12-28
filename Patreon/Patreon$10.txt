@@ -116,3 +116,6 @@
 18<color=#f2aeae>ʙᴀᴇᴋɪᴇ</color>ⓩʙᴀᴇᴋɪᴇⓔ
 00<color=#212121>Dividing Zer</color><color=#871818>0</color>ⓩDividing Zer0ⓔ
 12<color=#4ecdc4>~sᴏᴜ ʜɪʏᴏʀɪ~</color>ⓩ~sᴏᴜ ʜɪʏᴏʀɪ~ⓔ
+00<color=#13b4d4>Jace Starcaller</color>ⓩJace Starcallerⓔ
+26<color=#400c85>SoundAround</color>ⓩSoundAroundⓔ
+26<color=#cc99ff>Zephollo</color>ⓩZepholloⓔ
