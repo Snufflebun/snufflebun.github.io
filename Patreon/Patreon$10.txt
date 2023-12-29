@@ -119,3 +119,4 @@
 00<color=#13b4d4>Jace Starcaller</color>ⓩJace Starcallerⓔ
 26<color=#400c85>SoundAround</color>ⓩSoundAroundⓔ
 26<color=#cc99ff>Zephollo</color>ⓩZepholloⓔ
+23<color=#57b1e6>thefroster</color>ⓩthefrosterⓔ
