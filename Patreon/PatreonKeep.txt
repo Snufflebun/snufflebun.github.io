@@ -176,7 +176,6 @@
 23<color=#990000>A</color>kio <color=#990000>T</color>sugikuniⓩAkio Tsugikuniⓔ
 11<color=#f995c2>Harlie</color>ⓩHarlieVTⓔ
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
-18<color=#460B38>Kaede</color>ⓩKaedePlayzⓔ
 18<color=red>M</color><color=#d1d1d1>oondough16</color>ⓩmoondough16ⓔ
 25<color=#d56ea0>Gibz</color>ⓩMr Gibblesⓔ
 00<color=#FF5DCB>A</color>vrage<color=#FF5DCB>Z</color>ombieⓩAvrageZombieⓔ
