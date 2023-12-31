@@ -1,7 +1,7 @@
-Github: <color=green>Connected</color>     <b>V3.9</b>
+Github: <color=green>Connected</color>     <b>V3.9a</b>
 
-<b>24th Dec</b>
+<b>31st Dec</b>
 
-Updated to 2022 unity.
+Added world option: Show card alts.
 
 ⓔ20241222ⓔ{Whitelist}
