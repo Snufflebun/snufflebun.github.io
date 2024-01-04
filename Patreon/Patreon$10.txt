@@ -67,7 +67,7 @@
 11<color=#492e66>StarryEdits</color>ⓩStarryEditsⓔ
 26<color=#484E91>Chiaki</color><color=#5085BF> Iwatani</color>ⓩChiaki Iwataniⓔ
 02<color=#fc03e7>A lil devil</color>ⓩA lil devilⓔ
-02<color=#911313>Dęšpåîr Qüėêñ</color>ⓩDęšpåîr Qüėêñⓔ
+02<color=#911313>քǟֆȶɛʟ քʀɨռƈɛ</color>ⓩքǟֆȶɛʟ քʀɨռƈɛⓔ
 14<color=#6919f5>Punkeon_JackSix</color>ⓩPunkeon_JackSixⓔ
 11<color=#cc9b14>CheemsTM</color>ⓩCheemsTMⓔ
 26<color=#ed0f87>Ness Bees</color>ⓩNess Beesⓔ
@@ -120,3 +120,4 @@
 26<color=#cc99ff>Zephollo</color>ⓩZepholloⓔ
 23<color=#57b1e6>thefroster</color>ⓩthefrosterⓔ
 10<color=#880808>аnemoiа</color>ⓩаnemoiаⓔ
+22<color=#ff003c>Classified1</color>ⓩClassified1ⓔ
