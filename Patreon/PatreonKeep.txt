@@ -188,3 +188,4 @@
 02<color=#0068FF>Hidden Sin</color>ⓩHidden Sinⓔ
 23<color=red>R</color><color=#FFFFFF>ed</color><color=red>R</color><color=#FFFFFF>ose</color><color=red>R</color><color=#FFFFFF>equired</color>ⓩRedRoseRequiredⓔ
 06<color=#50A2E2>HeyItsHaru</color>ⓩHeyItsHaruⓔ
+14<color=#CBC3E3>Huntress9100</color>ⓩHuntress9100ⓔ
