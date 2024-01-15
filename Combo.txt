@@ -1,7 +1,26 @@
-Github: <color=green>Connected</color>     <b>V3.9a</b>
+Github: <color=green>Connected</color>     <b>V3.9c</b>
 
-<b>31st Dec</b>
+<b>15th Jan</b>
 
-Added world option: Show card alts.
+Ruleset items updated.
+Added douse aura.
+GM can now see what an unrevealed item is.
+Bug fixes.
+
+Cards Added:
+Shoji (Tragedy)
+
+Cards Edited:
+Makoto (DR1)
+Yui (Novel)
+Ryoma (V3)
+Tsumugi (V3)
+Kirumi (V3)
+Aloysius (UDG)
+Sosouke (Tragedy)
+Duo (Fan)
+Genkin (Fan)
+Hamada (Fan)
+Paintbrush (Item)
 
 ⓔ20241222ⓔ{Whitelist}
