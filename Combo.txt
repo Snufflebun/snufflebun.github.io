@@ -7,10 +7,10 @@ Added douse aura.
 GM can now see what an unrevealed item is.
 Bug fixes.
 
-Cards Added:
+<b>Cards Added:</b>
 Shoji (Tragedy)
 
-Cards Edited:
+<b>Cards Edited:</b>
 Makoto (DR1)
 Yui (Novel)
 Ryoma (V3)
