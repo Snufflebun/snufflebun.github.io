@@ -9,6 +9,8 @@ Bug fixes.
 
 <b>Cards Added:</b>
 Shoji (Tragedy)
+Meat (Item)
+Dustpan (Item)
 
 <b>Cards Edited:</b>
 Makoto (DR1)
