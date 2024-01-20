@@ -122,3 +122,5 @@
 10<color=#880808>аnemoiа</color>ⓩаnemoiаⓔ
 22<color=#ff003c>Classified1</color>ⓩClassified1ⓔ
 25<color=#c771c0>Mama Zuuja</color>ⓩMama Zuujaⓔ
+14<color=#870909>Shun Star</color>ⓩShun Starⓔ
+14<color=#03fcd7>I Kagayaku I</color>ⓩI Kagayaku Iⓔ
