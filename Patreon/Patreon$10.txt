@@ -126,3 +126,4 @@
 14<color=#03fcd7>I Kagayaku I</color>ⓩI Kagayaku Iⓔ
 00<color=#c714c4>o0xxygen</color>ⓩo0xxygenⓔ
 07<color=#fc0388>JayeTR</color>ⓩJayeTRⓔ
+32<color=red>Names_lucifer</color>ⓩNames_luciferⓔ
