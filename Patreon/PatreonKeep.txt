@@ -188,3 +188,24 @@
 23<color=red>R</color><color=#FFFFFF>ed</color><color=red>R</color><color=#FFFFFF>ose</color><color=red>R</color><color=#FFFFFF>equired</color>ⓩRedRoseRequiredⓔ
 06<color=#50A2E2>HeyItsHaru</color>ⓩHeyItsHaruⓔ
 14<color=#CBC3E3>Huntress9100</color>ⓩHuntress9100ⓔ
+13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ25<color=#800080>Agent</color><color=#0000FF>Sayaka</color>ⓩAgentSayakaⓔ
+07<color=#8ab8ed>GayPencilCase</color>ⓩGayPencilCaseⓔ
+00<color=#9791F4>Azurite</color>ⓩAzuriteⓔ
+02<color=#fc03e7>A lil devil</color>ⓩA lil devilⓔ
+32<color=#cb293b>koaichi</color>ⓩkoaichiⓔ
+23<color=#1ce852>ToxiShadow</color>ⓩToxiShadowⓔ
+00ⓩcodster3ⓔ
+26<color=#03fcc6>Call_Me_Tiny</color>ⓩCall_Me_Tinyⓔ
+10<color=#880808>аnemoiа</color>ⓩаnemoiаⓔ
+02<color=#1a5bab>invalid</color>ⓩ_invalidⓔ
+00ⓩNeonNexos a248ⓔ
+03<color=#E3C565>D</color>R. <color=#E3C565>T</color>SUMIKIⓩᴅʀ ．ᴛsᴜᴍɪᴋɪⓔ
+11<color=#FF69B4>KjTheDumbOcto</color>ⓩKjTheDumbOctoⓔ
+22<color=#710193>BendySIendy</color>ⓩBendySIendyⓔ
+08<color=#FF2700>Brokefish387760</color>ⓩBrokefish387760ⓔ
+08<color=#20acd6>MUUMUUABUS</color>ⓩмυυмυυαвυѕⓔ
+26<color=#228b22>Midnightsodapop</color>ⓩMidnightsodapopⓔ
+00<color=#13b4d4>Jace Starcaller</color>ⓩJace Starcallerⓔ
+12<color=#e67eb0>Drag Queenie</color>ⓩDrag Queenieⓔ
+14<color=#4103fc>CandyUwU</color>ⓩCandyÚwÙⓔ
+09<color=#4395d9>Queen</color><color=#e39cff>Lindz</color>ⓩQueenLindzⓔ

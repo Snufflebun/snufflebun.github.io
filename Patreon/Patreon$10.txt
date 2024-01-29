@@ -10,7 +10,6 @@
 00ⓩBarry3131ⓔ
 14<color=#ed9140>Phlox_subulata1</color>ⓩPhlox_subulata1ⓔ
 00ⓩGrunk 551bⓔ
-00ⓩNeonNexos a248ⓔ
 11<color=#8b0000>- k e l -</color>ⓩ- k e l -ⓔ
 32mugglesⓩSmugglesⓔ
 24<color=6800FF>Arsonist Racoon</color>ⓩarsonist racoonⓔ
@@ -18,8 +17,6 @@
 22<color=#440A7D>Chahut</color>ⓩChahutⓔ
 14<color=#c203fc>JINX</color>ⓩJł₦Ӿⓔ
 00<color=#8c35de>Preyus</color>ⓩPreyusⓔ
-00<color=#9791F4>Azurite</color>ⓩAzuriteⓔ
-08<color=#FF2700>Brokefish387760</color>ⓩBrokefish387760ⓔ
 22<color=#ED0F87>ⓩGB</color>Makiⓔ
 26<color=#6a0dad>T</color><color=#000000>emari_</color>ⓩTenyuki 3820ⓔ
 08<color=#800000>pkmnboy</color>ⓩpkmnboyⓔ
@@ -28,7 +25,6 @@
 14<color=#6B0000>X</color><color=#0AFB6F>Minty</color>ⓩXMintyⓔ
 02ⓩMacman741ⓔ
 13<color=#880808>Jarsaly</color>ⓩJarsalyⓔ
-03<color=#E3C565>D</color>R. <color=#E3C565>T</color>SUMIKIⓩᴅʀ ．ᴛsᴜᴍɪᴋɪⓔ
 00<color=red>A</color>lice <color=red>RP</color> <color=red>N</color>ameⓩAlice RP Nameⓔ
 12<color=#FFCBCB>Rosebl0ssom</color>ⓩRosebl0ssom 3af3ⓔ
 07<color=#be1c11>SamaelMustDie</color>ⓩSamaelMustDieⓔ
@@ -38,20 +34,14 @@
 22<color=#eb0100>X</color>ekunⓩXekunⓔ
 02<color=#FF0000>DemonQueenShori</color>ⓩDemonQueenShoriⓔ
 02Dr.<color=#FF2400>S</color><color=#98FF98>L</color><color=#FF2400>U</color><color=#98FF98>S</color><color=#FF2400>H</color><color=#98FF98>I</color><color=#FF2400>E</color>ⓩĐя․ֆʟʊֆɦɨɛⓔ
-09<color=#4395d9>Queen</color><color=#e39cff>Lindz</color>ⓩQueenLindzⓔ
 30<color=#0D98BA>NeverRight</color>ⓩNeverNight246ⓔ
 25<color=#ffb3de>seraphiminity</color>ⓩseraphiminityⓔ
-02<color=#1a5bab>invalid</color>ⓩ_invalidⓔ
 31<color=b7ffe6>Caustíx</color>ⓩCaustíxⓔ
-13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ25<color=#800080>Agent</color><color=#0000FF>Sayaka</color>ⓩAgentSayakaⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
-11<color=#FF69B4>KjTheDumbOcto</color>ⓩKjTheDumbOctoⓔ
-07<color=#8ab8ed>GayPencilCase</color>ⓩGayPencilCaseⓔ
 02<color=#ffffff>M</color><color=#e7cdcc>i</color><color=#d09c99>d</color><color=#b86b66>o</color><color=#a13a32>r</color><color=#8a0900>i</color>ⓩᴍɪᴅᴏʀɪ ｡｡｡ⓔ
 12<color=#A020F0>vNightmare I</color>ⓩvNightmare Iⓔ
 17<color=#800080>Experiment Saru</color>ⓩExperiment_Saruⓔ
 10<color=#00FFFF>N</color>EWCOMERVIIⓩNEWCOMERVIIⓔ
-22<color=#710193>BendySIendy</color>ⓩBendySIendyⓔ
 31<color=#19520b>jdthehero213</color>ⓩjdthehero213ⓔ
 18Fuzionxunityⓩfuzionxunityⓔ
 22<color=#13d7ed>Sir Skyfee</color>ⓩSir_Skyfeeⓔ
@@ -59,14 +49,10 @@
 13<color=#e5b3b5>CanoeCarrot</color>ⓩCanoeCarrotⓔ
 02<color=#4d0c0d>-Millie</color><color=#573c69>Maple-</color>ⓩ-MillieMaple-ⓔ
 26Jaden143ⓩJaden143 de30ⓔ
-23<color=#1ce852>ToxiShadow</color>ⓩToxiShadowⓔ
 08<color=#a503fc>Vincent M</color>ⓩVincent Mⓔ
 00<color=#b50018>BirdBee459</color>ⓩBirdBee459ⓔ
-00ⓩcodster3ⓔ
-26<color=#228b22>Midnightsodapop</color>ⓩMidnightsodapopⓔ
 11<color=#492e66>StarryEdits</color>ⓩStarryEditsⓔ
 26<color=#484E91>Chiaki</color><color=#5085BF> Iwatani</color>ⓩChiaki Iwataniⓔ
-02<color=#fc03e7>A lil devil</color>ⓩA lil devilⓔ
 02<color=#911313>քǟֆȶɛʟ քʀɨռƈɛ</color>ⓩքǟֆȶɛʟ քʀɨռƈɛⓔ
 14<color=#6919f5>Punkeon_JackSix</color>ⓩPunkeon_JackSixⓔ
 11<color=#cc9b14>CheemsTM</color>ⓩCheemsTMⓔ
@@ -76,50 +62,27 @@
 00<color=#ffffff>Kashmoney124</color>ⓩKashmoney124ⓔ
 06<color=#2b2616>ᴄ</color><color=#FFFFFF>ᴏ</color><color=#2b2616>ᴄ</color><color=#FFFFFF>ᴏ</color><color=#2b2616>ɴ</color><color=#FFFFFF>ᴜ</color><color=#2b2616>ᴛ`</color>ⓩᴄᴏᴄᴏɴᴜᴛ`ⓔ
 13<color=#000000>oyasumi</color>ⓩօyasumiⓔ
-26<color=#03fcc6>Call_Me_Tiny</color>ⓩCall_Me_Tinyⓔ
 08<color=#1e5922>Bean-Master</color>ⓩBean-Masterⓔ
-06<color=#a34646>sʜᴜɴ ʜᴀsʜɪᴍᴏᴛᴏ෴</color>ⓩsʜᴜɴ ʜᴀsʜɪᴍᴏᴛᴏ෴ⓔ
-00ⓩ~ST4R~ⓔ
 00<color=#1403fc>ZAssassinguy</color>ⓩZAssassinguyⓔ
 23<color=#f013c4>HollowRosé</color>ⓩHollowRoséⓔ
 05<color=#ffe999>cl0wnzz</color><color=#f7c3f6>VR</color>ⓩcl0wnzzVRⓔ
 22<color=#fcad03>SuperMarc64</color>ⓩSuperMarc64ⓔ
 00<color=#FF0000>N</color>yah-<color=#FF0000>C</color>hanⓩNyah-Chanⓔ
-12<color=#027037>M</color>axi <color=#027037>T</color>he <color=#027037>J</color>aguarⓩMaxi The Jaguarⓔ
 17<color=#f7941e>MattoCat</color>ⓩMattoCatⓔ
-14<color=#ac13ed>Weebishgamer03</color>ⓩWeebishgamer03ⓔ
-12<color=#e67eb0>Drag Queenie</color>ⓩDrag Queenieⓔ
-26<color=#9c0606>eKo</color>ⓩِِِeKoⓔ
-12<color=#ab69d1>Sword Jon</color>ⓩSword Jonⓔ
-00<color=#4e6d41>innome</color>ⓩinnomeⓔ
-25<color=#fc0303>its_just_player</color>ⓩits_just_playerⓔ
-08<color=#20acd6>MUUMUUABUS</color>ⓩмυυмυυαвυѕⓔ
 17<color=#000000>ewsilas</color>ⓩewsilasⓔ
 09<color=#ed0909>Sean Skirata</color>ⓩSean Skirataⓔ
-32<color=#cb293b>koaichi</color>ⓩkoaichiⓔ
 32<color=#ab430f>Baptism of Fire</color>ⓩBaptism of Fireⓔ
 07<color=#f5a24e>Cocoa cookie</color>ⓩCocoa cookieⓔ
-12<color=#ffe482>MADLion26</color>ⓩMADLion26ⓔ
-14<color=#4103fc>CandyUwU</color>ⓩCandyÚwÙⓔ
 22<color=#541675>Erbobble</color>ⓩErbobbleⓔ
 07<color=#4efc03>Tokiru</color>ⓩTokiruⓔ
 14<color=#541d1e>vaash</color>ⓩvaashⓔ
 11<color=#7c1bd1>mirqjr</color>ⓩmirqjrⓔ
 12<color=#4ecdc4>~ᴍᴀᴋᴏᴛᴏ ʏᴜᴋɪ~</color>ⓩ~ᴍᴀᴋᴏᴛᴏ ʏᴜᴋɪ~ⓔ
 07<color=#8fe3d2>~Kookii~Kiwi~</color>ⓩ~Kookii~Kiwi~ⓔ
-00ⓩtyrone063ⓔ
-26<color=#0e5238>°《Atlas_1112》°</color>ⓩ°《Atlas_1112》°ⓔ
-03<color=#aaf0d1>Hanafusa</color>ⓩHanafusaⓔ
 11<color=#6282b5>ur fav bisexual</color>ⓩur fav bisexualⓔ
-17<color=#f39cff>ᴋɪʀ1ᴋᴏ</color>ⓩᴋɪʀ1ᴋᴏⓔ
-18<color=#f2aeae>ʙᴀᴇᴋɪᴇ</color>ⓩʙᴀᴇᴋɪᴇⓔ
 00<color=#212121>Dividing Zer</color><color=#871818>0</color>ⓩDividing Zer0ⓔ
 12<color=#4ecdc4>~sᴏᴜ ʜɪʏᴏʀɪ~</color>ⓩ~sᴏᴜ ʜɪʏᴏʀɪ~ⓔ
-00<color=#13b4d4>Jace Starcaller</color>ⓩJace Starcallerⓔ
-26<color=#400c85>SoundAround</color>ⓩSoundAroundⓔ
 26<color=#cc99ff>Zephollo</color>ⓩZepholloⓔ
-23<color=#57b1e6>thefroster</color>ⓩthefrosterⓔ
-10<color=#880808>аnemoiа</color>ⓩаnemoiаⓔ
 22<color=#ff003c>Classified1</color>ⓩClassified1ⓔ
 25<color=#c771c0>Mama Zuuja</color>ⓩMama Zuujaⓔ
 14<color=#870909>Shun Star</color>ⓩShun Starⓔ
@@ -128,3 +91,4 @@
 07<color=#fc0388>JayeTR</color>ⓩJayeTRⓔ
 32<color=red>Names_lucifer</color>ⓩNames_luciferⓔ
 13<color=#03fce7>saturnsluna</color>ⓩsaturnslunaⓔ
+12<color=#ab69d1>Sword Jon</color>ⓩSword Jonⓔ
