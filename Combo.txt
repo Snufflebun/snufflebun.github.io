@@ -1,28 +1,9 @@
-Github: <color=green>Connected</color>     <b>V3.9c</b>
+Github: <color=green>Connected</color>     <b>V3.9.1</b>
 
-<b>15th Jan</b>
+<b>29th Jan</b>
 
-Ruleset items updated.
-Added douse aura.
-GM can now see what an unrevealed item is.
-Bug fixes.
+Large network code changes.
+Some minor world tweaks and bug fixes.
 
-<b>Cards Added:</b>
-Shoji (Tragedy)
-Meat (Item)
-Dustpan (Item)
-
-<b>Cards Edited:</b>
-Makoto (DR1)
-Yui (Novel)
-Ryoma (V3)
-Tsumugi (V3)
-Kirumi (V3)
-Aloysius (UDG)
-Sosouke (Tragedy)
-Duo (Fan)
-Genkin (Fan)
-Hamada (Fan)
-Paintbrush (Item)
 
 ⓔ20241222ⓔ{Whitelist}
