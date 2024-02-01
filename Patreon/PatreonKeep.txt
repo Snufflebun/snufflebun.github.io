@@ -40,7 +40,6 @@
 23<color=#FFC0CB>Slow‚ Ult Oofer</color>ⓩSlow‚ Ult Ooferⓔ
 17<color=#edc0d7>Chi</color>ⓩ˚˖ʚChiɞ˖˚ⓔ
 00<color=#00FFFF>Knight-</color>ⓩTheWhiteKnightⓔ
-08<color=#540568>DJDarkness88</color>ⓩDJDarkness88ⓔ
 00<color=#000000>H</color>omeless<color=#000000>H</color>ypocrite f7bfⓩHomelessHypoⓔ
 01<color=#FFFF00>Geotrix</color>ⓩGeotrix≺3ⓔ
 00ⓩHaze2ⓔ
