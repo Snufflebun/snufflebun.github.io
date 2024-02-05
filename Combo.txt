@@ -1,9 +1,8 @@
-Github: <color=green>Connected</color>     <b>V3.9.1</b>
+Github: <color=green>Connected</color>     <b>V3.9.2</b>
 
-<b>29th Jan</b>
+<b>5th Feb</b>
 
-Large network code changes.
-Some minor world tweaks and bug fixes.
+Monokuma file updated.
 
 
 ⓔ20241222ⓔ{Whitelist}
