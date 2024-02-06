@@ -94,3 +94,4 @@
 12<color=#ab69d1>Sword Jon</color>ⓩSword Jonⓔ
 08<color=#03adfc>yourloveArt</color>ⓩyourloveArtⓔ
 08<color=#ff00d4>DJDarknessALT12</color>ⓩDJDarknessALT12ⓔ
+12<color=#e67eb0>Drag Queenie</color>ⓩDrag Queenieⓔ
