@@ -1,8 +1,35 @@
-Github: <color=green>Connected</color>     <b>V3.9.2</b>
+Github: <color=green>Connected</color>     <b>V3.9.3</b>
 
-<b>5th Feb</b>
+<b>12th Feb</b>
 
-Monokuma file updated.
+Added: Suki (Fan)
+Removed: Megumi (Fan)
 
+<b>Cards Updated</b>
+Chihiro (DR1)
+Byakuya (DR1)
+Hajime (DR2)
+Takaaki (UDG)
+Kazuichi (DR2)
+Takumi (Novel)
+Yui (Novel)
+Ruruka (Other)
+Komaru (UDG)
+Haiji (UDG)
+Monaca (UDG)
+Kotoko (UDG)
+Nagisa (UDG)
+Daiki (Tragedy)
+Shoji (Tragedy)
+Kotomi (Tragedy)
+Illusionist (Fan)
+
+Dustpan (Item)
+Cake (Item)
+Briefcase (Item)
+Magnifying Glass (Item)
+Meat (Item)
+Dustpan (Item)
+Kameko (Item)
 
 ⓔ20241222ⓔ{Whitelist}
