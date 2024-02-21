@@ -102,3 +102,5 @@
 14<color=#03b1fc>ArchainAngel</color>ⓩArchainAngelⓔ
 11<color=#ff9eca>~ᴇᴍᴍᴀ~</color>ⓩ~ᴇᴍᴍᴀ~ⓔ
 13<color=#fc3fd7>Smiley303</color>ⓩSmiley303ⓔ
+01<color=#fcba03>FluffalEevee</color>ⓩFluffalEeveeⓔ
+07<color=#0d3ade>BippoNoBungus</color>ⓩBippoNoBungusⓔ
