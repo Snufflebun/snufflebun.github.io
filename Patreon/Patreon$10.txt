@@ -87,7 +87,6 @@
 25<color=#c771c0>Mama Zuuja</color>ⓩMama Zuujaⓔ
 14<color=#870909>Shun Star</color>ⓩShun Starⓔ
 14<color=#03fcd7>I Kagayaku I</color>ⓩI Kagayaku Iⓔ
-00<color=#c714c4>o0xxygen</color>ⓩo0xxygenⓔ
 07<color=#fc0388>JayeTR</color>ⓩJayeTRⓔ
 14<color=red>Names_lucifer</color>ⓩNames_luciferⓔ
 13<color=#03fce7>saturnsluna</color>ⓩsaturnslunaⓔ
