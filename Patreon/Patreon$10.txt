@@ -104,3 +104,4 @@
 13<color=#fc3fd7>Smiley303</color>ⓩSmiley303ⓔ
 01<color=#fcba03>FluffalEevee</color>ⓩFluffalEeveeⓔ
 07<color=#0d3ade>BippoNoBungus</color>ⓩBippoNoBungusⓔ
+08<color=#f09ffc>ピンクyxursピンク</color>ⓩピンクyxursピンクⓔ
