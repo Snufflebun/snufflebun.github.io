@@ -105,3 +105,4 @@
 01<color=#fcba03>FluffalEevee</color>ⓩFluffalEeveeⓔ
 07<color=#0d3ade>BippoNoBungus</color>ⓩBippoNoBungusⓔ
 08<color=#f09ffc>ピンクyxursピンク</color>ⓩピンクyxursピンクⓔ
+25<color=#C1C6FC>Sato_Kumiko</color>ⓩSato_Kumikoⓔ
