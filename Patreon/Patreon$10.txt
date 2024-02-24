@@ -106,4 +106,5 @@
 08<color=#f09ffc>ピンクyxursピンク</color>ⓩピンクyxursピンクⓔ
 25<color=#C1C6FC>Sato_Kumiko</color>ⓩSato_Kumikoⓔ
 23<color=#5e0d0d>Ice-Spice-Lover</color>ⓩIce-Spice-Loverⓔ
-02<color=#f0740e>Waterdrop48</color>ⓩWaterdrop48ⓔ
+30<color=#f0740e>Waterdrop48</color>ⓩWaterdrop48ⓔ
+22<color=#2354b0>`Ryoma Moru`</color>ⓩ`Ryoma Moru`ⓔ
