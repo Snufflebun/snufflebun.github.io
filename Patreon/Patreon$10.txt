@@ -108,3 +108,4 @@
 23<color=#5e0d0d>Ice-Spice-Lover</color>ⓩIce-Spice-Loverⓔ
 30<color=#f0740e>Waterdrop48</color>ⓩWaterdrop48ⓔ
 22<color=#2354b0>`Ryoma Moru`</color>ⓩ`Ryoma Moru`ⓔ
+00<color=#FF5DCB>A</color>vrage<color=#FF5DCB>Z</color>ombieⓩAvrageZombieⓔ

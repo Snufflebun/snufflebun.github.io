@@ -175,7 +175,6 @@
 20<color=#ff69b4>Ko</color>ⓩKoMomotaⓔ
 18<color=red>M</color><color=#d1d1d1>oondough16</color>ⓩmoondough16ⓔ
 25<color=#d56ea0>Gibz</color>ⓩMr Gibblesⓔ
-00<color=#FF5DCB>A</color>vrage<color=#FF5DCB>Z</color>ombieⓩAvrageZombieⓔ
 06<color=#836953>Aimee-Prankster</color>ⓩAimee-Pranksterⓔ
 26<color=#e46e00>Mr</color> <color=#004cba>Charzard</color><color=#ba8900>0721</color>ⓩMr_Charzard0721ⓔ
 00<color=red>E</color><color=#000000>T</color><color=#ffffff>E</color><color=#000000>R</color><color=red>N</color><color=#000000>A</color><color=#ffffff>L</color><color=#9900ff>Havoc</color>ⓩEternalHavocⓔ
