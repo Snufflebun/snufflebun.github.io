@@ -1,35 +1,25 @@
 Github: <color=green>Connected</color>     <b>V3.9.3</b>
 
-<b>12th Feb</b>
+<b>27th Feb</b>
 
-Added: Suki (Fan)
-Removed: Megumi (Fan)
+Patrons can now change their font and text color inside their dorms.
+Small network tweaks.
+
+Added: Custom Card (Secret)
+Removed: Lilo (Fan)
+Removed: Regina (Fan)
 
 <b>Cards Updated</b>
-Chihiro (DR1)
-Byakuya (DR1)
-Hajime (DR2)
-Takaaki (UDG)
-Kazuichi (DR2)
-Takumi (Novel)
-Yui (Novel)
-Ruruka (Other)
-Komaru (UDG)
-Haiji (UDG)
-Monaca (UDG)
-Kotoko (UDG)
-Nagisa (UDG)
-Daiki (Tragedy)
-Shoji (Tragedy)
-Kotomi (Tragedy)
-Illusionist (Fan)
+Sato (DR2)
+Sonia (DR2)
+Kenji (Novel)
 
-Dustpan (Item)
-Cake (Item)
-Briefcase (Item)
-Magnifying Glass (Item)
-Meat (Item)
-Dustpan (Item)
-Kameko (Item)
+Blame (Item)
+Bomb (Item)
+Kerosene (Item)
+Poison (Item)
+Shotput (Item)
 
-ⓔ20241222ⓔSnufflebunsⓩArsenNate
+Check "Card-Updates" on the DRN discord for card changes.
+
+ⓔ20241222ⓔSnufflebunsⓩArsenNateⓩSmuggles
