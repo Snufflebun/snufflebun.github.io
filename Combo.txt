@@ -32,4 +32,4 @@ Meat (Item)
 Dustpan (Item)
 Kameko (Item)
 
-ⓔ20241222ⓔ{Whitelist}
+ⓔ20241222ⓔSnufflebunsⓩArsenNate
