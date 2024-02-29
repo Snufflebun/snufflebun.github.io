@@ -6,7 +6,6 @@
 14<color=#F8C8DC>Confusion Queen</color>ⓩConfusion Queenⓔ
 22<color=#FFA500>Lady </color><color=#ADD8E6>C</color><color=#FFA500>alico</color>ⓩLady Calicoⓔ
 00<color=red>S</color>ushi<color=red>C</color>haserⓩSushiChaserⓔ
-08<color=#87ceeb>Sir Kenny</color>ⓩSir Kennyⓔ
 00ⓩBarry3131ⓔ
 14<color=#ed9140>Phlox_subulata1</color>ⓩPhlox_subulata1ⓔ
 00ⓩGrunk 551bⓔ
