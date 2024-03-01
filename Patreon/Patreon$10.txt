@@ -108,3 +108,6 @@
 30<color=#22a7d4>Waterdrop48</color>ⓩWaterdrop48ⓔ
 22<color=#2354b0>`Ryoma Moru`</color>ⓩ`Ryoma Moru`ⓔ
 00<color=#FF5DCB>A</color>vrage<color=#FF5DCB>Z</color>ombieⓩAvrageZombieⓔ
+13<color=#425b96>-なぎ-</color>ⓩ-なぎ-ⓔ
+00<color=#850404>Kyoko Takamaki</color>ⓩKyoko Takamakiⓔ
+23<color=#fbbf61>I</color> <color=#ffd89a>Elysium</color> <color=#fbbf61>I</color>ⓩI Elysium Iⓔ
