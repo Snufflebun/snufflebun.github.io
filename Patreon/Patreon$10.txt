@@ -111,3 +111,4 @@
 13<color=#425b96>-なぎ-</color>ⓩ-なぎ-ⓔ
 00<color=#850404>Kyoko Takamaki</color>ⓩKyoko Takamakiⓔ
 23<color=#fbbf61>I</color> <color=#ffd89a>Elysium</color> <color=#fbbf61>I</color>ⓩI Elysium Iⓔ
+23<color=#FF69B4>sweden_anime</color>ⓩsweden_animeⓔ
