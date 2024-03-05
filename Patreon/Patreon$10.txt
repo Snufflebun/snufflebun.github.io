@@ -59,7 +59,6 @@
 26<color=#A2E4B8>One Possum Lord</color>ⓩOne Possum Lordⓔ
 25<color=#F3E5AB>TwistedMothy</color>ⓩTwistedMothyⓔ
 00<color=#ffffff>Kashmoney124</color>ⓩKashmoney124ⓔ
-06<color=#2b2616>ᴄ</color><color=#FFFFFF>ᴏ</color><color=#2b2616>ᴄ</color><color=#FFFFFF>ᴏ</color><color=#2b2616>ɴ</color><color=#FFFFFF>ᴜ</color><color=#2b2616>ᴛ`</color>ⓩᴄᴏᴄᴏɴᴜᴛ`ⓔ
 13<color=#000000>oyasumi</color>ⓩօyasumiⓔ
 08<color=#1e5922>Bean-Master</color>ⓩBean-Masterⓔ
 00<color=#1403fc>ZAssassinguy</color>ⓩZAssassinguyⓔ
@@ -114,3 +113,4 @@
 23<color=#FF69B4>sweden_anime</color>ⓩsweden_animeⓔ
 12<color=#08011a>Hauntedbyyou</color>ⓩHauntedbyyouⓔ
 05<color=#ff035b>GhøstyTøwn</color>ⓩGhøstyTøwnⓔ
+00ⓩomosunnyⓔ
