@@ -122,7 +122,7 @@
 03ⓩJustAFailureⓔ
 26<color=#A020F0>Rinasto</color>ⓩRinastoⓔ
 00<color=#19E8E5>Twitch XaCombat</color>ⓩTwitch XaCombatⓔ
-08<color=#00FFFF>M</color><color=black>onkey </color><color=#BF40BF>G</color><color=black>od</color>ⓩMonkey Godⓔ
+08༻<color=#00FFFF>Y</color><color=black>ūkoThe</color><color=#BF40BF>A</color><color=black>ngel</color>༺ⓩ༻YūkoTheAngel༺ⓔ
 26<color=#FF69B4>CyberBasilisk</color>ⓩCyberBasiliskⓔ
 23<color=#F8C8DC>Elliemorax</color>ⓩElliemoraxⓔ
 07<color=#00BDFF>TinyOWO9321</color>ⓩTinyOWO9321ⓔ
