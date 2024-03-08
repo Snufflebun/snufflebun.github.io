@@ -115,3 +115,4 @@
 05<color=#ff035b>GhøstyTøwn</color>ⓩGhøstyTøwnⓔ
 00ⓩomosunnyⓔ
 23<color=#48bf91>Lunar-Sky</color>ⓩLunar-Skyⓔ
+09<color=#ff05de>イラリxタリ</color>ⓩイラリxタリⓔ
