@@ -117,3 +117,4 @@
 23<color=#48bf91>Lunar-Sky</color>ⓩLunar-Skyⓔ
 09<color=#ff05de>イラリxタリ</color>ⓩイラリxタリⓔ
 23<color=#751717>KatoTheJackal</color>ⓩKatoTheJackalⓔ
+00ⓩRozzieTheJesterⓔ
