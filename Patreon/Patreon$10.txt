@@ -68,7 +68,6 @@
 00<color=#FF0000>N</color>yah-<color=#FF0000>C</color>hanⓩNyah-Chanⓔ
 17<color=#f7941e>MattoCat</color>ⓩMattoCatⓔ
 17<color=#000000>ewsilas</color>ⓩewsilasⓔ
-09<color=#ed0909>Sean Skirata</color>ⓩSean Skirataⓔ
 32<color=#ab430f>Baptism of Fire</color>ⓩBaptism of Fireⓔ
 07<color=#f5a24e>Cocoa cookie</color>ⓩCocoa cookieⓔ
 22<color=#541675>Erbobble</color>ⓩErbobbleⓔ
