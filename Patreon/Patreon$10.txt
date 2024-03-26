@@ -110,7 +110,7 @@
 00<color=#850404>Kyoko Takamaki</color>ⓩKyoko Takamakiⓔ
 23<color=#fbbf61>I</color> <color=#ffd89a>Elysium</color> <color=#fbbf61>I</color>ⓩI Elysium Iⓔ
 23<color=#FF69B4>sweden_anime</color>ⓩsweden_animeⓔ
-12<color=#0C4397>Hauntedzluv</color>ⓩHauntedzluvⓔ
+12<color=#0C4397>hauntedzluv</color>ⓩhauntedzluvⓔ
 05<color=#ff035b>GhøstyTøwn</color>ⓩGhøstyTøwnⓔ
 00ⓩomosunnyⓔ
 23<color=#48bf91>Lunar-Sky</color>ⓩLunar-Skyⓔ
@@ -121,3 +121,6 @@
 05<color=#f2c707>＠Cosmos</color>ⓩ＠Cosmosⓔ
 32<color=#fc8803>0ni_daiski</color>ⓩ0ni_daiskiⓔ
 00ⓩWitchyKunⓔ
+02<color=#51414F>Kazuritheninja</color>ⓩKazuritheninjaⓔ
+13<color=#5f0c66>LilMutton</color>ⓩLilMuttonⓔ
+17<color=#FFD577>Buttermancer</color>ⓩButtermancerⓔ
