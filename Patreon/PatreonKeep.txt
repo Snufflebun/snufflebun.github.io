@@ -157,7 +157,7 @@
 11TheRainyGardenⓩTheRainyGardenⓔ
 26<color=#9e66cc><size=25%>ドリップなし</size> Nodrip</color>ⓩドリップなしⓔ
 23<color=#000000>I Angel I</color>ⓩI Angel Iⓔ
-12<color=#4003f9>~Chazz~</color>ⓩ~Chazz~ⓔ
+36<color=#4003f9>~</color><color=red>Chazz</color><color=#4003f9>~</color>ⓩ~Chazz~ⓔ
 02<color=#8d4cbb>A</color><color=#5b4cbb>L</color><color=#4c7fbb>E</color><color=#4ca4bb>X</color>ⓩObviouslyAlexⓔ
 23<color=#FFB7C5>Taby</color>ⓩᴛᴀʙʏღⓔ
 17<color=#FFD580>G</color>amerpto9026ⓩGamerpto9026 282eⓔ
@@ -207,3 +207,11 @@
 09<color=#4395d9>Queen</color><color=#e39cff>Lindz</color>ⓩQueenLindzⓔ
 08<color=#87ceeb>SleepyKieran</color>ⓩSleepyKieranⓔ
 06ヽ<color=#691337>ʜ</color><color=#d2d8de>ɪ</color><color=#691337>ᴊ</color><color=#d2d8de>ɪ</color><color=#691337>ɴ</color><color=#d2d8de>x</color> ノⓩヽʜɪᴊɪɴx ノⓔ
+11<color=#cc9b14>CheemsTM</color>ⓩCheemsTMⓔ
+18<color=#460B38>Kaede</color>ⓩKaedePlayzⓔ
+25<color=#c771c0>Mama Zuuja</color>ⓩMama Zuujaⓔ
+18Fuzionxunityⓩfuzionxunityⓔ
+05<color=#ffe999>cl0wnzz</color><color=#f7c3f6>VR</color>ⓩcl0wnzzVRⓔ
+32<color=#ab430f>Baptism of Fire</color>ⓩBaptism of Fireⓔ
+00<color=#b50018>BirdBee459</color>ⓩBirdBee459ⓔ
+13<color=#000000>Rosemary Walten</color>ⓩRosemary Waltenⓔ

@@ -1,25 +1,32 @@
-Github: <color=green>Connected</color>     <b>V3.9.4</b>
+Github: <color=green>Connected</color>     <b>V3.9.5</b>
 
-<b>27th Feb</b>
-
-Patrons can now change their font and text color inside their dorms.
-Small network tweaks.
-
-Added: Custom Card (Secret)
-Removed: Lilo (Fan)
-Removed: Regina (Fan)
+<b>1st April</b>
+Code tweaks and prep for next update.
 
 <b>Cards Updated</b>
+Junko (DR1)
+Sayaka (DR1)
+Leon (DR1)
 Sato (DR2)
-Sonia (DR2)
-Kenji (Novel)
+Izuru (DR2)
+Tenko (V3)
+Komaru (UDG)
+Butler (UDG)
+Kotomo (Tragedy)
+Juzo (Other)
+Yuto (Novel)
 
-Blame (Item)
-Bomb (Item)
-Kerosene (Item)
-Poison (Item)
-Shotput (Item)
+Alchemist (Fan)
+Real Estate Agent (Fan)
+Puppeteer (Fan)
+
+Dustpan (Item)
+EMP (Item)
+Short Circuit (Item)
+Letter (Item)
+Ultimate Disguise (Item)
+
 
 Check "Card-Updates" on the DRN discord for card changes.
 
-ⓔ20241222ⓔSnufflebunsⓩArsenNateⓩSmugglesⓩHolySpitballⓩmemeking0ⓩSleepyKieranⓩ~Chazz~
+ⓔ20241222ⓔArsenNateⓩSmugglesⓩHolySpitballⓩmemeking0ⓩSleepyKieranⓩ~Chazz~ⓩEpix-
