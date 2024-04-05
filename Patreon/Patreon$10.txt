@@ -106,3 +106,4 @@
 09<color=#00ffee>T</color>sun<color=#00ffee>M</color>iku<color=#00ffee>VT</color>ⓩTsunMikuVTⓔ
 23<color=#FF69B4>sweden_anime</color>ⓩsweden_animeⓔ
 14<color=#5610e3>lmJanus</color>ⓩlmJanusⓔ
+22<color=#5610e3>ComixMaker</color>ⓩComixMakerⓔ
