@@ -107,3 +107,4 @@
 23<color=#FF69B4>sweden_anime</color>ⓩsweden_animeⓔ
 14<color=#5610e3>lmJanus</color>ⓩlmJanusⓔ
 22<color=#5610e3>ComixMaker</color>ⓩComixMakerⓔ
+13<color=#f9c2ff>Smiley303</color>ⓩSmiley303ⓔ
