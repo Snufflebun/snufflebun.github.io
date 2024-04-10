@@ -108,3 +108,5 @@
 14<color=#5610e3>lmJanus</color>ⓩlmJanusⓔ
 22<color=#5610e3>ComixMaker</color>ⓩComixMakerⓔ
 13<color=#f9c2ff>Smiley303</color>ⓩSmiley303ⓔ
+02<color=#fc1403>Naeyuki</color>ⓩNaeyukiⓔ
+26<color=#00f2ff>i love miku</color>ⓩi love mikuⓔ
