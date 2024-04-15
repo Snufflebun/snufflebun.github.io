@@ -1,30 +1,12 @@
-Github: <color=green>Connected</color>     <b>V3.9.5</b>
+Github: <color=green>Connected</color>     <b>V3.9.6</b>
 
-<b>1st April</b>
-Code tweaks and prep for next update.
+<b>15th April</b>
+Large code and networking tweaks.
+Game walkthrough revamped, now downloads from github.
+Walkthrough: PM Kill investigation rules changed.
 
 <b>Cards Updated</b>
-Junko (DR1)
-Sayaka (DR1)
-Leon (DR1)
-Sato (DR2)
-Izuru (DR2)
-Tenko (V3)
-Komaru (UDG)
-Butler (UDG)
-Kotomo (Tragedy)
-Juzo (Other)
-Yuto (Novel)
-
-Alchemist (Fan)
-Real Estate Agent (Fan)
 Puppeteer (Fan)
-
-Dustpan (Item)
-EMP (Item)
-Short Circuit (Item)
-Letter (Item)
-Ultimate Disguise (Item)
 
 
 Check "Card-Updates" on the DRN discord for card changes.
