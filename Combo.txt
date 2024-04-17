@@ -8,6 +8,17 @@ Walkthrough: PM Kill investigation rules changed.
 <b>Cards Updated</b>
 Puppeteer (Fan)
 
+<b>17th April</b>
+Walkthrough edits:
+Missing line in the founder page relating to hope based kills added.
+Reworded blackening phase page to correctly state the founder is chosen before the PM.
+Changed Trial order page to state day abilities can be used in trials. (due to it being more fun)
+Clarified pre-nights can't be effected by action phase.
+Game overview page re ordered.
+Cross Swords page changed from "cannot contest twice in the same trial" to "cannot be rolled for both cross-swords."
+
+This should be the last edit to walkthrough for a while outside of extra pages being added.
+If there is anything you think should be in the walkthrough feel free to message Smuggles on discord.
 
 Check "Card-Updates" on the DRN discord for card changes.
 
