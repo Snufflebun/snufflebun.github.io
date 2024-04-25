@@ -115,3 +115,4 @@
 22<color=#A020F0>『~¿Five?~』</color>ⓩ『~¿Five?~』ⓔ
 22<color=#A020F0>Acheron-</color>ⓩAcheron-ⓔ
 14<color=#A020F0>『ᴍᴏᴏɴʟɪɢʜᴛ』</color>ⓩ『ᴍᴏᴏɴʟɪɢʜᴛ』ⓔ
+01<color=#301934>Rian64</color>ⓩRian64ⓔ
