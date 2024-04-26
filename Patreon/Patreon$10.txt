@@ -116,3 +116,4 @@
 22<color=#A020F0>Acheron-</color>ⓩAcheron-ⓔ
 14<color=#A020F0>『ᴍᴏᴏɴʟɪɢʜᴛ』</color>ⓩ『ᴍᴏᴏɴʟɪɢʜᴛ』ⓔ
 01<color=#301934>Rian64</color>ⓩRian64ⓔ
+18<color=#0e8c00>LightningTRD</color>ⓩLightningTRDⓔ
