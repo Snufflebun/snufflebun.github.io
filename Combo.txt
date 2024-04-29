@@ -1,24 +1,26 @@
-Github: <color=green>Connected</color>     <b>V3.9.6</b>
+Github: <color=green>Connected</color>     <b>V3.9.7</b>
 
-<b>15th April</b>
-Large code and networking tweaks.
-Game walkthrough revamped, now downloads from github.
-Walkthrough: PM Kill investigation rules changed.
+<b>29th April</b>
+Fixed a typo causing action phase to sometimes go to blackening phase.
+Added a delayed update to active items on a player join to help sync joiners with a higher ping.
+Fixed GM spawning an incorrect item sometimes when trying to spawn dustpan.
 
-<b>Cards Updated</b>
-Puppeteer (Fan)
+Vote lapsing rule on monokuma file removed, not voting during prevote and voting phase counts as a self vote.
 
-<b>17th April</b>
-Walkthrough edits:
-Missing line in the founder page relating to hope based kills added.
-Reworded blackening phase page to correctly state the founder is chosen before the PM.
-Changed Trial order page to state day abilities can be used in trials. (due to it being more fun)
-Clarified pre-nights can't be effected by action phase.
-Game overview page re ordered.
-Cross Swords page changed from "cannot contest twice in the same trial" to "cannot be rolled for both cross-swords."
+<b>Card Added</b>
+Asuka (Tragedy)
 
-This should be the last edit to walkthrough for a while outside of extra pages being added.
-If there is anything you think should be in the walkthrough feel free to message Smuggles on discord.
+<b>Card Updates</b>
+Haiji (UDG)
+Tsumugi (V3)
+Kiriko (Other)
+
+Katana (Item)
+Cake (Item)
+Kerosene (Item)
+Last Will (Item)
+Mask (Item)
+
 
 Check "Card-Updates" on the DRN discord for card changes.
 
