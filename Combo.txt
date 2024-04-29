@@ -5,7 +5,7 @@ Fixed a typo causing action phase to sometimes go to blackening phase.
 Added a delayed update to active items on a player join to help sync joiners with a higher ping.
 Fixed GM spawning an incorrect item sometimes when trying to spawn dustpan.
 
-Vote lapsing rule on monokuma file changed, changed to: not voting during prevote and voting phase counts as a self vote.
+Vote lapsing rule on monokuma file changed to: not voting during prevote or voting phase counts as a self vote.
 
 <b>Card Added</b>
 Asuka (Tragedy)
@@ -13,7 +13,7 @@ Asuka (Tragedy)
 <b>Card Updates</b>
 Haiji (UDG)
 Tsumugi (V3)
-Kiriko (Other)
+Kiriko (Tragedy)
 
 Katana (Item)
 Cake (Item)
