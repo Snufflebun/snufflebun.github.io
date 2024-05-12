@@ -1,27 +1,14 @@
-Github: <color=green>Connected</color>     <b>V3.9.7</b>
+Github: <color=green>Connected</color>     <b>V3.9.7.1</b>
 
-<b>29th April</b>
-Fixed a typo causing action phase to sometimes go to blackening phase.
-Added a delayed update to active items on a player join to help sync joiners with a higher ping.
-Fixed GM spawning an incorrect item sometimes when trying to spawn dustpan.
-
-Vote lapsing rule on monokuma file changed to: not voting during prevote or voting phase counts as a self vote.
+<b>12th May</b>
+Updated to Unity 2022.3.22.
+Added particles to world options.
+Reworked how character notes are built.
 
 <b>Card Added</b>
-Asuka (Tragedy)
-
-<b>Card Updates</b>
-Haiji (UDG)
-Tsumugi (V3)
-Kiriko (Tragedy)
-
-Katana (Item)
-Cake (Item)
-Kerosene (Item)
-Last Will (Item)
-Mask (Item)
+Angler (Fan)
 
 
-Check "Card-Updates" on the DRN discord for card changes.
+Check "Card-Updates" on the DRN discord for detailed card changes and updates.
 
 ⓔ20241222ⓔaⓩbⓩcⓩdⓩeⓩfⓩg
