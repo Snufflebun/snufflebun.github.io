@@ -1,13 +1,12 @@
-Github: <color=green>Connected</color>     <b>V3.9.7.1</b>
+Github: <color=green>Connected</color>     <b>V3.9.7.2</b>
 
-<b>12th May</b>
-Updated to Unity 2022.3.22.
-Added particles to world options.
-Reworked how character notes are built.
+<b>20th May</b>
+Changed visuals of GM Item Rules.
+Removed items nudging upwards on join.
+Added button on GM panel to attempt to sync items if desynced.
 
-<b>Card Added</b>
-Angler (Fan)
-
+<b>Cards Edited</b>
+Study (Fan)
 
 Check "Card-Updates" on the DRN discord for detailed card changes and updates.
 
