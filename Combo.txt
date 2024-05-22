@@ -2,7 +2,7 @@ Github: <color=green>Connected</color>     <b>V3.9.7.2</b>
 
 <b>22nd May</b>
 Fixed protection trial wording to also include "self-attack" as something that does not cause a protection trial.
-Clarified item roleblocks roleblock your item and not you.
+Clarified item roleblocks roleblock just that item.
 Reworded a part on the founder page that clarifies how lethal abilities that don't make you blackened work.
 
 <b>20th May</b>
