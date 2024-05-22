@@ -1,5 +1,8 @@
 Github: <color=green>Connected</color>     <b>V3.9.7.2</b>
 
+<b>22nd May</b>
+Fixed protection trial wording to also include "self-attack" as something that does not cause a protection trial.
+
 <b>20th May</b>
 Changed visuals of GM Item Rules.
 Removed items nudging upwards on join.
