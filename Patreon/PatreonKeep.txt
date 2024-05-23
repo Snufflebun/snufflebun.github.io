@@ -184,7 +184,6 @@
 23<color=red>R</color><color=#FFFFFF>ed</color><color=red>R</color><color=#FFFFFF>ose</color><color=red>R</color><color=#FFFFFF>equired</color>ⓩRedRoseRequiredⓔ
 06<color=#50A2E2>HeyItsHaru</color>ⓩHeyItsHaruⓔ
 14<color=#CBC3E3>Huntress9100</color>ⓩHuntress9100ⓔ
-13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ
 25<color=#800080>Ang3la</color><color=#0000FF>Playz</color>ⓩAng3laPlayzⓔ
 07<color=#8ab8ed>GayPencilCase</color>ⓩGayPencilCaseⓔ
 00<color=#9791F4>Azurite</color>ⓩAzuriteⓔ
