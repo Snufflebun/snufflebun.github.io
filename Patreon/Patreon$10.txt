@@ -45,7 +45,7 @@
 22<color=#13d7ed>Sir Skyfee</color>ⓩSir_Skyfeeⓔ
 29<color=#ed9751>M</color>oonlight<color=#ed9751>S</color>amiⓩMoonlightSamiⓔ
 13<color=#e5b3b5>CanoeCarrot</color>ⓩCanoeCarrotⓔ
-02<color=#4d0c0d>-Millie</color><color=#573c69>Maple-</color>ⓩ-MillieMaple-ⓔ
+02<color=#4d0c0d>°Queen</color> <color=#573c69>Eclipsa°</color>ⓩ°Queen Eclipsa°ⓔ
 26Jaden143ⓩJaden143 de30ⓔ
 11<color=#492e66>StarryEdits</color>ⓩStarryEditsⓔ
 26<color=#484E91>Chiaki</color><color=#5085BF> Iwatani</color>ⓩChiaki Iwataniⓔ
@@ -128,3 +128,4 @@
 26<color=#11f6ec>Airstride</color>ⓩAirstrideⓔ
 00ⓩjonnyraser45.2024 df14ⓔ
 00ⓩrobuxplzⓔ
+12<color=#ff8c21>Slowking2</color>ⓩSlowking2ⓔ
