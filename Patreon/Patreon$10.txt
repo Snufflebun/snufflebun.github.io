@@ -132,3 +132,4 @@
 23<color=#7f1425>Mythiix</color>ⓩMythiixⓔ
 02<color=#8B0000>༒Ｍａｓｔｅｒ Ｄｕｃｋ༒</color>ⓩ༒Ｍａｓｔｅｒ Ｄｕｃｋ༒ⓔ
 31<color=#AA61E2>LeviSerafall</color>ⓩLeviSerafallⓔ
+26<color=#00FFFF>Turbo 004b</color>ⓩTurbo 004bⓔ
