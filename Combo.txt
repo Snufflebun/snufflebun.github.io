@@ -1,6 +1,10 @@
-Github: <color=green>Connected</color>     <b>V3.9.8</b>
+Github: <color=green>Connected</color>     <b>V3.9.8.1</b>
 
-[Action panel might not sync when late joining in a heavy game and resync actions button might not work currently. ]
+<b>6th June</b>
+Assistant no longer things Armed is a lethal ability.
+Fallback for action panel sync added incase actions load before cards.
+Lil bug fixes.
+
 <b>3rd June</b>
 Action panels completely rewritten, now manual synced.
 Added a local only way to view previous nights actions on GM panel.
