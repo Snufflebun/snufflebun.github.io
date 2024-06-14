@@ -91,7 +91,7 @@
 05<color=#ff035b>GhøstyTøwn</color>ⓩGhøstyTøwnⓔ
 00ⓩomosunnyⓔ
 23<color=#48bf91>Lunar-Sky</color>ⓩLunar-Skyⓔ
-09<color=#ff05de>イラリxタリ</color>ⓩイラリxタリⓔ
+09<color=#ff05de>ITxNana</color>ⓩITxNanaⓔ
 23<color=#751717>KatoTheJackal</color>ⓩKatoTheJackalⓔ
 00ⓩRozzieTheJesterⓔ
 26<color=#8422b4>Weebishgamer03</color>ⓩWeebishgamer03ⓔ
