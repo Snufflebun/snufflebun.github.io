@@ -1,52 +1,14 @@
-Github: <color=green>Connected</color>     <b>V3.9.8.1</b>
+Github: <color=green>Connected</color>     <b>V3.9.8.2</b>
 
-<b>6th June</b>
-Assistant no longer things Armed is a lethal ability.
-Fallback for action panel sync added incase actions load before cards.
-Lil bug fixes.
-
-<b>3rd June</b>
-Action panels completely rewritten, now manual synced.
-Added a local only way to view previous nights actions on GM panel.
-Added an assistant for the GM [Very wip and limited right now].
-Kameko aura now works a lot better.
-Changed fonts and how text is created to hopefully make notes easier to read.
-How a new pm is chosen reworded slightly in walkthrough (PM Page) to make it clearer, no rules changed.
+<b>17th June</b>
+Bug fixes.
+Added new code to keypad for preserving future deleted cards as an optional addition for GMs. (1234).
 
 <b>Cards Added</b>
-Dungeon Master (Fan)
+Director (Fan)
 
 <b>Cards Edited</b>
-Mukuro (DR1)
-Hajime (DR2)
-Sato (DR2)
-Hiyoko (DR2)
-Gonta (V3)
-Kaede (V3)
-Kokichi (V3)
-Korekiyo (V3)
-Maki (V3)
-Sana (UDG)
-Koichi (Other)
-Ryota (Other)
-Shoji (Tragedy)
-Soshun (Tragedy)
-Ryouta (Tragedy)
-Shuuji (Novel)
-Licorne (Novel)
-Rokkyu (Fan)
-Ren (Fan)
-Zander (Fan)
-Jay (Fan)
-Rain (Fan)
-Mishima (YTTD)
-Queen of Hatred (Secret)
-Knight of Despair (Secret)
-Gummies (Item)
-Binoculars (Item)
-Mask (Item)
-Mirror (Item)
-Plushie (Item)
+Dungeon Master (Fan)
 
 Check "Card-Updates" on the DRN discord for detailed card changes and updates.
 
