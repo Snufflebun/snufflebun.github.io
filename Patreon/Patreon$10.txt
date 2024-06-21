@@ -61,7 +61,7 @@
 22<color=#fcad03>SuperMarc64</color>ⓩSuperMarc64ⓔ
 00<color=#FF0000>N</color>yah-<color=#FF0000>C</color>hanⓩNyah-Chanⓔ
 17<color=#f7941e>MattoCat</color>ⓩMattoCatⓔ
-17<color=#000000>ewsilas</color>ⓩewsilasⓔ
+17<color=#000000>Dirk Strider</color>ⓩDirk Striderⓔ
 07<color=#f5a24e>Cocoa cookie</color>ⓩCocoa cookieⓔ
 22<color=#541675>Erbobble</color>ⓩErbobbleⓔ
 07<color=#4efc03>Tokiru</color>ⓩTokiruⓔ
