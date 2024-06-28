@@ -103,7 +103,7 @@
 17<color=#FFD577>Buttermancer</color>ⓩButtermancerⓔ
 08<color=#21c208>Neptune_aka_Nep</color>ⓩNeptune_aka_Nepⓔ
 09<color=#00ffee>T</color>sun<color=#00ffee>M</color>iku<color=#00ffee>VT</color>ⓩTsunMikuVTⓔ
-21<color=#0818A8>sweden_anime</color>ⓩsweden_animeⓔ
+21<color=#0818A8>Blooming Helix</color>ⓩBlooming Helixⓔ
 14<color=#5610e3>lmJanus</color>ⓩlmJanusⓔ
 22<color=#5610e3>ComixMaker</color>ⓩComixMakerⓔ
 13<color=#f9c2ff>Smiley303</color>ⓩSmiley303ⓔ
@@ -115,7 +115,7 @@
 22<color=#A020F0>Acheron-</color>ⓩAcheron-ⓔ
 14<color=#A020F0>『ᴍᴏᴏɴʟɪɢʜᴛ』</color>ⓩ『ᴍᴏᴏɴʟɪɢʜᴛ』ⓔ
 01<color=#301934>Rian64</color>ⓩRian64ⓔ
-18<color=#0e8c00>LightningTRD</color>ⓩLightningTRDⓔ
+18<color=#0e8c00>-Light-Loves-U-</color>ⓩ-Light-Loves-U-ⓔ
 00ⓩＲｅｎＶＲⓔ
 00ⓩЅаtоru Gоjоⓔ
 17<color=#61877b>r4ayy</color>ⓩr4ayyⓔ
