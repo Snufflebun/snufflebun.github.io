@@ -1,14 +1,41 @@
-Github: <color=green>Connected</color>     <b>V3.9.8.2</b>
+Github: <color=green>Connected</color>     <b>V3.9.8.3</b>
 
-<b>17th June</b>
-Bug fixes.
-Added new code to keypad for preserving future deleted cards as an optional addition for GMs. (1234).
+<b>1st July</b>
+Added DR2 achievements for you collectors.
+Added notes in cards to further clarify if something is a suppression/lethal.
 
 <b>Cards Added</b>
-Director (Fan)
+Yuma Kokohead (Secret)
 
 <b>Cards Edited</b>
-Dungeon Master (Fan)
+Sakura (DR1)
+Hifumi (DR1)
+Daiya (DR1)
+Tenko (V3)
+Monaca (UDG)
+Nagisa (UDG)
+Kanon (Novel)
+Misaki (Novel)
+Ikue (Novel)
+Angler (Fan)
+Ecologist (Fan)
+Girlfriend (Tragedy)
+Boyfriend (Tragedy)
+Karen (Tragedy)
+Kenji (Tragedy)
+Diasaku (Other)
+
+Sleeping Pills (Item)
+Mystery Box (Item)
+Mask (Item)
+Gummies (Item)
+Baseball Bat (Item)
+
+<b>Cards Removed</b>
+Puppeteer (Fan)
+Occultist (Fan)
+Illusionist (Fan)
+Unlucky (Fan)
 
 Check "Card-Updates" on the DRN discord for detailed card changes and updates.
 
