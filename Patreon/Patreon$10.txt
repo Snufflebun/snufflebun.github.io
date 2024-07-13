@@ -115,7 +115,7 @@
 22<color=#A020F0>Acheron-</color>ⓩAcheron-ⓔ
 14<color=#A020F0>『ᴍᴏᴏɴʟɪɢʜᴛ』</color>ⓩ『ᴍᴏᴏɴʟɪɢʜᴛ』ⓔ
 01<color=#301934>Rian64</color>ⓩRian64ⓔ
-18<color=#0e8c00>-Light-Loves-U-</color>ⓩ-Light-Loves-U-ⓔ
+17<color=#0e8c00>-Light-Loves-U-</color>ⓩ-Light-Loves-U-ⓔ
 00ⓩＲｅｎＶＲⓔ
 00ⓩЅаtоru Gоjоⓔ
 17<color=#61877b>r4ayy</color>ⓩr4ayyⓔ
@@ -148,3 +148,4 @@
 06<color=#FF8E7A>֍~TeddyGrams~֍</color>ⓩ֍~TeddyGrams~֍ⓔ
 22<color=#FFC0CB>GalaxyHour</color>ⓩGalaxyHourⓔ
 02<color=#4b0082>『Gambling֍God』</color>ⓩ『Gambling֍God』ⓔ
+23<color=#b578ff>~Sxgarfrxgz~</color>ⓩ~Sxgarfrxgz~ⓔ
