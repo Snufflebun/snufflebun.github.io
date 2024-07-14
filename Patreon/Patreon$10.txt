@@ -133,7 +133,7 @@
 02<color=#8B0000>༒Ｍａｓｔｅｒ Ｄｕｃｋ༒</color>ⓩ༒Ｍａｓｔｅｒ Ｄｕｃｋ༒ⓔ
 31<color=#AA61E2>LeviSerafall</color>ⓩLeviSerafallⓔ
 26<color=#00FFFF>Turbo 004b</color>ⓩTurbo 004bⓔ
-11<color=#0c2d1c>Tóko!!</color>ⓩTóko!!ⓔ
+11<color=#0c2d1c>Tóko</color>ⓩTókoⓔ
 13~Aqua_Hoshino~ⓩ~Aqua_Hoshino~ⓔ
 13<color=#85e5f1>TinyOWO9321 ffc3</color>ⓩTinyOWO9321 ffc3ⓔ
 12<color=#56a0d3>KokichiiiYT</color>ⓩKokichiiiYTⓔ
