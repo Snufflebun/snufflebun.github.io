@@ -155,3 +155,4 @@
 02<color=#ff0087>ᴇʀᴢᴀ</color>ⓩᴇʀᴢᴀⓔ
 02<color=#F382C5>Baptism of Fire</color>ⓩBaptism of Fireⓔ
 02<color=#cc0000>CosmicQuartz</color>ⓩCosmicQuartzⓔ
+08<color=#80007F>Chihirozumbiees</color>ⓩChihirozumbieesⓔ
