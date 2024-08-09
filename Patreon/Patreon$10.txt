@@ -156,10 +156,11 @@
 02<color=#F382C5>Baptism of Fire</color>ⓩBaptism of Fireⓔ
 02<color=#cc0000>CosmicQuartz</color>ⓩCosmicQuartzⓔ
 08<color=#80007F>Chihirozumbiees</color>ⓩChihirozumbieesⓔ
-30<color=#6E6696>Lυɳαɾ Eƈʅιρʂҽ〤</color>ⓩLυɳαɾ Eƈʅιρʂҽ〤ⓔ
+26<color=#FFCE30>Keiji Shinogi〤color>ⓩKeiji Shinogi〤ⓔ
 01<color=#59eaff>Hiyori Sou</color>ⓩHiyori Souⓔ
 08<color=#ff5733>Brownie-Mï×</color>ⓩBrownie-Mï×ⓔ
 23<color=#594569>Leoheart118</color>ⓩLeoheart118ⓔ
 10<color=#de0917>elsie16</color>ⓩelsie16ⓔ
 09<color=#ffc0cb>Kyoxhan</color>ⓩKyoxhanⓔ
 23<color=#BF40BF>DesertedShrine</color>ⓩDesertedShrineⓔ
+14<color=#56996A>-frost-star-</color>ⓩ-frost-star-ⓔ
