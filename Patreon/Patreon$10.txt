@@ -164,3 +164,4 @@
 09<color=#ffc0cb>Kyoxhan</color>ⓩKyoxhanⓔ
 23<color=#BF40BF>DesertedShrine</color>ⓩDesertedShrineⓔ
 14<color=#56996A>-frost-star-</color>ⓩ-frost-star-ⓔ
+08<color=#800080>~Trix~</color>ⓩ~Trix~ⓔ
