@@ -170,3 +170,4 @@
 26<color=#16f0ec>Ghoul0fSelfless</color>ⓩGhoul0fSelflessⓔ
 17<color=#5db783>ᴋ1ᴛᴛɪᴇ</color>ⓩᴋ1ᴛᴛɪᴇⓔ
 25<color=#8f7ca1>ApølløSøl</color>ⓩApølløSølⓔ
+26<color=#FF0098>RogueSkye a508</color>ⓩRogueSkye a508ⓔ
