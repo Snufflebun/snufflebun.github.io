@@ -172,3 +172,4 @@
 25<color=#8f7ca1>ApølløSøl</color>ⓩApølløSølⓔ
 26<color=#FF0098>RogueSkye a508</color>ⓩRogueSkye a508ⓔ
 22<color=#104002>NGNH</color>ⓩNGNHⓔ
+18<color=#FF389B>Twitch XaCombat</color>ⓩTwitch XaCombatⓔ
