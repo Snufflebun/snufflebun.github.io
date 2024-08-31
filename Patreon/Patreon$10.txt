@@ -173,3 +173,4 @@
 26<color=#FF0098>RogueSkye a508</color>ⓩRogueSkye a508ⓔ
 22<color=#104002>NGNH</color>ⓩNGNHⓔ
 18<color=#FF389B>Twitch XaCombat</color>ⓩTwitch XaCombatⓔ
+22<color=#fc3903>soulシ</color>ⓩsoulシⓔ
