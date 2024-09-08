@@ -183,3 +183,4 @@
 31<color=#693f96>Kᴏkichi Oma</color>ⓩKᴏkichi Omaⓔ
 14<color=#4B0082>iAmTaiTai</color>ⓩiAmTaiTaiⓔ
 09<color=#eb4034>Sintrina</color>ⓩSintrinaⓔ
+00<color=#0000ff>Blueeyes239</color>ⓩBlueeyes239ⓔ
