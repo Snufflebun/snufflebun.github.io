@@ -174,7 +174,7 @@
 22<color=#104002>NGNH</color>ⓩNGNHⓔ
 18<color=#FF389B>Twitch XaCombat</color>ⓩTwitch XaCombatⓔ
 22<color=#fc3903>soulシ</color>ⓩsoulシⓔ
-13<color=#ADD8E6>Seven£</color>ⓩSeven£ⓔ
+13<color=#ADD8E6>¥Venti¥</color>ⓩ¥Venti¥ⓔ
 14<color=#818385>ʅҽɱσɳ ƈҽɾႦҽrus</color>ⓩʅҽɱσɳ ƈҽɾႦҽrusⓔ
 13<color=#11fa8d>ʅιɱҽ ʂԋҽɾbet</color>ⓩʅιɱҽ ʂԋҽɾbetⓔ
 00ⓩ୨୧Bubbles୨୧ⓔ
