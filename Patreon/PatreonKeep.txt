@@ -167,7 +167,6 @@
 18<color=red>M</color><color=#d1d1d1>oondough16</color>ⓩmoondough16ⓔ
 25<color=#d56ea0>Gibz</color>ⓩMr Gibblesⓔ
 06<color=#836953>Aimee-Prankster</color>ⓩAimee-Pranksterⓔ
-26<color=#e46e00>Mr</color> <color=#004cba>Charzard</color><color=#ba8900>0721</color>ⓩMr_Charzard0721ⓔ
 00<color=red>E</color><color=#000000>T</color><color=#ffffff>E</color><color=#000000>R</color><color=red>N</color><color=#000000>A</color><color=#ffffff>L</color><color=#9900ff>Havoc</color>ⓩEternalHavocⓔ
 00<color=#0090e2>Supa</color><color=#ff8c00>iku</color>ⓩSupaiku'ⓔ
 31<color=#26a5d4>Slor</color><color=#ff2414>bor</color><color=#26a5d4>bius</color>ⓩSlorborbiusⓔ
