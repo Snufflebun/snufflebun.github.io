@@ -19,48 +19,28 @@ Kibougamine
 Kyoka
 
 <b>Cards Updated</b>
-Licorne
-			Haiji
-Shuuji
-			Aloysius
-Nagisa
-			Sato
-Peko
-			Sonia
-Sayaka
-			Junko
-Makoto
-			Nekomaru
-Mechamaru
-			Kirumi
-Shuichi
-			Soshun
-Seiko
-			Tsumugi
-Ryota
-			Yuta
-Gonta
-			Great Gozu
-Hiyoko
-			Izuru
-Fujiko
-			Kotoko
-Kokichi
-			Ryoko
-Taro
-			Maki
-Imposter
-			Mukuro
+Licorne			Haiji
+Shuuji			Aloysius
+Nagisa			Sato
+Peko			Sonia
+Sayaka			Junko
+Makoto			Nekomaru
+Mechamaru			Kirumi
+Shuichi			Soshun
+Seiko			Tsumugi
+Ryota			Yuta
+Gonta			Great Gozu
+Hiyoko			Izuru
+Fujiko			Kotoko
+Kokichi			Ryoko
+Taro			Maki
+Imposter			Mukuro
 
 <b>Items Updated</b>
-Princess Piggles
-				Flashback Light
-Short Circuit
-				Crystal Ball
-Kerosene
-				Bomb
-Katana
-				Gun
+Princess Piggles				Flashback Light
+Short Circuit				Crystal Ball
+Kerosene				Bomb
+Katana				Gun
 
 - - - -
 
