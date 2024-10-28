@@ -22,18 +22,18 @@ Kyoka
 Licorne			Haiji
 Shuuji			Aloysius
 Nagisa			Sato
-Peko			Sonia
+Peko				Sonia
 Sayaka			Junko
 Makoto			Nekomaru
 Mechamaru			Kirumi
 Shuichi			Soshun
-Seiko			Tsumugi
+Seiko				Tsumugi
 Ryota			Yuta
 Gonta			Great Gozu
 Hiyoko			Izuru
 Fujiko			Kotoko
 Kokichi			Ryoko
-Taro			Maki
+Taro				Maki
 Imposter			Mukuro
 
 <b>Items Updated</b>
