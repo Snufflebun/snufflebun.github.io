@@ -10,50 +10,55 @@ Achievements are back. (Playtime achievements are persistence beta only)
 Some world and dorm options will save and load automatically. (Instance created on the persistence beta only)
 
 Due to some issues with the persistence beta, auto saving only works if the instance was created by a person on the persistence beta, make sure to manual save if you care.
+Expect a follow up update in the next week or so.
+
+<b>Cards Updated</b>
+Kibougamine
+Kyoka
 
 <b>Cards Updated</b>
 Licorne
-Haiji
+			Haiji
 Shuuji
-Aloysius
+			Aloysius
 Nagisa
-Sato
+			Sato
 Peko
-Sonia
+			Sonia
 Sayaka
-Junko
+			Junko
 Makoto
-Nekomaru
+			Nekomaru
 Mechamaru
-Kirumi
+			Kirumi
 Shuichi
-Soshun
+			Soshun
 Seiko
-Tsumugi
+			Tsumugi
 Ryota
-Yuta
+			Yuta
 Gonta
-Great Gozu
+			Great Gozu
 Hiyoko
-Izuru
+			Izuru
 Fujiko
-Kotoko
+			Kotoko
 Kokichi
-Ryoko
+			Ryoko
 Taro
-Maki
+			Maki
 Imposter
-Mukuro
+			Mukuro
 
 <b>Items Updated</b>
 Princess Piggles
-Flashback Light
+				Flashback Light
 Short Circuit
-Crystal Ball
+				Crystal Ball
 Kerosene
-Bomb
+				Bomb
 Katana
-Gun
+				Gun
 
 - - - -
 
