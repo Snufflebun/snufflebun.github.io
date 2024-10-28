@@ -39,8 +39,8 @@ Imposter			Mukuro
 <b>Items Updated</b>
 Princess Piggles				Flashback Light
 Short Circuit				Crystal Ball
-Kerosene				Bomb
-Katana				Gun
+Kerosene					Bomb
+Katana					Gun
 
 - - - -
 
