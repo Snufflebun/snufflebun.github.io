@@ -201,3 +201,4 @@
 22<color=#5C068C>Sword 0</color>ⓩSword 0ⓔ
 13<color=#D6B4FC>JellyonVenus</color>ⓩJellyonVenusⓔ
 13<color=#56A0D3>ºMÿšťîçFłøẃèrº</color>ⓩºMÿšťîçFłøẃèrºⓔ
+22<color=#5C068C>Fujiko Yamada</color>ⓩFujiko Yamadaⓔ
