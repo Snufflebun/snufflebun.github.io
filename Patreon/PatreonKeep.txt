@@ -147,7 +147,7 @@
 23<color=#64476F>JtDragonWolf</color>ⓩJtDragonWolfⓔ
 14<color=#7d12ff>SuperNova</color>ⓩSuperNova77ⓔ
 22<color=#89CFF0>D</color>esp<color=#89CFF0>a</color>irⓩᴅᴇsᴘᴀɪʀⓔ
-11TheRainyGardenⓩTheRainyGardenⓔ
+11IEatSpidersⓩIEatSpidersⓔ
 26<color=#9e66cc><size=25%>ドリップなし</size> Nodrip</color>ⓩドリップなしⓔ
 23<color=#000000>I Angel I</color>ⓩI Angel Iⓔ
 36<color=#4003f9>~</color><color=red>Chazz</color><color=#4003f9>~</color>ⓩ~Chazz~ⓔ
