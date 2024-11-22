@@ -1,5 +1,8 @@
 Github: <color=green>Connected</color>     <b>V4.0.2</b>
 
+<b>The latest VRC update has broken some networking so the world may not work as intended right now.</b>
+
+
 <b>18th Nov</b>
 Fixed dorm 9 messenger not working.
 Added page that was missing on the in game version of the walkthrough for PM Trials.
