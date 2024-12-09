@@ -208,3 +208,4 @@
 23<color=#cc0000>ＳtrayＤogs</color>ⓩＳtrayＤogsⓔ
 00ⓩPh0n3yBandag3sⓔ
 11<color=#F8C8DC>addi_111</color>ⓩaddi_111ⓔ
+00ⓩAkaruiCrestⓔ
