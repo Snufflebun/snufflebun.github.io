@@ -1,31 +1,19 @@
-Github: <color=green>Connected</color>     <b>V4.0.2</b>
+Github: <color=green>Connected</color>     <b>V4.0.3</b>
 
-<b>18th Nov</b>
-Fixed dorm 9 messenger not working.
-Added page that was missing on the in game version of the walkthrough for PM Trials.
-Updated Extra Rules in the walkthrough.
-Added icons in notes to clarify if the ability/item is a special link or not.
+<b>9th Dec</b>
+Community cards swapped out.
 
 <b>Cards Updated</b>
-All YTTD cards
-Various Fan cards
-Mikan
-Fuhito
 Sato
-Shoji
-Karen
-Tomohiko
-Maki
-Kyoka
 Kibougamine
-Jataro
+Suki
+Merin
+Focalia
 
 <b>Items Updated</b>
-Katana
-Evidence Ticket
-Letter
-Fast Pass
-Cloaking Device
+Sledgehammer
+Sleeping Pills
+Flashback Light
 
 - - - -
 
