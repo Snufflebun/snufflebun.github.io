@@ -204,7 +204,6 @@
 00<color=#b50018>BirdBee459</color>ⓩBirdBee459ⓔ
 13<color=#000000>Honey Vanity</color>ⓩHoney Vanityⓔ
 08<color=#a503fc>Vincent_M</color>ⓩVincent_Mⓔ
-31<color=#1b6e9c>『Cain Incubus』</color>ⓩ『Cain Incubus』ⓔ
 07<color=#8fe3d2>~Kookii~Kiwi~</color>ⓩ~Kookii~Kiwi~ⓔ
 12<color=#A020F0>vNightmare I</color>ⓩvNightmare Iⓔ
 18<color=#FF389B>Twitch XaCombat</color>ⓩTwitch XaCombatⓔ
