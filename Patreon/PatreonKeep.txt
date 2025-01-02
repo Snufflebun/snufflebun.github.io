@@ -206,7 +206,6 @@
 08<color=#a503fc>Vincent_M</color>ⓩVincent_Mⓔ
 07<color=#8fe3d2>~Kookii~Kiwi~</color>ⓩ~Kookii~Kiwi~ⓔ
 12<color=#A020F0>vNightmare I</color>ⓩvNightmare Iⓔ
-18<color=#FF389B>Twitch XaCombat</color>ⓩTwitch XaCombatⓔ
 14<color=#6B0000>X</color><color=#0AFB6F>Minty</color>ⓩXMintyⓔ
 08<color=#ff00d4>DJDarknessALT12</color>ⓩDJDarknessALT12ⓔ
 26<color=#8422b4>Weebishgamer03</color>ⓩWeebishgamer03ⓔ
