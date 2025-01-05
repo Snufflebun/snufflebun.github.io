@@ -100,7 +100,7 @@
 22<color=#fc3903>Տоul</color>ⓩՏоulⓔ
 28<color=#3705ff>ＶＯＣＡＬＡＬＥＸＸ</color>ⓩＶＯＣＡＬＡＬＥＸＸⓔ
 31<color=#1b6e9c>『Cain Incubus』</color>ⓩ『Cain Incubus』ⓔ
-13ⓩ¥Venti¥ⓔ
+02<color=#CBC3E3>®Nova_Naegi®</color>ⓩ®Nova_Naegi®ⓔ
 26ⓩHKG Overseerⓔ
 00ⓩ輝 く 星ⓔ
 01<color=301934>Ｒｉａｎ</color>ⓩＲｉａｎⓔ
