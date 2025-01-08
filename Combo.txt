@@ -1,7 +1,10 @@
 Github: <color=green>Connected</color>     <b>V4.0.3</b>
 
+<b>Achievements might delete themselves in the next update due to an issue, if you want to keep them make sure you have a copy of your save string for the next update.</b>
+
 <b>9th Dec</b>
 Community cards swapped out.
+Added missing symbols.
 
 <b>Cards Updated</b>
 Sato
