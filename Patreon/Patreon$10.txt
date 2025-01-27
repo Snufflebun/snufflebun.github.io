@@ -115,3 +115,4 @@
 22<color=#FF0000>RwbyVRC</color>ⓩRwbyVRCⓔ
 32<color=#edb3ff>HimariIto</color>ⓩHimariItoⓔ
 11<color=#3483eb>mike_sunset</color>ⓩmike_sunsetⓔ
+22<color=#00008B>EchoTheFur</color>ⓩEchoTheFurⓔ
