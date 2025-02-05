@@ -1,44 +1,49 @@
-Github: <color=green>Connected</color>     <b>V4.0.4</b>
+Github: <color=green>Connected</color>     <b>V4.0.5</b>
 
-<b>13th Jan</b>
+<b>5th Feb</b>
 
 <b></b>
-New voice pack added by Doctor PAP.
-Voice pack options added to world options.
-Fixed dorms not loading external data.
-Added option to not allow dorm hopping (intended way to play).
-Load by string moved to debug menu.
-Save by string and VRCX removed.
+Added some missing link icons to card notes.
+Fixed killing phase GM icons not spawning.
+Added a GM pen object to globally mark items.
+
+New card: Mama Hanamura
+New item: Watch
 
 <b>Cards Updated</b>
-Angie
-Peko
-Karen
-Taro
-Tsubasa
-Asukasei
-Yuta
-Isshiki
+Kaito
+Ryouta
+Daiki
+Yuto
+Suisei
+Daisaku
+Ruruka
+Seiko
+Takamichi
+Nagisa
+Kotoko
+Kokichi
+Mondo
+Miu
+Sonosuke
+Jin
+Kenji
 Kibougamine
-Ryota
-Kyoka
-Ren (Fan)
-Lilo (Fan)
+Peko
+Angie
 
 <b>Items Updated</b>
-Baseball Bat
+Hope Fragment
+Mirror
+Toilet Paper
+Paintbrush
+Kitchen Knife
 Pen
-Rope
-Meat
-Poison
-Pocket Sand
-Night Vision Goggles
-Idiot Sticker
-
-Monokuma File Updated
+Gun
+Princess Piggles
 
 - - - -
 
-Check "Card-Updates" on the DRN discord for detailed card changes and updates.
+Check the wiki or "Card-Updates" on the DRN discord for detailed card changes and updates.
 
 ⓔ20241222ⓔaⓩbⓩcⓩdⓩeⓩfⓩg
