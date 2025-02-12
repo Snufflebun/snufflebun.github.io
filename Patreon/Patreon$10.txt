@@ -37,7 +37,7 @@
 22<color=#13d7ed>Sir Skyfee</color>ⓩSir_Skyfeeⓔ
 29<color=#ed9751>M</color>oonlight<color=#ed9751>S</color>amiⓩMoonlightSamiⓔ
 13<color=#e5b3b5>CanoeCarrot</color>ⓩCanoeCarrotⓔ
-02<color=#4d0c0d>°Melon</color> <color=#573c69>Float°</color>ⓩ°MelonFloat°ⓔ
+02<color=#4d0c0d>°Sada-Chan°</color>ⓩ°Sada-Chan°ⓔ
 26Jaden143ⓩJaden143 de30ⓔ
 26<color=#484E91>Chiaki</color><color=#5085BF> Iwatani</color>ⓩChiaki Iwataniⓔ
 26<color=#A2E4B8>The Possum Lord</color>ⓩThe Possum Lordⓔ
@@ -117,3 +117,4 @@
 22<color=#00008B>EchoTheFur</color>ⓩEchoTheFurⓔ
 23<color=#751717>KatoTheJackal</color>ⓩKatoTheJackalⓔ
 00ⓩAnzuniⓔ
+10<color=#FFFAA0>JJ Universe</color>ⓩJJ Universeⓔ
