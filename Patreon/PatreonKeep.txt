@@ -217,7 +217,7 @@
 22<color=#FFA500>Lady </color><color=#ADD8E6>C</color><color=#FFA500>alico</color>ⓩLady Calicoⓔ
 14<color=#ed9140>User_Support</color>ⓩUser_Supportⓔ
 14<color=#6919f5>Punkeon_JackSix</color>ⓩPunkeon_JackSixⓔ
-17＞<color=#618f8c>੮</color>૦<color=#618f8c>Ր</color>υ＜ⓩ＞੮૦Րυ＜ⓔ
+17<color=#5f4f40>ᴍ</color><color=#c5e0b5>ᴇʟᴏɴ</color> ツⓩᴍᴇʟᴏɴ ツⓔ
 07<color=#4efc03>Tokiru</color>ⓩTokiruⓔ
 02<color=#493761>~ᴋᴏᴋɪᴄʜɪ-ᴄʜᴀɴ~</color>ⓩ~ᴋᴏᴋɪᴄʜɪ-ᴄʜᴀɴ~ⓔ
 08<color=#1e5922>Bean-Master</color>ⓩBean-Masterⓔ
