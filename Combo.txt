@@ -1,46 +1,48 @@
-Github: <color=green>Connected</color>     <b>V4.0.5</b>
+Github: <color=green>Connected</color>     <b>V4.0.6</b>
 
-<b>5th Feb</b>
+<b>10th March</b>
 
-<b></b>
-Added some missing link icons to card notes.
-Fixed killing phase GM icons not spawning.
-Added a GM pen object to globally mark items.
-
-New card: Mama Hanamura
-New item: Watch
+Blood despawning fixed.
+Mag glass notes fixed.
+Knockout icon fixed.
+GM items remaining when unclaiming GM fixed.
+Mirror correctly moves to center during shuffle phase now.
+Hidden decks work again.
 
 <b>Cards Updated</b>
-Kaito
-Ryouta
-Daiki
-Yuto
-Suisei
-Daisaku
-Ruruka
-Seiko
-Takamichi
-Nagisa
-Kotoko
-Kokichi
+Community Cards
+Ryota
+Juzo
+Yasuhiro
+Toko
+Sayaka
+Sakura
 Mondo
-Miu
-Sonosuke
-Jin
-Kenji
-Kibougamine
-Peko
-Angie
+Makoto
+Leon
+Kyoko
+Kiotaka
+Junko
+Hifumi
+Chihiro
+Celestia
+Aoi
+Alter Ego
+Mai (YTTD)
+Capn Maidas (Fan-New)
+Boris (Fan-New)
 
 <b>Items Updated</b>
+Ultimate Disguise
 Hope Fragment
-Mirror
-Toilet Paper
-Paintbrush
-Kitchen Knife
-Pen
-Gun
-Princess Piggles
+Watch
+Hypnosis
+Duct Tape
+Kerosene
+Rope
+Sledgehammer
+Monocoins
+Knife
 
 - - - -
 
