@@ -1,4 +1,7 @@
-Github: <color=green>Connected</color>     <b>V4.0.6</b>
+Github: <color=green>Connected</color>     <b>V4.0.6a</b>
+
+<b>17th March</b>
+Added a shortcut to the play list to dorms.
 
 <b>10th March</b>
 
