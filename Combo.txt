@@ -1,51 +1,12 @@
-Github: <color=green>Connected</color>     <b>V4.0.6a</b>
+Github: <color=green>Connected</color>     <b>V4.0.7</b>
 
-<b>17th March</b>
+<b>20th April</b>
 Added a shortcut to the player list to dorms.
 
 <b>10th March</b>
 
-Blood despawning fixed.
-Mag glass notes fixed.
-Knockout icon fixed.
-GM items remaining when unclaiming GM fixed.
-Mirror correctly moves to center during shuffle phase now.
-Hidden decks work again.
-
-<b>Cards Updated</b>
-Community Cards
-Ryota
-Juzo
-Yasuhiro
-Toko
-Sayaka
-Sakura
-Mondo
-Makoto
-Leon
-Kyoko
-Kiotaka
-Junko
-Hifumi
-Chihiro
-Celestia
-Aoi
-Alter Ego
-Mai (YTTD)
-Capn Maidas (Fan-New)
-Boris (Fan-New)
-
-<b>Items Updated</b>
-Ultimate Disguise
-Hope Fragment
-Watch
-Hypnosis
-Duct Tape
-Kerosene
-Rope
-Sledgehammer
-Monocoins
-Knife
+Monokuma file updated
+Bunch of items and cards updated, please check the wiki or DRN discord for the full update.
 
 - - - -
 
