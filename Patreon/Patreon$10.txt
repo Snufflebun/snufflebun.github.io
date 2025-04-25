@@ -72,7 +72,7 @@
 02<color=#F382C5>Baptism of Fire</color>ⓩBaptism of Fireⓔ
 02<color=#cc0000>CosmicQuartz</color>ⓩCosmicQuartzⓔ
 09<color=#ffc0cb>Kyoxhan</color>ⓩKyoxhanⓔ
-03<color=#B22222>ItsFaeTine</color>ⓩItsFaeTineⓔ
+03<color=#B22222>TotallyNotDee</color>ⓩTotallyNotDeeⓔ
 26<color=#16f0ec>Miu_Tempest</color>ⓩMiu_Tempestⓔ
 22<color=#104002>NGNH</color>ⓩNGNHⓔ
 31<color=#693f96>「ᴅøᴜᴍᴀ」</color>ⓩ「ᴅøᴜᴍᴀ」ⓔ
@@ -136,3 +136,5 @@
 02<color=#8b0000>scythe2136</color>ⓩscythe2136ⓔ
 00ⓩ༒Brezero༒ⓔ
 00ⓩBriana ৎ୭ⓔ
+22<color=#4287f5>Voxium</color>ⓩVoxiumⓔ
+02<color=#d92323>Snօօpy</color>ⓩSnօօpyⓔ
