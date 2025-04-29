@@ -1,12 +1,7 @@
-Github: <color=green>Connected</color>     <b>V4.0.7</b>
+Github: <color=green>Connected</color>     <b>V4.0.7a</b>
 
-<b>20th April</b>
-Added a shortcut to the player list to dorms.
-
-<b>10th March</b>
-
-Monokuma file updated
-Bunch of items and cards updated, please check the wiki or DRN discord for the full update.
+<b>29th April</b>
+Added fan card: Diplomat
 
 - - - -
 
