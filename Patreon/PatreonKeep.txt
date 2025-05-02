@@ -225,7 +225,6 @@
 02<color=#911313>『The Mad Queen』</color>ⓩ『The Mad Queen』ⓔ
 08<color=#2D73AF>Nero Sparda</color>ⓩNero Spardaⓔ
 11<color=#7c1bd1>mirqjr</color>ⓩmirqjrⓔ
-00<color=#212121>Dividing Zer</color><color=#871818>0</color>ⓩDividing Zer0ⓔ
 26<color=#cc99ff>Zephollo</color>ⓩZepholloⓔ
 13<color=#A020F0>Night</color><color=#F0509A>eye54</color>ⓩNighteye54ⓔ
 00<color=#1403fc>ZAssassinguy</color>ⓩZAssassinguyⓔ
