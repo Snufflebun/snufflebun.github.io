@@ -1,7 +1,8 @@
-Github: <color=green>Connected</color>     <b>V4.0.7a</b>
+Github: <color=green>Connected</color>     <b>V4.0.8</b>
 
-<b>29th April</b>
-Added fan card: Diplomat
+<b>6th June</b>
+All V3 cards updated.
+Monokuma file updated.
 
 - - - -
 
