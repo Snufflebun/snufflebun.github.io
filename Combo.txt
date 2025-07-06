@@ -1,8 +1,34 @@
-Github: <color=green>Connected</color>     <b>V4.0.8</b>
+Github: <color=green>Connected</color>     <b>V4.0.9</b>
 
-<b>6th June</b>
-All V3 cards updated.
-Monokuma file updated.
+<b>6th July</b>
+Aloysius (UDG)
+Fuhito (UDG)
+Fujiko (UDG)
+Kitty (UDG)
+Haiji (UDG)
+Jataro (UDG)
+Hiroko (UDG)
+Kenshiro (UDG)
+Komura (UDG)
+Kotoko (UDG)
+Masaru (UDG)
+Monaca (UDG)
+Nagisa (UDG)
+Taichi (UDG)
+Takaaki (UDG)
+Takamichi (UDG)
+Yuta (UDG)
+Ryota (Anime)
+Kanon (Novel)
+Lauren (Other)
+Yuma (Secret)
+Suki (Fan)
+Ren (Fan)
+Monocoins (Item)
+Junk (Item)
+Fast Pass (Item)
+Flashback Light (Item)
+Rope (Item)
 
 - - - -
 
