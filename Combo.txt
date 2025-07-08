@@ -1,4 +1,9 @@
-Github: <color=green>Connected</color>     <b>V4.0.9</b>
+Github: <color=green>Connected</color>     <b>V4.0.9a</b>
+
+<b>8th July</b>
+Added 4 generic auras.
+Hiroko updated.
+Yuta monomachine no draws from default pool.
 
 <b>6th July</b>
 Aloysius (UDG)
