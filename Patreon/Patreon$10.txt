@@ -4,14 +4,12 @@
 00♥ <color=red>J</color>essica ♥ⓩ♥ Jessica ♥ⓔ
 00<color=#1ee650>Lute</color>ⓩLuteⓔ
 14<color=#F8C8DC>Confusion Queen</color>ⓩConfusion Queenⓔ
-00<color=red>S</color>ushi<color=red>C</color>haserⓩSushiChaserⓔ
 00ⓩBarry3131ⓔ
 00ⓩGrunk 551bⓔ
 11<color=#8b0000>GummiGooFanboy</color>ⓩGummiGooFanboyⓔ
 32mugglesⓩSmugglesⓔ
 24<color=6800FF>Arsonist Racoon</color>ⓩarsonist racoonⓔ
 00ⓩAzura212ⓔ
-14<color=#c203fc>JINX</color>ⓩJł₦Ӿⓔ
 22<color=#ED0F87>ⓩGB</color>Makiⓔ
 26<color=#6a0dad>T</color><color=#000000>emari_</color>ⓩTenyuki 3820ⓔ
 08<color=#800000>pkmnboy</color>ⓩpkmnboyⓔ
@@ -31,13 +29,9 @@
 31<color=b7ffe6>Caustíx</color>ⓩCaustíxⓔ
 02<color=#eeaf61>Sneks</color><color=#ee5d6c>and</color><color=#6a0d83>tarot</color>ⓩSneksandtarotⓔ
 02<color=#ffffff>M</color><color=#e7cdcc>i</color><color=#d09c99>d</color><color=#b86b66>o</color><color=#a13a32>r</color><color=#8a0900>i</color>ⓩᴍɪᴅᴏʀɪ ｡｡｡ⓔ
-17<color=#800080>Experiment Saru</color>ⓩExperiment_Saruⓔ
 10<color=#00FFFF>N</color>EWCOMERVIIⓩNEWCOMERVIIⓔ
 31<color=#19520b>jdthehero213</color>ⓩjdthehero213ⓔ
 22<color=#13d7ed>Sir Skyfee</color>ⓩSir_Skyfeeⓔ
-29<color=#ed9751>M</color>oonlight<color=#ed9751>S</color>amiⓩMoonlightSamiⓔ
-13<color=#e5b3b5>CanoeCarrot</color>ⓩCanoeCarrotⓔ
-02<color=#4d0c0d>Chabashira-Chan</color>ⓩChabashira-Chanⓔ
 26Jaden143ⓩJaden143 de30ⓔ
 26<color=#484E91>Chiaki</color><color=#5085BF> Iwatani</color>ⓩChiaki Iwataniⓔ
 26<color=#A2E4B8>The Possum Lord</color>ⓩThe Possum Lordⓔ
@@ -45,120 +39,52 @@
 23<color=#f013c4>HollowRosé</color>ⓩHollowRoséⓔ
 22<color=#fcad03>SuperMarc64</color>ⓩSuperMarc64ⓔ
 00<color=#FF0000>N</color>yah-<color=#FF0000>C</color>hanⓩNyah-Chanⓔ
-17<color=#f7941e>MattoCat</color>ⓩMattoCatⓔ
 07<color=#f5a24e>Cocoa cookie</color>ⓩCocoa cookieⓔ
 22<color=#541675>Erbobble</color>ⓩErbobbleⓔ
 14<color=#541d1e>vaash</color>ⓩvaashⓔ
 12<color=#4ecdc4>~ᴍᴀᴋᴏᴛᴏ ʏᴜᴋɪ~</color>ⓩ~ᴍᴀᴋᴏᴛᴏ ʏᴜᴋɪ~ⓔ
 12<color=#4ecdc4>~sᴏᴜ ʜɪʏᴏʀɪ~</color>ⓩ~sᴏᴜ ʜɪʏᴏʀɪ~ⓔ
 12<color=#ab69d1>Sword Jon</color>ⓩSword Jonⓔ
-10<color=#5bb089>GunWizard13</color>ⓩGunWizard13ⓔ
 17<color=#FFD577>Buttermancer</color>ⓩButtermancerⓔ
-08<color=#21c208>Neptune_aka_Nep</color>ⓩNeptune_aka_Nepⓔ
-09<color=#00ffee>T</color>sun<color=#00ffee>M</color>iku<color=#00ffee>VT</color>ⓩTsunMikuVTⓔ
 21<color=#0818A8>Blooming Helix</color>ⓩBlooming Helixⓔ
 00ⓩXen_notZenⓔ
 02<color=#A2D2DF>Flora_Dawn</color>ⓩFlora_Dawnⓔ
-26<color=#11f6ec>Airstride</color>ⓩAirstrideⓔ
-13<color=#85e5f1>TinyOWO9321 ffc3</color>ⓩTinyOWO9321 ffc3ⓔ
 12<color=#56a0d3>KokichiiiYT</color>ⓩKokichiiiYTⓔ
 03<color=#EFC3D2>-Alibaba-</color>ⓩ-Alibaba-ⓔ
 08<color=#FF2700>Brokefish387760</color>ⓩBrokefish387760ⓔ
-14<color=#FFC0CB>DeadzCrafted</color>ⓩDeadzCraftedⓔ
 06<color=#FF8E7A>֍~TeddyGrams~֍</color>ⓩ֍~TeddyGrams~֍ⓔ
-22<color=#FFC0CB>GalaxyHour</color>ⓩGalaxyHourⓔ
 06<color=#1eac7f>༒Aʟᴀsᴛᴏʀ༒</color>ⓩ༒Aʟᴀsᴛᴏʀ༒ⓔ
 02<color=#F382C5>Baptism of Fire</color>ⓩBaptism of Fireⓔ
-02<color=#cc0000>CosmicQuartz</color>ⓩCosmicQuartzⓔ
 09<color=#ffc0cb>Kyoxhan</color>ⓩKyoxhanⓔ
 03<color=#B22222>TotallyNotDee</color>ⓩTotallyNotDeeⓔ
 26<color=#16f0ec>Miu_Tempest</color>ⓩMiu_Tempestⓔ
-22<color=#104002>NGNH</color>ⓩNGNHⓔ
-31<color=#693f96>「ᴅøᴜᴍᴀ」</color>ⓩ「ᴅøᴜᴍᴀ」ⓔ
 14<color=#4B0082>iAmTaiTai</color>ⓩiAmTaiTaiⓔ
-09<color=#eb4034>Kara_Delik</color>ⓩKara_Delikⓔ
 00ⓩ_Bell_Cranel_ⓔ
-18ⓩ6pathskageⓔ
 06<color=#ff66f2>mabelsyrupp</color>ⓩmabelsyruppⓔ
 00<color=orange>ඞD</color>eShaunBe<color=orange>M</color>enaceⓩDeShaunBeMenaceⓔ
-03<color=#C70039>Oneeyedbullsie</color>ⓩOneeyedbullsieⓔ
 30<color=#f4c2c2>kiwi_vt</color>ⓩkiwi_vtⓔ
 02<color=#FFC0CB>Bunnibellaღ</color>ⓩBunnibellaღⓔ
-22<color=#5C068C>QueenOfEnvy</color>ⓩQueenOfEnvyⓔ
 22<color=#5C068C>Fujiko Yamada</color>ⓩFujiko Yamadaⓔ
-00ⓩGrace`ⓔ
-00ⓩFelixityyⓔ
-23<color=#cc0000>ＳtrayＤogs</color>ⓩＳtrayＤogsⓔ
 00ⓩPh0n3yBandag3sⓔ
-11<color=#F8C8DC>ʚᆞaᆞdᆞdᆞiᆞɞ</color>ⓩʚᆞaᆞdᆞdᆞiᆞɞⓔ
-00ⓩAkaruiCrestⓔ
-00ⓩ୨୧ iweonie ୨୧ⓔ
-22<color=#fc3903>Տоul</color>ⓩՏоulⓔ
-28<color=#3705ff>ＶＯＣＡＬＡＬＥＸＸ</color>ⓩＶＯＣＡＬＡＬＥＸＸⓔ
-31<color=#1b6e9c>~SoftGothBoi~</color>ⓩ~SoftGothBoi~ⓔ
-02<color=#CBC3E3>®Nova_Naegi®</color>ⓩ®Nova_Naegi®ⓔ
-26ⓩHKG Overseerⓔ
-30<color=#183817>Light-Loves-You</color>ⓩLight-Loves-Youⓔ
-01<color=301934>Ｒｉａｎ</color>ⓩＲｉａｎⓔ
 00<color=#ffffff>Kashmoney124</color>ⓩKashmoney124ⓔ
-14<color=#C70039>NIFFTY the MAID</color>ⓩNIFFTY the MAIDⓔ
-06<color=#B4DD13>4779705535451783 0691</color>ⓩ4779705535451783 0691ⓔ
-18<color=#FF389B>TTV XaCombat</color>ⓩTTV XaCombatⓔ
-02<color=#880808>spookyyethan</color>ⓩspookyyethanⓔ
-00<color=#821a12>〨ddt</color>ⓩ〨ddtⓔ
-00<color=#701d20>YupThatsRei</color>ⓩYupThatsReiⓔ
-02<color=#3a0000>_brickedup4u</color>ⓩ_brickedup4uⓔ
-22<color=#FF0000>RwbyVRC</color>ⓩRwbyVRCⓔ
-32<color=#edb3ff>HimariIto</color>ⓩHimariItoⓔ
-11<color=#3483eb>mike_sunset</color>ⓩmike_sunsetⓔ
 22<color=#00008B>EchoTheFur</color>ⓩEchoTheFurⓔ
-23<color=#751717>KatoTheJackal</color>ⓩKatoTheJackalⓔ
-00ⓩAnzuniⓔ
-10<color=#FFFAA0>JJ Universe</color>ⓩJJ Universeⓔ
-00<color=#FFE900>Mr․Withered</color>ⓩMr․Witheredⓔ
-13<color=#F4c2c2>Kanekisreaper</color>ⓩKanekisreaperⓔ
 10<color=#de0917>°Luna-4°</color>ⓩ°Luna-4°ⓔ
-25<color=#8f7ca1>Mochi's Dreamin</color>ⓩMochi's Dreaminⓔ
 18<color=#F4326A>TopScissors</color>ⓩTopScissorsⓔ
-99<color=#4281f5>-Ｓｉｌｖｅｒ-</color>ⓩ-Ｓｉｌｖｅｒ-ⓔ
-20ⓩSaikiKusuokunⓔ
 00ⓩEternalElizaⓔ
-00ⓩSleepyEbbieⓔ
-00ⓩPhoenixbob13ⓔ
-00ⓩCozy0rangeⓔ
 00ⓩtsbwoody f0efⓔ
-00ⓩBeeQuietⓔ
-99<color=#7c09e8>πølι</color>ⓩπølιⓔ
-99<color=#934c98>JellyonVenus</color>ⓩJellyonVenusⓔ
-02<color=#8b0000>scythe2136</color>ⓩscythe2136ⓔ
-00ⓩ༒Brezero༒ⓔ
-00ⓩBriana ৎ୭ⓔ
 22<color=#4287f5>Voxium</color>ⓩVoxiumⓔ
-02<color=#d92323>Snօօpy</color>ⓩSnօօpyⓔ
-00ⓩTruLoneWolfⓔ
-36<color=#07ad9d>Snօօpy</color>ⓩsillynilⓔ
 11<color=#ac0437>Alexester</color>ⓩAlexesterⓔ
-00<color=#212121>Dividing Zer</color><color=#871818>0</color>ⓩDividing Zer0ⓔ
 11<color=#884ea0>୨кαfкα୧</color>ⓩ୨кαfкα୧ⓔ
 08<color=#D4AF37>The Trissy</color>ⓩThe Trissyⓔ
-00ⓩMemory55ⓔ
-00ⓩMistybackⓔ
-00ⓩsɪʀᴇɴsʟᴜʟʟᴀʙʏⓔ
 00ⓩʜ ɪ ᴍ ɪ ᴋ ᴏ ໑ⓔ
 00ⓩShinaShiⓔ
 00ⓩticklemonsterr72 42a8ⓔ
-00ⓩXanthelastroninⓔ
-00ⓩ~Aqua_Hoshino~ⓔ
-00ⓩShimmering_Ceeⓔ
 00ⓩ༺pinky༻ⓔ
-00ⓩ༺кαι༻ⓔ
-00ⓩstableabel93ⓔ
 00<color=red>【 ღ ᴠɪᴢᴢʏ-ᴠɪ ღ】</color>ⓩ【 ღ ᴠɪᴢᴢʏ-ᴠɪ ღ】ⓔ
 00ⓩ˙Booⓔ
 00ⓩShadowContent06ⓔ
 00ⓩGamingWithKalieⓔ
 00ⓩDravenDeverauxⓔ
-00ⓩ﹋sɪʟʟʏ﹋ⓔ
 00ⓩVXBΣⓔ
 00ⓩღʍɨռʝɨღⓔ
 00ⓩWitchyKunⓔ
