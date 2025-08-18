@@ -1,39 +1,15 @@
-Github: <color=green>Connected</color>     <b>V4.0.9a</b>
+Github: <color=green>Connected</color>     <b>V4.1.0</b>
 
-<b>8th July</b>
-Added 4 generic auras.
-Hiroko updated.
-Yuta monomachine no draws from default pool.
+<b>18th Aug</b>
+Walkthrough updated.
+Added new section: Hundred Line.
+Added new Aura: Infection.
+Added Card: Takemaru (100)
+Added Card: Yugamu (100)
+Added Card: Robo Justice (Other)
+Added Card: Rei (Novel)
 
-<b>6th July</b>
-Aloysius (UDG)
-Fuhito (UDG)
-Fujiko (UDG)
-Kitty (UDG)
-Haiji (UDG)
-Jataro (UDG)
-Hiroko (UDG)
-Kenshiro (UDG)
-Komura (UDG)
-Kotoko (UDG)
-Masaru (UDG)
-Monaca (UDG)
-Nagisa (UDG)
-Taichi (UDG)
-Takaaki (UDG)
-Takamichi (UDG)
-Yuta (UDG)
-Ryota (Anime)
-Kanon (Novel)
-Lauren (Other)
-Yuma (Secret)
-Suki (Fan)
-Ren (Fan)
-Monocoins (Item)
-Junk (Item)
-Fast Pass (Item)
-Flashback Light (Item)
-Rope (Item)
+A lot of items and cards were updated, please check the discord or wiki for the full list.
 
 - - - -
 
