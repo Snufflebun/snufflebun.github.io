@@ -249,3 +249,4 @@
 09<color=#00ffee>T</color>sun<color=#00ffee>M</color>iku<color=#00ffee>VT</color>ⓩTsunMikuVTⓔ
 17<color=#800080>Experiment Saru</color>ⓩExperiment_Saruⓔ
 00<color=#212121>Dividing Zer</color><color=#871818>0</color>ⓩDividing Zer0ⓔ
+02<color=#F382C5>Baptism of Fire</color>ⓩBaptism of Fireⓔ
