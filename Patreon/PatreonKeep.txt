@@ -243,7 +243,7 @@
 13<color=#85e5f1>TinyOWO9321 ffc3</color>ⓩTinyOWO9321 ffc3ⓔ
 18<color=#FF389B>TTV XaCombat</color>ⓩTTV XaCombatⓔ
 09<color=#ed0909>ᴛuɴᴅʀᴀ</color>ⓩᴛuɴᴅʀᴀⓔ
-02<color=#4d0c0d>Chabashira-Chan</color>ⓩChabashira-Chanⓔ
+02<color=#4d0c0d>MelonFloat</color>ⓩMelonFloatⓔ
 13<color=#e5b3b5>CanoeCarrot</color>ⓩCanoeCarrotⓔ
 14<color=#c203fc>JINX</color>ⓩJł₦Ӿⓔ
 09<color=#00ffee>T</color>sun<color=#00ffee>M</color>iku<color=#00ffee>VT</color>ⓩTsunMikuVTⓔ
