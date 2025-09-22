@@ -9,6 +9,8 @@ Sayaka (DR1)
 Yui (Novel)
 Aloysius (UDG)
 Tsumugi (V3)
+Jill (Fan)
+Brock (Fan)
 
 Bomb (Item)
 Gun (Item)
