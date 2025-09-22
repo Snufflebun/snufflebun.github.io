@@ -1,15 +1,19 @@
-Github: <color=green>Connected</color>     <b>V4.1.0</b>
+Github: <color=green>Connected</color>     <b>V4.2.0</b>
 
-<b>18th Aug</b>
-Walkthrough updated.
-Added new section: Hundred Line.
-Added new Aura: Infection.
-Added Card: Takemaru (100)
-Added Card: Yugamu (100)
-Added Card: Robo Justice (Other)
-Added Card: Rei (Novel)
+<b>22nd Sep</b>
+Community cards updated.
+Community items added (Off by default)
+Yugamu (100)
+Rei (Novel)
+Sayaka (DR1)
+Yui (Novel)
+Aloysius (UDG)
+Tsumugi (V3)
 
-A lot of items and cards were updated, please check the discord or wiki for the full list.
+Bomb (Item)
+Gun (Item)
+
+Walkthrough updated
 
 - - - -
 
