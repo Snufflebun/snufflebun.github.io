@@ -6,6 +6,7 @@ New Cards:
 Gaku Maruko (100)
 Kurara Oosunzuki (100)
 Norman Bates (Novel)
+Janet Rader (Fan)
 
 Cards Updated:
 Chisa (Anime)
@@ -23,6 +24,8 @@ Sonosuke (Anime)
 Monaca (DG)
 Ryoko (Novel)
 Amelia (community)
+Roka (Fan)
+Megumi (Fan)
 Defuser (item)
 
 Actions can be locked in during prenight now.
