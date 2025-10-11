@@ -1,21 +1,31 @@
-Github: <color=green>Connected</color>     <b>V4.2.0</b>
+Github: <color=green>Connected</color>     <b>V4.2.1</b>
 
-<b>22nd Sep</b>
-Community cards updated.
-Community items added (Off by default)
-Yugamu (100)
-Rei (Novel)
-Sayaka (DR1)
-Yui (Novel)
-Aloysius (UDG)
-Tsumugi (V3)
-Jill (Fan)
-Brock (Fan)
+<b>11th Oct</b>
 
-Bomb (Item)
-Gun (Item)
+New Cards:
+Gaku Maruko (100)
+Kurara Oosunzuki (100)
+Norman Bates (Novel)
 
-Walkthrough updated
+Cards Updated:
+Chisa (Anime)
+Daisaku (Anime)
+Great Gozu (Anime)
+Kazua (Anime)
+Koichi (Anime)
+Juzo (Anime)
+Kyosuke (Anime)
+Miaya (Anime)
+Ruruka (Anime)
+Ryota (Anime)
+Seiko (Anime)
+Sonosuke (Anime)
+Monaca (DG)
+Ryoko (Novel)
+Amelia (community)
+Defuser (item)
+
+Actions can be locked in during prenight now.
 
 - - - -
 
