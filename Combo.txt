@@ -1,34 +1,21 @@
-Github: <color=green>Connected</color>     <b>V4.2.1</b>
+Github: <color=green>Connected</color>     <b>V4.2.2</b>
 
-<b>11th Oct</b>
+<b>3rd Nov</b>
 
 New Cards:
-Gaku Maruko (100)
-Kurara Oosunzuki (100)
-Norman Bates (Novel)
-Janet Rader (Fan)
+Eito (100)
+Takumi (100)
 
 Cards Updated:
-Chisa (Anime)
-Daisaku (Anime)
-Great Gozu (Anime)
-Kazua (Anime)
-Koichi (Anime)
-Juzo (Anime)
+Gaku (100)
+Asukasei (Tragedy)
+Kotomi (Tragedy)
 Kyosuke (Anime)
-Miaya (Anime)
-Ruruka (Anime)
-Ryota (Anime)
-Seiko (Anime)
-Sonosuke (Anime)
-Monaca (DG)
-Ryoko (Novel)
-Amelia (community)
-Roka (Fan)
-Megumi (Fan)
-Defuser (item)
-
-Actions can be locked in during prenight now.
+Celestia (DR1)
+Kazuo (UDG)
+Alchemist (Fan)
+Fast Pass (Item)
+Mask (Item)
 
 - - - -
 
