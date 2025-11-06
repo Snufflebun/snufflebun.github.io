@@ -251,3 +251,5 @@
 00<color=#212121>Dividing Zer</color><color=#871818>0</color>ⓩDividing Zer0ⓔ
 02<color=#F382C5>Baptism of Fire</color>ⓩBaptism of Fireⓔ
 00ⓩLuminescingNovaⓔ
+26<color=#A2E4B8>The Possum Lord</color>ⓩThe Possum Lordⓔ
+31<color=#19520b>jdthehero213</color>ⓩjdthehero213ⓔ
