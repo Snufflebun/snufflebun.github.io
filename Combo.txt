@@ -1,21 +1,22 @@
-Github: <color=green>Connected</color>     <b>V4.2.2</b>
+Github: <color=green>Connected</color>     <b>V4.2.3</b>
 
-<b>3rd Nov</b>
+<b>11th Dec</b>
 
 New Cards:
-Eito (100)
-Takumi (100)
+Tsubasa (100)
+Eva (100)
+Santa (Novel)
 
 Cards Updated:
-Gaku (100)
-Asukasei (Tragedy)
-Kotomi (Tragedy)
+Jin (Novel)
 Kyosuke (Anime)
-Celestia (DR1)
-Kazuo (UDG)
-Alchemist (Fan)
-Fast Pass (Item)
-Mask (Item)
+Fuyuhiko (DR2)
+Eito (100)
+Donut Box (Fan)
+Katana (Item)
+Gun (Item)
+
+Community cards and items updated.
 
 - - - -
 
