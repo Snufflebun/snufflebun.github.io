@@ -1,0 +1,429 @@
+<i>Glossary v1.0</i>
+<size=80%><i>Please send any issues or requests about the Glossary to the community Discord.</i></size>
+<size=80%><i>Assume every sentence in this Glossary ends with "unless stated otherwise."</i></size>
+<size=80%><i>For additional information, also check out the official Wiki (https://danganronpanext.wiki.gg/wiki/Glossary)</i></size>
+
+<size=115%><b>General Terms</b></size>
+<size=105%><b> Player </b></size>
+Each individual person who is currently playing the game.
+
+<size=105%><b> GM </b></size>
+<i>An abbreviation for "Game Master."</i>
+The GM is a person who is hosting the current Danganronpa Next game, and controls everything that is currently happening.
+
+<size=105%><b> Win </b></size>
+When used to describe a Trial, it is the specific way to describe which Side (Hope/Despair) is considered to have accomplished their goal that Trial.
+A Trial is considered a "Hope Win" if the Blackened of that Trial is Voted by a majority of Players.
+A Trial is considered a "Despair Win" if the Blackened is NOT Voted by a majority of Players, or if there is a tie on which Player is the majority Vote.
+If a Trial is considered a “Neutral Win,” it means that both sides have accomplished their goal that Trial (this can only happen in unique situations with specific Card Abilities).
+When used to describe a Player's "Win", it means that they have achieved their goal (or, Win Condition) this game, and are considered to have won the game when it’s over.
+
+<size=105%><b> Card </b></size>
+The term for the Characters each Player plays as in a game.
+
+<size=105%><b> Card Tags </b></size>
+Specific labels each Card has on them that help Players know what types of things that Card is capable of doing.
+The following Card Tags do not change anything about the Card: Information, Social Manipulation, Suppression, Protection, Killing, Turncoat, Card Draw, Obfuscation.
+
+<b>Mimic</b>
+A type of Card that is capable of copying or taking Abilities from other Cards.
+Any Card with the "Cannot be Mimicked" Tag is incapable of having their Abilities be copied or taken by a Mimic Card.
+
+<b>Limited</b>
+A unique Card Type that usually signifies a much stronger Card with a unique win condition.
+There can only be 1 Limited Card in an 8-9 Player Game, and only 2 in a 10-12 Player Game. There cannot be any Limited Cards in Games with less than 8 Players.
+
+<b>Hidden</b>
+A unique Card Type that signifies that that particular Card is not known to be in the current game at the beginning. Hidden Cards being in any Game must be announced once the game begins, but which Hidden Card(s) are in that game are not announced.
+There can only be 1 Hidden Card per game, but Hidden Cards cannot be in games with less than 8 Players.
+
+<b>Cannot be Mimicked</b>
+Any Card with the "Cannot be Mimicked" Tag is incapable of having their Abilities be copied or taken by a Mimic Card.
+
+<b>Cannot be Linked</b>
+Any Card with the "Cannot be Linked" Tag is incapable of being attached to any Ability that is considered a Special Link.
+
+<size=105%><b> Items </b></size>
+<size=90%><i>Keep in mind that Items are not considered "Cards", so anytime you see "Card" on an Ability, it is not referring to Items.</i></size>
+The physically interactable and movable utility tools Players are capable of drawing and using throughout a game.
+
+<size=105%><b> Role </b></size>
+A secret set of Abilities and unique Abilities each Player has, alongside their Card’s public Abilities.
+
+<b>Hope</b>
+The default Role every Player has. A Hope Player wins by surviving until the end of the Game, and having the Puppetmaster Lose (or having the Blackened lose during a Quick Game).
+
+<b>Blackened</b>
+A unique Role that is typically given to Players via the Puppetmaster. Blackends can only win by Hope not winning their Blackened Trial, and if the Puppetmaster doesn't lose (if it isn't a Quick Game).
+
+<b>Puppetmaster</b>
+<size=90%><i>Commonly shortend down to "PM."</i></size>
+A unique Role randomly given to a Player during the first Blackening Phase of the game. The Puppetmaster can only win if either Despair wins every Trial, or if they themselves are not voted out during the Puppetmaster Trial.
+
+<b>Founder</b>
+A unique Role randomly given to a Player during the first Blackening Phase of the game. The Founder has the same win condition as the default Hope Role.
+
+<b>Despair</b>
+A broad nonspecific Role. "Despair" consists of the Puppetmaster, any Blackeneds, and any Limited Cards that win if the Puppetmaster wins.
+
+<size=105%><b> Notes </b></size>
+Extra clarification for both Cards and Items that explains much more specific things about that particular thing. Notes are there so each Card/Item does not have 40 lines of text just to clarify every niche situation.
+
+<size=105%><b> Janitor </b></size>
+A temporary status given to a random Player every Night. The Janitor is brought out every Janitor 1 Phase and Janitor 2 Phase to reveal 1 Item on the Field, and is given the option to loot this Item after they reveal it.
+During the Day, any Player may ask the GM who the Janitor was last Night, and be told who it was.
+
+<size=105%><b> Game Room </b></size>
+The name of the big room with the rug in the middle where all the Dorms are located.
+
+<size=105%><b> Dorm </b></size>
+The location where all Players must stay during the Night. Every Player has a unique Dorm they must stay in, and this is the location Players can Lock In Actions, among other things at Night.
+A Dorm is required to have an Inventory, so any Card that doesn't have a Dorm also does not have an Inventory.
+
+<size=105%><b> Field </b></size>
+The name for this Game’s Discard Pile. Any Item that is Discarded will, by default, go onto the Field.
+The Field stretches across the entirety of the big red rug in the middle of the main game room, and Items cannot be Discarded anywhere outside of this area.
+
+
+<size=115%><b>Ability Terms</b></size>
+<size=105%><b> Active </b></size>
+An Ability that a Card has that needs to be Locked In during Action Phase to actually happen.
+
+<size=105%><b> Passsive </b></size>
+An Ability that a Card has that does not need to be Locked in during Action Phase to happen.
+Passives can either be effects/traits that last forever, or things that happen upon you requesting them to happen.
+
+<size=105%><b> Lock In </b></size>
+The act of choosing what Actions and Free Uses you are doing during Action Phase, and who those Actions and Free Uses will be targeting.
+If your Actions, Free Uses, or Targets are changed at anytime during Action Phase, whatever was changed is now considered what you are locking in.
+
+<size=105%><b> Use </b></size>
+A broad term for anytime any Ability or Item is being done by any player.
+
+<size=105%><b> Action </b></size>
+A specific move that a Player can make during Action Phase. Every player must lock in at least one every Night, but cannot lock in more than one without gaining the ability to do so through other means.
+Players cannot lock in more than 2 Actions through any means.
+
+<size=105%><b> Free Use </b></size>
+A type of Item that is capable of being used at Night without taking up one of your available Actions that Night. A max of 4 Free Uses can be used by a single Player every Night.
+Free Uses CAN be shortened down to just "Use," but only as a noun (any instance of "Use" as a verb is for the actual term Use).
+
+<size=105%><b> Target </b></size>
+The choice of which Player an Action or Free Use will be used on during Action Phase. Any choice of Players outside of Action Phase is not considered Targeting.
+
+<size=105%><b> Free Action </b></size>
+A type of Active Ability, or status that can be applied to an Ability/Item that makes it so it can be locked in despite another Action already being locked in.
+Non-Talk/Trade Free Actions are only able to be considered a "Free Action" if your other Action tonight is not that exact same Action.
+
+<size=105%><b> Visit </b></size>
+The confirmation that an Action or Free Use was successfully used on a Player. Visits are used exclusively for Players to receive correct Information on where a targeted Action or Free Use actually targeted once it finished happening.
+
+<size=105%><b> Talk/Trade </b></size>
+<size=90%><i>Pronounced "Talk and Trade."</i></size>
+A unique effect which gives you the ability to vocalize with another Player, typically at a time where doing so would be impossible, and gaining the ability to exchange Items between each other.
+Talk/Trades in Action Phase happen in the Talk/Traded to Player’s Dorm, and cannot have Items be exchanged until Shuffle Phase, however Talk/Trades in any other Phase happen in the Main Room, and allow for the immediate ability to exchange Items.
+
+<size=105%><b> Protect </b></size>
+The giving of an Immunity to a specific Player.
+
+<size=105%><b> Suppression </b></size>
+A type of Ability/Item that when used, typically causes a negative effect on the opposing Player. Every Ability and Item that is considered a Suppression directly states that it is one.
+
+<size=105%><b> Redirect </b></size>
+Changing the Target of an Action/Use to a different Player.
+
+<size=105%><b> Bring Out </b></size>
+The process of making a Player go to the Main Room through an Ability, Item, or effect taking place during the Night, usually to have them gain Information for or alongside you, or to learn about some benefit/deficit applied to them.
+
+<size=105%><b> Fail </b></size>
+When any Ability/Item just doesn’t work.
+When an Ability/Item Fails, it was still used. Whatever that Ability/Item does just doesn't happen anymore.
+
+<size=105%><b> Negate </b></size>
+When any Ability/Item doesn't work on a particular Player.
+Basically, a selective version of Failing.
+
+<size=105%><b> Action Cost </b></size>
+The term used to describe an Action taking up one of your available Actions tonight.
+You, by default, can only lock in 1 Action every Night, and each Action has 1 "Action Cost" (Free Actions allow you to lock in another Action alongside them, but they are still considered to have this same Action Cost).
+
+<size=105%><b> Command </b></size>
+Forcing another Player to do something as soon as they possibly can do it, in a very general sense of the word.
+(Examples: Talk/Trade to Player 2, Ignore Player 4, Discard an Item, Accuse Player 3 of being Blackened, Pretend you are a chicken)
+
+<size=115%><b>Item Terms</b></size>
+<size=105%><b> Color </b></size>
+The main category of Items that tells you when, where and how said Item can be used.
+<b>Red</b>
+Red Item can only be used as an Action during Action Phase.
+
+<b>Blue</b>
+Blue Items can only be used as a Free Use during Action Phase.
+
+<b>Purple</b>
+Purple Items can only be used as an Action during Action Phase, unless you are using the Item on yourself, in which it is a Free Use.
+
+<b>White</b>
+White Items can be used during the Day at anytime, however they can also be used during Action Phase as a Free Use.
+
+<b>Green</b>
+Green Items are unique Items only able to be made via fulfilling the exact criteria to create it (usually requiring you to be a specific Card). How Green Items are used depends on the Item.
+
+<b>Pink</b>
+Pink Items are "unofficial" Items, and could be considered to be modded Items. No Item is ever considered "Pink" through in-game mechanics, and are instead considered whatever Color the Pink Item states it is.
+
+<size=105%><b> Item Tags </b></size>
+Specific labels each Item has on them that usually explain restrictions or bonus effects that Item may have.
+The following Item Tags do not change anything about the Item, and are instead there to interact with other Abilities/Items: Avoidance, Electronic, Food, Information, Protection.
+
+<b>Suppression</b>
+Using this Item is considered using a Suppression.
+
+<b>Lethal Weapon</b>
+Using this Item is considered using something Lethal.
+
+<b>Automatically Used</b>
+This signifies that the Item has an effect on it that will cause it to be used in certain situations, even if the Player themselves did not choose to do it.
+
+<b>Blackened Only</b>
+Items with this Tag can only be used by a Player that currently has the Blackened Role.
+
+<b>Destroyed On Use</b>
+Items with this Tag are, as the Tag says, Destroyed whenever they are used. (They are destroyed in Shuffle Phase, however the Player Discards them like any other Item).
+
+<b>One Time Use</b>
+Items with this Tag cannot be used more than once. Meaning, a single Cake Item cannot be used, looted, and used again.
+Any attempt to loot a One Time Use Item that was already used will Destroy it.
+
+<b>Revealed On Use</b>
+Whenever this Item is Discarded after being used, it will be automatically revealed on the Field.
+
+<b>Uninvestigatable</b>
+This just means the Item is Uninvestigatable.
+
+<size=105%><b> Fronthand </b></size>
+The Inventory space in front of every Player’s Dorm. This inventory space can only hold onto up to 3 Items.
+You Items that are not in your Backhand or Hidden Decks are considered to be in your Fronthand.
+
+<size=105%><b> Backhand </b></size>
+The Inventory space to the side of every Player’s Dorm, represented as a big black box.
+Unless stated otherwise, no Abilities, Items, or anything from other Players can interact with, or see what Item is in your Backhand, or if there is even one there at all.
+Only a singular Item can be considered in your Backhand at a time, even when you currently have Overflow Items.
+
+<size=105%><b> Draw </b></size>
+Spawning in a random Item, which you will now own.
+
+<size=105%><b> Create </b></size>
+Creating a specific Item.
+The term “Gain” is used instead of Create sometimes, but both mean the same thing when referring to Items.
+
+<size=105%><b> Mulligan </b></size>
+A utility that all Players are capable of doing during Draw Phase, which allows them to draw an additional Item by Destroying 2 of their current Items.
+This can be done anytime during Draw Phase, and as many times as a Player wants (as long as they have 2 Items to Destroy).
+
+<size=105%><b> Reveal </b></size>
+The act of causing an Item anywhere to be visible and known to anyone who can see it. An Item that was revealed is considered a Revealed Item, and one that isn’t is referred to as an Unrevealed Item.
+
+<size=105%><b> Flip </b></size>
+A once per game ability every Player has that allows them to Reveal a single Item on the Field anytime they are outside of their Dorm.
+
+
+<size=105%><b> Move </b></size>
+The act of having an Item’s current owner, or physical location, be changed. There are many different types of "Moving."
+
+<b>Trade</b>
+A consensual agreement between two Players to have any number of Items in each other's Inventories to be moved between them.
+Trading can only be done under the conditions that both Players agree with the results of the Trade, or an Ability/Item forces them to agree with the results (which is then considered a Forced Trade).
+
+<b>Loot</b>
+The act of taking an unowned Item and adding it to your Inventory.
+
+<b>Steal</b>
+The act of taking an Item from someone else’s Inventory and adding it to your own.
+
+<b>Swap</b>
+Moving two specific Items (or sets of Items) where the other one was before it was Moved.
+Example: If you Swap Player 4 and 5's Fronthand Inventories, Player 5 will now have Player 4's Fronthand Items, and vice versa.
+
+<size=105%><b> Destroy </b></size>
+The act of removing an Item from existence. Destroying is enacted by the GM grabbing the in-game “Plunger” and clicking any Item to successfully remove it.
+
+<size=105%><b> Discard </b></size>
+Removing an Item from your Inventory, and placing it in the middle of the Main Room (on the big rug).
+Discarding at any point during the Night can only happen during Shuffle Phase.
+
+<size=105%><b> Weapon </b></size>
+A type of Item that is typically used for Eliminations. All Weapon Items are labeled as Weapons, any Item that isn’t labeled as one is not a Weapon.
+
+<size=105%><b> Overflow </b></size>
+Having more Items than you can hold in your Inventory. Having Overflow Items is allowed, however any Overflow Items must be discarded at the end of Draw Phase and Shuffle Phase.
+
+<size=105%><b> Hidden Deck </b></size>
+A unique Inventory owned by certain Cards that sits in front of their Fronthand, closer to the ground. Depending on the Card, this Inventory space has unique effects.
+
+<size=105%><b> Monomono Machine </b></size>
+The name of the device that spawns infront of everyones Dorm during Draw Phase.
+Via this machine, every Player is capable of drawing Items without the need of the GM.
+
+<size=115%><b>Status Terms</b></size>
+<size=105%><b> Alive </b></size>
+The default status a Player that is not currently Dead has.
+
+<size=105%><b> Dead </b></size>
+A status on a Player that causes them to no longer participate in the game via any means (including talking), and has all their Abilities no longer work (unless stated otherwise).
+
+<size=105%><b> Revive </b></size>
+The ability for a Player to remove the “dead” status from themselves or another Player.
+
+<size=105%><b> Roleblock </b></size>
+A status that causes a Player to no longer have any of their Abilities or Items happen for the rest of Action Phase.
+Roleblocked Players must also Discard any Items they Locked In tonight, and cannot interact/move any of their other Items for the rest of the Night.
+
+<size=105%><b> Knock Out </b></size>
+A status applied at Night that only affects the upcoming Day. A Knocked Out Player cannot leave their Dorm until another Player enters their Dorm, or Draw, Investigation, or Alibi Phase happens.
+The GM must announce, during the Day, if any Alive Players are Knocked Out.
+
+<size=105%><b> Immunity </b></size>
+Being unaffected by a specific type of thing in the game. (Such as, Immune to Roleblocks, Immune to Direct Eliminations, etc).
+If a Player Protects you from something, you are Immune to the thing you are protected from.
+
+<size=105%><b> Unkillable </b></size>
+A unique form of Immunity that cannot be bypassed by anything that does not specifically state that it bypasses this immunity.
+
+<size=105%><b> Sacrifice </b></size>
+When a Player causes a Player to not die via dying themselves.
+When a Player is Sacrificing themselves, nothing can prevent their death, including if a Sacrificing Card is currently Unkillable.
+
+<size=105%><b> Untargetable </b></size>
+When a Player is unable to be targeted by Actions or Free Uses. Attempting to target an Untargetable Player with an Action or Free Use causes that Action or Free Use to fail on that Player.
+
+<size=105%><b> Intangible </b></size>
+A type of Untargetability that cannot be bypassed by anything.
+
+<size=105%><b> Graduate </b></size>
+A status that causes a Player to have all the traits of being dead, however any Win Conditions they had before gaining this status will still allow them to Win.
+
+<size=105%><b> Special Link </b></size>
+A status that is given to other statuses which makes them unable to be applied to Cards that have the “Cannot Be Linked” Tag. All Special Links directly say they are Special Links.
+
+<size=105%><b> Fastest Speed </b></size>
+A trait specific Abilities have in Action Phase which causes them to always win Speedrolls they are a part of, no matter what.
+If two Fastest Speed Abilities are attempting to prevent each other, neither of those Abilities are considered Fastest Speed for that interaction.
+
+<size=105%><b> Uninvestigatable </b></size>
+A trait specific Abilities have that causes them to never be able to be learned as Information, even if a specific Ability/Item would have learned that it happened.
+
+<size=105%><b> Silence </b></size>
+A temporary status that causes a Player to be unable to communicate by most means during the Day (most importantly, they cannot use their voice).
+
+<size=115%><b>Killing Terms</b></size>
+<size=105%><b> Eliminate </b></size>
+Causing a Player to become Dead. Eliminate can be used as a noun/verb (Eliminate), or an adjective (Eliminated).
+Successfully Eliminating a Player is considered "murdering" that Player.
+
+<b>Direct Elimination</b>
+The more basic form of Elimination. Without the use of Items, almost all Eliminations will be Direct.
+
+<b>Indirect Elimination</b>
+A more special form of Elimination, typically via the use of Items.
+
+<size=105%><b> Reactive Attack </b></size>
+A passive effect that causes a Player to unwillingly prevent a Death by causing the Player attempting to Eliminate to Die instead.
+Reactive Attacks bypass any form of Protection (Immunities, Sacrifices and Unkillablility), and are not considered an Action or Free Use on the Player dying via one (which means they cannot be redirected).
+Reactive Attacks are not considered Direct or Indirect Elimination (they are just "an Elimination"). Reactive Attacks cannot be caused by someone else’s Reactive Attack.
+
+<size=105%><b> Execute </b></size>
+A unique form of Elimination that cannot be prevented by ANY means at all.
+Executions happen whenever a Blackened is the majority Vote in their own Trial, and are rarely if ever seen outside of this situation.
+
+<size=105%><b> Attack </b></size>
+The process of causing a Player to become dead during Killing Phase.
+
+<size=105%><b> Kill Limit </b></size>
+The maximum number of Deaths that can happen in a single Night or Day.
+The Kill Limit The maximum number of deaths that could happen each Night is 2. If more than two deaths are happening at Night, they are Speedrolled, with at least one kill from the PM chosen Blackened being required to win one of these rolls (if able), until only 2 of the deaths actually happen.
+The maximum number of deaths that could happen each Day/Trial is two, however:
+As the Blackened of each Trial is considered a death, only one other death is capable of happening. This means only one "You die if X" ability can take place this Trial. Which one takes place is based on which happens first, or a Speedroll if they both happen at the same time.
+If there are multiple Trials on the same day, one Player can die alongside the Blackened for each Trial.
+If the PM is the Blackened for a Trial, they are not considered dead after Trial, so two different "You die if X" abilities can cause deaths in this Trial.
+
+<size=115%><b>Other Terms</b></size>
+<size=105%><b> Allude </b></size>
+Any attempt to portray information deemed to be restricted, either through direct or indirect means.
+Willingly alluding when you aren't able to is considered cheating, and unwillingly (or accidentally) alluding will require the GM to make custom decisions on how to handle what was done.
+
+What is or isn't alluding is up to each Game's GM, so always ask them privately if you are unsure.
+
+<size=105%><b> Forced </b></size>
+Making a Player be required to do something specific, and be unable to avoid doing so.
+
+<size=105%><b> Willing </b></size>
+A descriptor for when a Player is actively responsible for, and in charge of what they themselves are doing.
+For example, if I Locked In a Talk/Trade on Player 4, I am willingly attempting to Talk/Trade to Player 4. However if I was redirected to Player 8, or my Action was changed to something else, I am now unwillingly Talk/Trading to Player 8, or unwillingly locking in whatever Action my previous one was changed to.
+If I am only capable of doing one specific Action at Night, with 0 other options, that Action is not considered an Action I am doing willingly.
+
+<size=105%><b> Private </b></size>
+A type of Information a Player receives that others do not, typically during the Day, or during any event where more than one Player is around. Private Information is given to a Player via telling them in their Dorm alone, or through texting it to them wherever it is convenient to do so.
+
+<size=105%><b> Information </b></size>
+<size=90%><i>Commonly shortened down to just "Info."</i></size>
+Any time you are informed by the GM who/what a Player is or is doing, or what they have. Things you learn from sources other than the GM’s words themselves are not considered “Info.”
+
+<size=105%><b> Learn </b></size>
+The act of gaining Information.
+
+<size=105%><b> Unblacken </b></size>
+Causing a Player to no longer have the Blackened Role (if they currently have it).
+
+<size=105%><b> Neighbors </b></size>
+The two living Players’ Dorms that are physically closest to the left and right of your own Dorm.
+If you are on Dorm 1 in a 12 Player game, and all Players are currently alive, Dorm 12 is considered your Neighbor.
+
+<size=105%><b> Interact </b></size>
+A broad term which means any form of doing something at all to something specific. Such as, you interacted with someone’s Item by stealing it, or you interacted with your own Item by moving it to a different Inventory slot.
+
+<size=105%><b> Lethal </b></size>
+A category of Actions/Free Uses that can cause someone to be dead. Anything Lethal is directly mentioned to be Lethal. Anything that isn’t mentioned to be Lethal is not Lethal.
+
+<size=105%><b> Turncoat </b></size>
+Eliminating while not having the Blackened Role. If you Turncoat and successfully cause a Player to be dead, you’ll become a Turncoat Blackened.
+
+<size=105%><b> Turncoat Blackened </b></size>
+Any Blackened that is caused via a non-Blackened Player Eliminating someone. Turncoat Blackeneds are considered Blackeneds.
+
+<size=105%><b> Disguise </b></size>
+When a Card appears as a different Card. Some Cards start the game Disguised, and you do so via asking to play their Disguise, and then privately informing the GM what your chosen Card actually is.
+
+<size=105%><b> Mind Control </b></size>
+The act of making a Player do anything of your choosing. When a Player is Mind Controlled in Action Phase, whatever they Locked In is capable of being changed to fit what they were made to do.
+
+<size=105%><b> Charge </b></size>
+A word to describe any time a specific ability is only capable of being used a limited amount of times. For example, if an Ability has 3 Ability Charges, it can only be used 3 times this Game, unless that Player gains extra Ability Charges through any means.
+
+<size=105%><b> Roll </b></size>
+Any time the GM “rolls a dice” to get a random number, for Abilities/Items that have random elements, or needs to create an order of operations.
+
+<size=105%><b> Faction </b></size>
+What specific "side" you are on currently, Hope or Despair. Every Player is considered to be on one of these or the other, but sometimes a Player can win on either Faction.
+
+<size=105%><b> Punishment </b></size>
+A requested set of changes or newly enforced rules that a Blackened is able to place upon the Game upon Graduating (if they didn't suicide). This Punishment will be a secret, but can be requested to be public.
+This can be anything, however if it removes Abilities, Gameplay, or all Communication, it can only affect up to 3 different Players. Punishments last until the end of next Trial that occurs after the day the Punishment is made.
+GMs must approve of a Punishment that is given, and should make sure said Punishment is not too unbalanced.
+
+<size=105%><b> Announce </b></size>
+The act of having all Players be informed of something.
+
+<size=105%><b> PM Hint </b></size>
+A random Player that a Player (or the whole Class) learns is not the Puppetmaster.
+The Puppetmaster cannot be randomly rolled as a PM Hint, but if, for any reason, the Puppetmaster themselves is forced to become a PM Hint, whoever is gaining that PM Hint will be told that they are the Puppetmaster.
+
+<size=105%><b> Protection Trial </b></size>
+A Type of Trial that is caused from a death being protected against. Refer to the “Protections” page in the Walkthrough for more info.
+
+<size=105%><b> Despair Trade </b></size>
+An Ability that all Blackeneds and the Puppetmaster have, where they can, once per game, destroy a single Item in their Inventory to create an Item of their choice.
+
+<size=105%><b> Monokuma File </b></size>
+A once per game piece of public information that is given to the Class if a majority of them request for it during a Trial.
+The Monokuma File will state if any Items from a specific group of Items was used by the killer, and if anything else important (from a list of important things) happened during this kill.
