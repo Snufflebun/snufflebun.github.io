@@ -1,22 +1,15 @@
-Github: <color=green>Connected</color>     <b>V4.2.3</b>
+Github: <color=green>Connected</color>     <b>V4.2.4</b>
 
-<b>11th Dec</b>
+<b>19th Jan</b>
+
+Added glossary to tablet.
 
 New Cards:
-Tsubasa (100)
-Eva (100)
-Santa (Novel)
+Shouma (100)
+Toranosuke (100)
 
 Cards Updated:
-Jin (Other)
-Kyosuke (Anime)
-Fuyuhiko (DR2)
-Eito (100)
-Donut Box (Item)
-Katana (Item)
-Gun (Item)
-
-Community cards and items updated.
+Check discord or wiki.
 
 - - - -
 
