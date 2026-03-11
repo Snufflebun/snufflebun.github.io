@@ -1,4 +1,4 @@
-<i>Glossary v1.0</i>
+<i>Glossary v1.01</i>
 <size=80%><i>Please send any issues or requests about the Glossary to the community Discord.</i></size>
 <size=80%><i>Assume every sentence in this Glossary ends with "unless stated otherwise."</i></size>
 <size=80%><i>For additional information, also check out the official Wiki (https://danganronpanext.wiki.gg/wiki/Glossary)</i></size>
@@ -125,6 +125,7 @@ Talk/Trades in Action Phase happen in the Talk/Traded to Player’s Dorm, and ca
 
 <size=105%><b> Protect </b></size>
 The giving of an Immunity to a specific Player.
+An Immunity a Protection gives a Player is only on that Player the Day or Night it was given.
 
 <size=105%><b> Suppression </b></size>
 A type of Ability/Item that when used, typically causes a negative effect on the opposing Player. Every Ability and Item that is considered a Suppression directly states that it is one.

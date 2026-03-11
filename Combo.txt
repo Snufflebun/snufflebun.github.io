@@ -1,15 +1,27 @@
-Github: <color=green>Connected</color>     <b>V4.2.4</b>
+Github: <color=green>Connected</color>     <b>V4.2.41</b>
 
-<b>19th Jan</b>
+<b>11th March</b>
 
-Added glossary to tablet.
+Updated community cards/items and glossary.
 
 New Cards:
-Shouma (100)
-Toranosuke (100)
+Xan Kai (Fan)
+Servant (UDG)
+Kyoshika (100)
 
 Cards Updated:
-Check discord or wiki.
+Sayaka (DR1)
+Sato (Other)
+Seiko (Anime)
+Cat (UDG)
+Takumi (Novel)
+Misaki (Novel)
+Briefcase (Item)
+Paladin (Fan)
+Perfumer (Fan)
+Locksmith (Fan)
+Criminologist (Fan)
+
 
 - - - -
 
