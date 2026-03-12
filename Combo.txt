@@ -1,13 +1,14 @@
-Github: <color=green>Connected</color>     <b>V4.2.41</b>
+Github: <color=green>Connected</color>     <b>V4.2.5</b>
 
-<b>11th March</b>
+<b>12th March</b>
 
 Updated community cards/items and glossary.
+Lil bug fix dw.
 
 New Cards:
 Xan Kai (Fan)
 Servant (UDG)
-Kyoshika (100)
+Kyoshika (100) (For real this time)
 
 Cards Updated:
 Sayaka (DR1)
