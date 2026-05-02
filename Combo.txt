@@ -1,28 +1,12 @@
-Github: <color=green>Connected</color>     <b>V4.2.5</b>
+Github: <color=green>Connected</color>     <b>V4.2.51</b>
 
-<b>12th March</b>
+<b>2nd May</b>
 
-Updated community cards/items and glossary.
-Lil bug fix dw.
+Partial Japanese translation added.
 
-New Cards:
-Xan Kai (Fan)
-Servant (UDG)
-Kyoshika (100) (For real this time)
-
-Cards Updated:
-Sayaka (DR1)
-Sato (Other)
-Seiko (Anime)
-Cat (UDG)
-Takumi (Novel)
-Misaki (Novel)
-Briefcase (Item)
-Paladin (Fan)
-Perfumer (Fan)
-Locksmith (Fan)
-Criminologist (Fan)
-
+Vampire (Fan) removed.
+Party Planner (Fan) added.
+Seamstress (Fan) updated.
 
 - - - -
 
