@@ -253,3 +253,6 @@
 00ⓩLuminescingNovaⓔ
 26<color=#A2E4B8>The Possum Lord</color>ⓩThe Possum Lordⓔ
 31<color=#19520b>jdthehero213</color>ⓩjdthehero213ⓔ
+00<color=#ffffff>Kashmoney124</color>ⓩKashmoney124ⓔ
+22<color=#13d7ed>Sir Skyfee</color>ⓩSir_Skyfeeⓔ
+00<color=#1ee650>Lute</color>ⓩLuteⓔ
