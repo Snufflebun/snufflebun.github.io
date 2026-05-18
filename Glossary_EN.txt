@@ -1,4 +1,4 @@
-<i>Glossary v1.01</i>
+<i>Glossary v1.2</i>
 <size=80%><i>Please send any issues or requests about the Glossary to the community Discord.</i></size>
 <size=80%><i>Assume every sentence in this Glossary ends with "unless stated otherwise."</i></size>
 <size=80%><i>For additional information, also check out the official Wiki (https://danganronpanext.wiki.gg/wiki/Glossary)</i></size>
@@ -26,15 +26,15 @@ Specific labels each Card has on them that help Players know what types of thing
 The following Card Tags do not change anything about the Card: Information, Social Manipulation, Suppression, Protection, Killing, Turncoat, Card Draw, Obfuscation.
 
 <b>Mimic</b>
-A type of Card that is capable of copying or taking Abilities from other Cards.
+A unique Card Tag that is capable of copying or taking Abilities from other Cards.
 Any Card with the "Cannot be Mimicked" Tag is incapable of having their Abilities be copied or taken by a Mimic Card.
 
 <b>Limited</b>
-A unique Card Type that usually signifies a much stronger Card with a unique win condition.
+A unique Card Tag that usually signifies a much stronger Card with a unique win condition.
 There can only be 1 Limited Card in an 8-9 Player Game, and only 2 in a 10-12 Player Game. There cannot be any Limited Cards in Games with less than 8 Players.
 
 <b>Hidden</b>
-A unique Card Type that signifies that that particular Card is not known to be in the current game at the beginning. Hidden Cards being in any Game must be announced once the game begins, but which Hidden Card(s) are in that game are not announced.
+A unique Card Tag that signifies that that particular Card is not known to be in the current game at the beginning. Hidden Cards being in any Game must be announced once the game begins, but which Hidden Card(s) are in that game are not announced.
 There can only be 1 Hidden Card per game, but Hidden Cards cannot be in games with less than 8 Players.
 
 <b>Cannot be Mimicked</b>
@@ -83,6 +83,10 @@ A Dorm is required to have an Inventory, so any Card that doesn't have a Dorm al
 <size=105%><b> Field </b></size>
 The name for this Game’s Discard Pile. Any Item that is Discarded will, by default, go onto the Field.
 The Field stretches across the entirety of the big red rug in the middle of the main game room, and Items cannot be Discarded anywhere outside of this area.
+
+<size=105%><b> Chapter </b></size>
+Each specific "round" of a Danganronpa Next game. The first Chapter begins as soon as the game begins, and each following chapter begins at the end of every Trial (where the previous Chapter also ends).
+Keep in mind that the ingame HUD's Chapter number might not accurately indicate what Chapter it actually is sometimes, and you should always refer to the above definition to know which Chapter it is.
 
 
 <size=115%><b>Ability Terms</b></size>
