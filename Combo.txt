@@ -1,8 +1,19 @@
-Github: <color=green>Connected</color>     <b>V4.2.6</b>
+Github: <color=green>Connected</color>     <b>V4.2.6a</b>
 
-<b>18th May</b>
+<b>17th June</b>
 
-Updated...
+DR2 added to Japanese translation.
+
+GM can now change actions and targets from the GM Panel.
+
+Cards changed:
+Morgan (fan)
+Awayuki (fan)
+Lilo (fan)
+Mio (fan)
+Hilda (fan)
+Genkin (fan)
+QOH (secret)
 
 - - - -
 
