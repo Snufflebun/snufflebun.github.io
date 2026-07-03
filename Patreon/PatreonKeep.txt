@@ -256,3 +256,4 @@
 00<color=#ffffff>Kashmoney124</color>ⓩKashmoney124ⓔ
 22<color=#13d7ed>Sir Skyfee</color>ⓩSir_Skyfeeⓔ
 00<color=#1ee650>Lute</color>ⓩLuteⓔ
+22<color=#4287f5>Voxium</color>ⓩVoxiumⓔ
