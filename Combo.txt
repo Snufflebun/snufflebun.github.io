@@ -1,20 +1,14 @@
-Github: <color=green>Connected</color>     <b>V4.2.6a</b>
+Github: <color=green>Connected</color>     <b>V4.2.7</b>
 
-<b>17th June</b>
+<b>6th July</b>
 
-DR2 added to Japanese translation.
+Large update added multiple cards to novel and one to hundred line.
+Fan cards updated.
+Founder updated.
 
-GM can now change actions and targets from the GM Panel.
+Check discord for the full update notes.
 
-Cards changed:
-Morgan (fan)
-Awayuki (fan)
-Lilo (fan)
-Mio (fan)
-Hilda (fan)
-Genkin (fan)
-QOH (secret)
-Community cards and items
+There will be another update in a week to finish the patch.
 
 - - - -
 
