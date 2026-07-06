@@ -1,4 +1,4 @@
-<i>Glossary v1.2</i>
+<i>Glossary v1.2.1</i>
 <size=80%><i>Please send any issues or requests about the Glossary to the community Discord.</i></size>
 <size=80%><i>Assume every sentence in this Glossary ends with "unless stated otherwise."</i></size>
 <size=80%><i>For additional information, also check out the official Wiki (https://danganronpanext.wiki.gg/wiki/Glossary)</i></size>
@@ -133,6 +133,7 @@ An Immunity a Protection gives a Player is only on that Player the Day or Night 
 
 <size=105%><b> Suppression </b></size>
 A type of Ability/Item that when used, typically causes a negative effect on the opposing Player. Every Ability and Item that is considered a Suppression directly states that it is one.
+Only Actions/Uses can be considered Suppressions, even if a Passive Ability would fall under the criteria that would make a Suppression.
 
 <size=105%><b> Redirect </b></size>
 Changing the Target of an Action/Use to a different Player.
@@ -301,6 +302,7 @@ When a Player is Sacrificing themselves, nothing can prevent their death, includ
 
 <size=105%><b> Untargetable </b></size>
 When a Player is unable to be targeted by Actions or Free Uses. Attempting to target an Untargetable Player with an Action or Free Use causes that Action or Free Use to fail on that Player.
+Untargetability is not considered an Immunity.
 
 <size=105%><b> Intangible </b></size>
 A type of Untargetability that cannot be bypassed by anything.
