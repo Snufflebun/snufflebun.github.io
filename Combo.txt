@@ -1,8 +1,9 @@
-Github: <color=green>Connected</color>     <b>V4.2.7a</b>
+Github: <color=green>Connected</color>     <b>V4.2.8</b>
 
-<b>8th Aug</b>
+<b>8th Oct</b>
 
-Fancards updated.
+Card/Items updated.
+UDG translated to Japanese.
 
 - - - -
 
